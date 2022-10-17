@@ -1,0 +1,255 @@
+id,x,y,cluster,weight<Links>,weight<Total link strength>,weight<Physics period first>,weight<Physics period second>,weight<Chemical period first>,weight<Chemical period second>,weight<Physio period first>,weight<Physio period second>
+Acoustics,-0.4751,-0.2914,5,253,38.1475,1,1,1,6,1,1
+Agricultural Economics & Policy,0.4263,-0.346,1,253,37.7265,1,1,1,1,1,1
+Agricultural Engineering,-0.619,0.0432,4,253,32.299,1,1,1,5,1,3
+"Agriculture, Dairy & Animal Science",-0.3429,0.4696,4,253,18.184,1,1,1,1,1,8
+"Agriculture, Multidisciplinary",-0.434,0.2284,4,253,38.5709,1,1,3,5,3,10
+Agronomy,-0.5122,0.2625,4,253,29.7517,1,1,1,5,1,24
+Allergy,0.0908,0.7531,2,253,34.0398,1,1,1,1,1,4
+Anatomy & Morphology,-0.0971,0.5042,2,253,49.9006,1,1,1,3,6,3
+Andrology,-0.0536,0.7097,2,253,42.2256,1,1,1,1,1,1
+Anesthesiology,0.2859,0.7629,2,253,19.3578,1,1,1,1,1,1
+Anthropology,0.6244,-0.1631,1,253,29.7864,1,1,1,1,89,29
+Archaeology,0.4443,-0.258,1,253,19.2528,1,1,1,1,21,15
+Architecture,0.4025,-0.3792,1,253,28.1142,1,1,1,1,1,1
+Area Studies,0.9699,-0.4181,1,253,37.1844,1,1,1,1,3,1
+Art,0.913,-0.387,1,253,14.8364,1,1,1,1,3,1
+Asian Studies,1.0579,-0.4051,1,253,23.289,1,1,1,1,3,1
+Astronomy & Astrophysics,-0.8694,-0.3681,3,253,9.8449,34,54,1,1,3,3
+Audiology & Speech-Language Pathology,0.0232,-0.0192,7,253,28.5048,1,1,1,1,1,1
+Automation & Control Systems,-0.5911,-0.6558,5,253,42.5354,1,5,1,1,1,1
+Behavioral Sciences,0.142,0.2851,7,253,56.9863,3,1,1,1,3,1
+Biochemical Research Methods,-0.4869,0.3949,4,253,65.1484,1,3,45,345,10,122
+Biochemistry & Molecular Biology,-0.4273,0.5245,4,253,59.0801,1,5,144,1210,52,208
+Biodiversity Conservation,-0.34,0.1215,4,253,42.3501,1,1,1,1,4,12
+Biology,-0.262,0.3572,4,253,77.1991,1,4,1,22,25,42
+Biophysics,-0.4481,0.4691,4,253,61.0905,1,6,11,77,1,10
+Biotechnology & Applied Microbiology,-0.4371,0.412,4,253,61.4429,1,1,14,85,11,217
+Business,0.6011,-0.4431,1,253,29.1307,1,1,1,1,1,1
+"Business, Finance",0.6506,-0.5311,1,253,25.1093,1,1,1,1,1,1
+Cardiac & Cardiovascular Systems,0.2275,0.8162,2,253,28.2352,1,1,1,5,1,9
+Cell & Tissue Engineering,-0.213,0.5227,2,253,72.0737,1,1,1,16,1,3
+Cell Biology,-0.3017,0.5543,4,253,64.1935,1,1,3,58,15,24
+"Chemistry, Analytical",-0.7714,0.16,3,253,32.3747,1,5,8,231,11,41
+"Chemistry, Applied",-0.8222,0.1497,3,253,54.1828,1,1,64,347,3,12
+"Chemistry, Inorganic & Nuclear",-1.0368,0.0324,3,253,28.7997,1,1,29,442,6,3
+"Chemistry, Medicinal",-0.4908,0.4756,4,253,55.6777,1,3,140,609,1,16
+"Chemistry, Multidisciplinary",-0.9438,0.0821,3,253,42.6865,8,17,421,3160,5,38
+"Chemistry, Organic",-0.9841,0.1517,3,253,25.2841,1,3,538,2110,1,4
+"Chemistry, Physical",-1.0375,-0.0954,3,253,46.0093,5,24,50,625,1,7
+Classics,1.1335,-0.4282,1,253,6.3714,1,1,1,1,1,1
+Clinical Neurology,0.3031,0.6013,2,253,41.0932,1,1,1,3,1,7
+Communication,0.8597,-0.2927,1,253,25.1137,1,1,1,1,1,4
+"Computer Science, Artificial Intelligence",-0.363,-0.5767,5,253,45.2568,1,18,3,1,1,10
+"Computer Science, Cybernetics",-0.1878,-0.4543,5,253,59.8112,1,4,1,1,1,3
+"Computer Science, Hardware & Architecture",-0.5414,-0.6979,5,253,42.3863,1,9,1,1,1,3
+"Computer Science, Information Systems",-0.3284,-0.6084,5,253,48.4702,1,39,7,6,1,10
+"Computer Science, Interdisciplinary Applications",-0.3073,-0.4118,5,253,73.5345,1,13,39,16,1,27
+"Computer Science, Software Engineering",-0.3763,-0.6628,5,253,34.1056,3,11,1,1,1,3
+"Computer Science, Theory & Methods",-0.3669,-0.6292,5,253,44.667,4,119,1,1,1,7
+Construction & Building Technology,-0.7186,-0.4346,6,253,30.0985,1,1,1,1,1,1
+Criminology & Penology,0.8556,-0.0992,1,253,22.911,1,1,1,1,1,1
+Critical Care Medicine,0.2898,0.794,2,253,40.7124,1,1,1,1,1,1
+Crystallography,-1.0222,-0.0438,3,253,39.1046,1,1,8,45,1,1
+Cultural Studies,1.0698,-0.3775,1,253,46.4292,1,1,1,1,1,1
+Dance,1.014,-0.2741,1,253,15.596,1,1,1,1,1,1
+Demography,0.7501,-0.1603,1,253,36.7155,1,1,1,1,1,3
+"Dentistry, Oral Surgery & Medicine",0.051,0.6289,2,253,12.5157,1,1,1,11,3,7
+Dermatology,0.0827,0.7558,2,253,20.8816,1,1,1,1,1,5
+Development Studies,0.6851,-0.409,1,253,43.7774,1,1,1,1,1,1
+Developmental Biology,-0.2513,0.4699,4,253,55.8777,1,1,1,7,3,3
+Ecology,-0.3721,0.144,4,253,41.0119,1,3,1,3,12,88
+Economics,0.661,-0.5061,1,253,31.9037,3,5,1,1,3,3
+Education & Educational Research,0.7977,-0.202,1,253,25.1306,1,1,1,1,1,1
+"Education, Scientific Disciplines",0.0874,-0.0139,7,253,49.8617,24,16,3,4,4,3
+"Education, Special",0.7078,0.0905,7,253,27.9051,1,1,1,1,1,1
+Electrochemistry,-1.0432,-0.1345,3,253,40.1428,1,1,3,48,1,5
+Emergency Medicine,0.354,0.7607,2,253,39.5498,1,1,1,1,1,1
+Endocrinology & Metabolism,-0.0116,0.6752,2,253,44.3066,1,1,1,21,1,8
+Energy & Fuels,-0.7728,-0.4336,3,253,52.0119,1,5,1,26,1,6
+"Engineering, Aerospace",-0.7474,-0.4917,3,253,23.1571,1,1,1,3,1,1
+"Engineering, Biomedical",-0.223,0.2328,2,253,66.8956,1,1,4,85,1,14
+"Engineering, Chemical",-0.9365,-0.1514,3,253,37.366,1,5,3,153,1,13
+"Engineering, Civil",-0.6567,-0.4309,6,253,33.6631,1,1,1,1,1,1
+"Engineering, Electrical & Electronic",-0.6909,-0.6617,5,253,45.0418,4,77,1,15,1,14
+"Engineering, Environmental",-0.6451,-0.1113,6,253,48.9366,1,1,1,16,1,22
+"Engineering, Geological",-0.7299,-0.3468,6,253,20.417,1,1,1,1,1,1
+"Engineering, Industrial",-0.2832,-0.5166,5,253,58.0138,1,3,1,1,1,1
+"Engineering, Manufacturing",-0.7065,-0.5213,3,253,49.5685,1,1,1,4,1,1
+"Engineering, Marine",-0.6296,-0.4491,6,253,43.0885,1,1,1,1,1,1
+"Engineering, Mechanical",-0.8567,-0.4905,3,253,39.4789,1,1,3,7,1,1
+"Engineering, Multidisciplinary",-0.61,-0.462,5,253,73.9891,1,12,1,12,1,6
+"Engineering, Ocean",-0.6516,-0.3624,6,253,42.7754,1,1,1,1,1,1
+"Engineering, Petroleum",-0.8339,-0.2611,6,253,35.7129,1,1,1,1,1,1
+Entomology,-0.3822,0.313,4,253,18.8913,1,1,1,3,3,16
+Environmental Sciences,-0.4025,-0.0355,6,253,51.758,1,4,3,18,4,37
+Environmental Studies,0.2626,-0.3018,1,253,59.4252,1,1,1,1,1,5
+Ergonomics,0.2598,-0.1065,7,253,54.6513,1,1,1,1,1,1
+Ethics,0.6545,-0.046,1,253,53.6467,1,1,1,1,3,3
+Ethnic Studies,1.0115,-0.2914,1,253,48.6347,1,1,1,1,1,1
+Evolutionary Biology,-0.2906,0.2549,4,253,53.785,1,1,1,3,59,97
+Family Studies,0.8203,0.0754,7,253,41.4906,1,1,1,1,1,1
+"Film, Radio, Television",1.133,-0.3956,1,253,12.9,1,1,1,1,1,1
+Fisheries,-0.3988,0.2445,4,253,24.4316,1,1,1,1,1,12
+Folklore,1.0519,-0.3431,1,253,13.135,1,1,1,1,1,1
+Food Science & Technology,-0.4978,0.3588,4,253,28.7286,1,1,4,19,3,38
+Forestry,-0.43,0.0755,4,253,24.1323,1,1,1,1,1,8
+Gastroenterology & Hepatology,0.1245,0.7961,2,253,30.1424,1,1,1,3,1,14
+Genetics & Heredity,-0.2414,0.4661,4,253,54.6707,1,1,5,11,74,264
+Geochemistry & Geophysics,-0.6636,-0.1902,6,253,25.636,1,1,1,1,4,3
+Geography,0.4915,-0.3438,1,253,30.5308,1,1,1,1,4,3
+"Geography, Physical",-0.4202,-0.1472,6,253,45.6344,1,1,1,1,4,8
+Geology,-0.5933,-0.1407,6,253,27.9009,1,1,1,1,4,1
+"Geosciences, Multidisciplinary",-0.5911,-0.1902,6,253,36.598,1,1,1,1,14,12
+Geriatrics & Gerontology,0.2628,0.5725,2,253,66.3439,1,1,1,1,1,4
+Gerontology,0.5192,0.4174,2,253,46.304,1,1,1,1,1,1
+Green & Sustainable Science & Technology,-0.3992,-0.2959,6,253,67.5268,1,1,6,94,1,9
+Health Care Sciences & Services,0.4064,0.5252,2,253,61.7024,1,1,1,1,1,4
+Health Policy & Services,0.4935,0.4324,2,253,60.0944,1,1,1,1,1,1
+Hematology,-0.0043,0.7336,2,253,39.5706,1,1,1,4,1,14
+History,1.1473,-0.442,1,253,23.4628,3,1,1,1,1,3
+History & Philosophy Of Science,0.3688,-0.1432,1,253,39.4907,20,72,1,1,3,16
+History Of Social Sciences,0.9098,-0.419,1,253,43.9248,1,1,1,1,1,3
+Horticulture,-0.5287,0.3218,4,253,22.6938,1,1,1,1,1,11
+"Hospitality, Leisure, Sport & Tourism",0.6862,-0.2518,1,253,30.3807,1,1,1,1,1,1
+"Humanities, Multidisciplinary",1.046,-0.3769,1,253,44.8247,3,1,1,1,1,1
+Imaging Science & Photographic Technology,-0.571,-0.5192,5,253,52.2555,1,3,1,1,1,5
+Immunology,-0.1189,0.6479,2,253,50.3162,1,1,1,22,8,33
+Industrial Relations & Labor,0.7929,-0.417,1,253,34.2531,1,1,1,1,1,1
+Infectious Diseases,0.0868,0.6469,2,253,53.2387,1,1,1,12,1,30
+Information Science & Library Science,0.3125,-0.2829,1,253,22.1111,1,3,1,1,4,4
+Instruments & Instrumentation,-0.8366,-0.4233,3,253,58.0801,11,8,1,29,1,17
+Integrative & Complementary Medicine,-0.0093,0.5742,2,253,67.9263,1,5,1,3,1,1
+International Relations,0.8834,-0.42,1,253,26.2946,1,1,1,1,1,1
+Language & Linguistics,1.0033,-0.3308,1,253,19.3706,1,3,1,1,6,3
+Law,0.8592,-0.2688,1,253,15.1392,1,1,1,1,1,1
+Limnology,-0.4997,0.0123,6,253,41.9361,1,1,1,1,1,4
+Linguistics,0.8648,-0.2502,1,253,22.0533,1,3,1,1,6,1
+Literary Reviews,1.1232,-0.3894,1,253,29.2928,3,1,1,1,3,1
+Literary Theory & Criticism,1.2394,-0.4334,1,253,30.2817,1,1,1,1,1,1
+Literature,1.2693,-0.4424,1,253,25.5823,1,1,1,1,4,3
+"Literature, African, Australian, Canadian",1.2704,-0.4524,1,253,20.3237,1,1,1,1,1,1
+"Literature, American",1.2778,-0.4559,1,253,18.7424,1,1,1,1,1,1
+"Literature, British Isles",1.3033,-0.4585,1,253,19.0715,1,1,1,1,1,1
+"Literature, German, Dutch, Scandinavian",1.239,-0.4418,1,253,16.2028,1,1,1,1,1,1
+"Literature, Romance",1.2454,-0.4416,1,253,17.2656,1,1,1,1,1,1
+"Literature, Slavic",1.1939,-0.4254,1,253,15.5914,1,1,1,1,1,1
+Logic,-0.1355,-0.6113,5,253,22.2,1,5,1,1,1,1
+Management,0.5178,-0.4501,1,253,34.3582,1,3,1,1,1,3
+Marine & Freshwater Biology,-0.4453,0.178,4,253,35.2174,1,1,1,4,1,31
+"Materials Science, Biomaterials",-0.6125,0.262,3,253,59.355,1,1,4,182,1,5
+"Materials Science, Ceramics",-1.0974,-0.2838,3,253,31.8703,1,1,1,1,1,1
+"Materials Science, Characterization & Testing",-0.9789,-0.3643,3,253,50.9334,1,1,1,5,1,1
+"Materials Science, Coatings & Films",-1.1154,-0.3068,3,253,44.0378,1,1,1,27,1,1
+"Materials Science, Composites",-1.0303,-0.3333,3,253,33.0966,1,1,1,16,1,1
+"Materials Science, Multidisciplinary",-1.0367,-0.2772,3,253,55.0905,1,53,32,529,4,15
+"Materials Science, Paper & Wood",-0.8038,-0.0177,3,253,14.5246,1,1,1,12,1,4
+"Materials Science, Textiles",-0.8396,-0.0877,3,253,22.4966,1,1,1,28,1,1
+Mathematical & Computational Biology,-0.2475,0.1213,4,253,83.2825,1,4,1,7,3,71
+Mathematics,-0.3572,-0.5743,5,253,12.6569,5,14,1,1,1,3
+"Mathematics, Applied",-0.44,-0.575,5,253,24.386,3,28,1,1,1,4
+"Mathematics, Interdisciplinary Applications",-0.3463,-0.4345,5,253,67.4811,5,26,1,1,1,6
+Mechanics,-0.8469,-0.4342,3,253,38.7672,1,19,1,3,1,3
+Medical Ethics,0.4292,0.4152,2,253,62.1024,1,1,1,1,1,1
+Medical Informatics,0.1051,0.2318,2,253,75.3702,1,1,1,3,1,5
+Medical Laboratory Technology,-0.0504,0.6989,2,253,53.4135,1,1,1,1,1,20
+"Medicine, General & Internal",0.3245,0.7324,2,253,60.0383,1,1,3,3,6,23
+"Medicine, Legal",0.0936,0.4051,2,253,27.5642,1,1,1,1,12,16
+"Medicine, Research & Experimental",-0.057,0.624,2,253,83.9792,1,3,1,48,9,38
+Medieval & Renaissance Studies,1.2087,-0.4535,1,253,20.3474,1,1,1,1,1,1
+Metallurgy & Metallurgical Engineering,-1.0864,-0.3316,3,253,28.1083,1,1,1,15,1,1
+Meteorology & Atmospheric Sciences,-0.5452,-0.1942,6,253,19.5966,1,1,1,3,3,3
+Microbiology,-0.312,0.5462,4,253,45.5973,1,1,1,41,3,227
+Microscopy,-0.6347,0.115,3,253,62.2723,1,1,1,1,1,3
+Mineralogy,-0.7632,-0.1718,6,253,26.6384,1,1,1,3,1,1
+Mining & Mineral Processing,-0.7795,-0.279,6,253,36.7504,1,1,1,1,1,1
+Multidisciplinary Sciences,-0.3397,0.1808,4,253,89.5301,27,207,14,211,54,149
+Music,0.9296,-0.2842,1,253,9.1747,1,3,1,1,1,1
+Mycology,-0.4083,0.4582,4,253,27.8745,1,1,1,3,3,15
+Nanoscience & Nanotechnology,-0.9394,-0.1774,3,253,66.4874,1,23,16,368,1,33
+Neuroimaging,0.1942,0.4727,2,253,41.8136,1,1,1,1,1,1
+Neurosciences,0.0696,0.4101,2,253,49.206,3,10,1,19,3,13
+Nuclear Science & Technology,-0.8899,-0.2778,3,253,23.5536,1,1,1,7,4,1
+Nursing,0.5069,0.5205,2,253,32.4592,1,1,1,1,1,1
+Nutrition & Dietetics,0.0122,0.5757,2,253,45.2031,1,1,1,7,3,9
+Obstetrics & Gynecology,0.2315,0.7322,2,253,30.7673,1,1,1,1,3,4
+Oceanography,-0.5411,-0.0687,6,253,30.6744,1,1,1,1,1,8
+Oncology,-0.0462,0.7266,2,253,41.5162,1,1,3,20,1,52
+Operations Research & Management Science,-0.0394,-0.5639,5,253,42.4079,3,6,1,3,1,3
+Ophthalmology,0.089,0.5694,2,253,12.3334,1,1,1,1,1,9
+Optics,-0.9067,-0.4249,3,253,36.5596,120,844,4,16,1,5
+Ornithology,-0.3213,0.1915,4,253,16.9748,1,1,1,1,3,3
+Orthopedics,0.2532,0.7687,2,253,22.8293,1,1,1,1,1,5
+Otorhinolaryngology,0.2079,0.6655,2,253,24.2679,1,1,1,1,1,4
+Paleontology,-0.4363,0.0013,6,253,27.0708,1,1,1,1,5,6
+Parasitology,-0.1777,0.4963,4,253,33.9107,1,1,1,6,3,18
+Pathology,0.0034,0.7211,2,253,52.5255,1,1,1,1,1,18
+Pediatrics,0.314,0.6933,2,253,42.9805,1,1,1,1,3,5
+Peripheral Vascular Disease,0.1531,0.7661,2,253,47.1502,1,1,1,3,1,1
+Pharmacology & Pharmacy,-0.1612,0.5942,2,253,57.8857,1,3,59,227,3,21
+Philosophy,0.9072,-0.354,1,253,15.7248,20,18,1,1,1,4
+"Physics, Applied",-1.0218,-0.394,3,253,47.2668,22,200,12,171,3,18
+"Physics, Atomic, Molecular & Chemical",-1.0322,-0.1887,3,253,40.7069,85,594,6,66,1,3
+"Physics, Condensed Matter",-1.0716,-0.3536,3,253,41.7928,5,87,12,111,1,7
+"Physics, Fluids & Plasmas",-0.9352,-0.398,3,253,31.1479,3,1,1,3,1,9
+"Physics, Mathematical",-0.7916,-0.4223,3,253,35.3494,29,282,1,1,1,1
+"Physics, Multidisciplinary",-0.9583,-0.3645,3,253,35.6033,370,1105,3,16,1,3
+"Physics, Nuclear",-1.0354,-0.4431,3,253,17.5434,8,20,1,1,1,1
+"Physics, Particles & Fields",-1.0076,-0.4561,3,253,14.923,38,155,1,1,1,1
+Physiology,-0.1007,0.5309,2,253,53.0474,1,1,1,4,3,4
+Plant Sciences,-0.5207,0.3535,4,253,32.0401,1,1,5,18,1,90
+Poetry,1.3064,-0.4629,1,253,15.0223,1,1,1,1,1,1
+Political Science,0.9793,-0.4271,1,253,26.7016,3,1,1,1,1,3
+Polymer Science,-1.02,-0.0676,3,253,24.2314,1,1,132,1178,1,4
+Primary Health Care,0.4105,0.6966,2,253,54.4557,1,1,1,1,1,1
+Psychiatry,0.5818,0.3919,7,253,37.6384,1,1,1,3,1,5
+Psychology,0.4997,0.2009,7,253,51.9663,1,3,1,1,1,1
+"Psychology, Applied",0.7019,-0.083,7,253,34.6987,1,1,1,1,1,1
+"Psychology, Biological",0.2578,0.1975,7,253,48.2859,3,1,1,1,1,1
+"Psychology, Clinical",0.7213,0.2471,7,253,34.8737,1,1,1,1,1,1
+"Psychology, Developmental",0.6951,0.1688,7,253,34.2288,1,1,1,1,1,1
+"Psychology, Educational",0.7906,-0.0313,7,253,29.2264,3,1,1,1,1,1
+"Psychology, Experimental",0.5023,0.0712,7,253,37.5725,6,5,1,1,5,1
+"Psychology, Mathematical",0.472,-0.0484,7,253,37.2631,3,12,1,1,1,1
+"Psychology, Multidisciplinary",0.6601,0.0633,7,253,46.6639,6,6,1,1,1,3
+"Psychology, Psychoanalysis",0.813,0.1618,7,253,10.4386,1,1,1,1,1,1
+"Psychology, Social",0.7987,-0.0215,7,253,27.8632,1,1,1,1,1,1
+Public Administration,0.7548,-0.3914,1,253,34.2585,1,1,1,1,1,1
+"Public, Environmental & Occupational Health",0.3611,0.448,2,253,57.094,1,1,1,1,1,8
+Quantum Science & Technology,-0.9511,-0.3942,3,253,48.9056,3,317,1,1,1,1
+"Radiology, Nuclear Medicine & Medical Imaging",0.0168,0.5664,2,253,26.8588,1,4,4,27,1,4
+Regional & Urban Planning,0.5378,-0.3987,1,253,48.9526,1,1,1,1,3,1
+Rehabilitation,0.4988,0.4095,2,253,38.9393,1,1,1,1,1,3
+Religion,1.0489,-0.3372,1,253,15.6153,4,1,1,1,1,5
+Remote Sensing,-0.5821,-0.4078,6,253,48.3696,1,1,1,3,1,3
+Reproductive Biology,-0.091,0.6382,2,253,38.5256,1,1,1,1,4,4
+Respiratory System,0.2106,0.7757,2,253,41.7046,1,1,1,1,1,3
+Rheumatology,0.2004,0.7314,2,253,24.4049,1,1,1,1,3,4
+Robotics,-0.4832,-0.5423,5,253,38.8232,1,4,1,3,1,3
+Social Issues,0.7202,-0.1225,1,253,71.2822,3,1,1,1,1,3
+"Social Sciences, Biomedical",0.5199,0.3358,2,253,69.8349,1,1,1,1,1,3
+"Social Sciences, Interdisciplinary",0.6985,-0.2085,1,253,72.4371,1,5,1,1,1,3
+"Social Sciences, Mathematical Methods",0.4674,-0.4244,1,253,41.0307,4,16,1,1,3,1
+Social Work,0.7906,0.0976,7,253,32.7484,1,1,1,1,1,1
+Sociology,0.9346,-0.2787,1,253,35.8025,1,1,1,1,1,3
+Soil Science,-0.5567,0.101,4,253,21.3748,1,1,1,1,4,16
+Spectroscopy,-0.9257,-0.0564,3,253,48.9283,3,7,4,33,3,5
+Sport Sciences,0.3155,0.5173,2,253,27.3297,1,1,1,1,1,1
+Statistics & Probability,-0.051,-0.3563,5,253,19.848,3,10,1,1,3,21
+Substance Abuse,0.5029,0.3972,7,253,42.6009,1,1,1,1,1,1
+Surgery,0.2272,0.839,2,253,32.8572,1,1,1,1,1,5
+Telecommunications,-0.6165,-0.7052,5,253,38.5491,1,23,1,1,1,4
+Theater,1.1884,-0.3962,1,253,13.391,1,1,1,1,1,1
+Thermodynamics,-0.9312,-0.3488,3,253,42.7244,1,1,1,6,1,1
+Toxicology,-0.2055,0.4619,4,253,63.1405,1,1,1,11,3,14
+Transplantation,0.1151,0.8085,2,253,46.8504,1,1,1,1,1,1
+Transportation,0.2304,-0.3804,1,253,37.1689,1,1,1,1,1,1
+Transportation Science & Technology,-0.434,-0.6064,5,253,47.7443,1,1,1,1,1,1
+Tropical Medicine,0.1311,0.5507,2,253,55.0237,1,1,1,4,1,10
+Urban Studies,0.5982,-0.379,1,253,40.1274,1,1,1,1,1,3
+Urology & Nephrology,0.1567,0.821,2,253,24.5351,1,1,1,3,1,4
+Veterinary Sciences,-0.1939,0.5768,4,253,18.9051,1,1,1,4,1,16
+Virology,-0.233,0.5188,4,253,41.5145,1,1,3,17,3,36
+Water Resources,-0.5342,-0.1558,6,253,40.313,1,1,1,1,1,10
+Women's Studies,0.9354,-0.1602,1,253,49.2682,1,1,1,1,1,1
+Zoology,-0.2856,0.3083,4,253,36.6775,1,1,1,1,5,24
