@@ -1,0 +1,663 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": "네덜란드",
+				"x": -0.8981,
+				"y": -0.0235,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 2.7598,
+					"Total Docs": 355.0000,
+					"Total Collab Docs": 225.0000
+				}
+			},
+			{
+				"id": "노르웨이",
+				"x": -0.1653,
+				"y": 0.2094,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 1.8701,
+					"Total Docs": 484.0000,
+					"Total Collab Docs": 238.0000
+				}
+			},
+			{
+				"id": "대만",
+				"x": 1.1112,
+				"y": 0.4090,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 0.2637,
+					"Total Docs": 233.0000,
+					"Total Collab Docs": 57.0000
+				}
+			},
+			{
+				"id": "덴마크",
+				"x": -0.3001,
+				"y": -0.0211,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 2.7144,
+					"Total Docs": 573.0000,
+					"Total Collab Docs": 300.0000
+				}
+			},
+			{
+				"id": "독일",
+				"x": -0.5480,
+				"y": -0.1107,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 2.3329,
+					"Total Docs": 612.0000,
+					"Total Collab Docs": 252.0000
+				}
+			},
+			{
+				"id": "미국",
+				"x": 0.4918,
+				"y": 0.0746,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 3.2668,
+					"Total Docs": 1142.0000,
+					"Total Collab Docs": 485.0000
+				}
+			},
+			{
+				"id": "벨기에",
+				"x": -1.0764,
+				"y": -0.0856,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 1.4881,
+					"Total Docs": 168.0000,
+					"Total Collab Docs": 103.0000
+				}
+			},
+			{
+				"id": "스페인",
+				"x": -1.0074,
+				"y": 0.1444,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 2.1202,
+					"Total Docs": 504.0000,
+					"Total Collab Docs": 232.0000
+				}
+			},
+			{
+				"id": "아일랜드",
+				"x": -0.5475,
+				"y": 0.0060,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 1.1135,
+					"Total Docs": 160.0000,
+					"Total Collab Docs": 110.0000
+				}
+			},
+			{
+				"id": "영국",
+				"x": -0.1674,
+				"y": -0.0186,
+				"cluster": 4,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 3.6612,
+					"Total Docs": 1265.0000,
+					"Total Collab Docs": 710.0000
+				}
+			},
+			{
+				"id": "이란",
+				"x": 0.4708,
+				"y": -0.3389,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 0.6425,
+					"Total Docs": 206.0000,
+					"Total Collab Docs": 82.0000
+				}
+			},
+			{
+				"id": "이탈리아",
+				"x": -0.8723,
+				"y": 0.0956,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 1.6721,
+					"Total Docs": 314.0000,
+					"Total Collab Docs": 168.0000
+				}
+			},
+			{
+				"id": "인도",
+				"x": 0.6340,
+				"y": -0.2594,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 0.3872,
+					"Total Docs": 220.0000,
+					"Total Collab Docs": 49.0000
+				}
+			},
+			{
+				"id": "일본",
+				"x": 1.1588,
+				"y": 0.0170,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 0.5862,
+					"Total Docs": 203.0000,
+					"Total Collab Docs": 96.0000
+				}
+			},
+			{
+				"id": "중국",
+				"x": 0.7353,
+				"y": 0.1461,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 3.5551,
+					"Total Docs": 2211.0000,
+					"Total Collab Docs": 797.0000
+				}
+			},
+			{
+				"id": "캐나다",
+				"x": 0.5785,
+				"y": -0.3052,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 1.0453,
+					"Total Docs": 238.0000,
+					"Total Collab Docs": 135.0000
+				}
+			},
+			{
+				"id": "포르투갈",
+				"x": -1.2687,
+				"y": 0.1353,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 1.0130,
+					"Total Docs": 148.0000,
+					"Total Collab Docs": 81.0000
+				}
+			},
+			{
+				"id": "프랑스",
+				"x": -0.2696,
+				"y": -0.1582,
+				"cluster": 3,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 1.5648,
+					"Total Docs": 214.0000,
+					"Total Collab Docs": 130.0000
+				}
+			},
+			{
+				"id": "한국",
+				"x": 0.8986,
+				"y": -0.0507,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 1.0097,
+					"Total Docs": 377.0000,
+					"Total Collab Docs": 99.0000
+				}
+			},
+			{
+				"id": "호주",
+				"x": 1.0420,
+				"y": 0.1345,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 0.8688,
+					"Total Docs": 216.0000,
+					"Total Collab Docs": 164.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": "네덜란드",
+				"target_id": "노르웨이",
+				"strength": 0.2161
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "덴마크",
+				"strength": 0.2309
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "독일",
+				"strength": 0.3612
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "미국",
+				"strength": 0.1998
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "벨기에",
+				"strength": 0.5649
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "스페인",
+				"strength": 0.1138
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "아일랜드",
+				"strength": 0.1271
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "영국",
+				"strength": 0.3353
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "이탈리아",
+				"strength": 0.1955
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "중국",
+				"strength": 0.1322
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "포르투갈",
+				"strength": 0.1778
+			},
+			{
+				"source_id": "네덜란드",
+				"target_id": "프랑스",
+				"strength": 0.1052
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "덴마크",
+				"strength": 0.2994
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "독일",
+				"strength": 0.1470
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "미국",
+				"strength": 0.2649
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "스페인",
+				"strength": 0.1787
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "영국",
+				"strength": 0.1654
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "이탈리아",
+				"strength": 0.1500
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "중국",
+				"strength": 0.3444
+			},
+			{
+				"source_id": "노르웨이",
+				"target_id": "한국",
+				"strength": 0.1042
+			},
+			{
+				"source_id": "대만",
+				"target_id": "미국",
+				"strength": 0.1323
+			},
+			{
+				"source_id": "대만",
+				"target_id": "중국",
+				"strength": 0.1314
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "독일",
+				"strength": 0.4219
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "미국",
+				"strength": 0.2726
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "벨기에",
+				"strength": 0.1707
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "스페인",
+				"strength": 0.1440
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "아일랜드",
+				"strength": 0.1762
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "영국",
+				"strength": 0.2557
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "이란",
+				"strength": 0.1020
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "이탈리아",
+				"strength": 0.1782
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "중국",
+				"strength": 0.2454
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "프랑스",
+				"strength": 0.1013
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "한국",
+				"strength": 0.1161
+			},
+			{
+				"source_id": "독일",
+				"target_id": "미국",
+				"strength": 0.2346
+			},
+			{
+				"source_id": "독일",
+				"target_id": "벨기에",
+				"strength": 0.1862
+			},
+			{
+				"source_id": "독일",
+				"target_id": "스페인",
+				"strength": 0.1820
+			},
+			{
+				"source_id": "독일",
+				"target_id": "영국",
+				"strength": 0.2648
+			},
+			{
+				"source_id": "독일",
+				"target_id": "이탈리아",
+				"strength": 0.1361
+			},
+			{
+				"source_id": "독일",
+				"target_id": "중국",
+				"strength": 0.1250
+			},
+			{
+				"source_id": "독일",
+				"target_id": "캐나다",
+				"strength": 0.1084
+			},
+			{
+				"source_id": "독일",
+				"target_id": "프랑스",
+				"strength": 0.1657
+			},
+			{
+				"source_id": "미국",
+				"target_id": "스페인",
+				"strength": 0.1491
+			},
+			{
+				"source_id": "미국",
+				"target_id": "아일랜드",
+				"strength": 0.1385
+			},
+			{
+				"source_id": "미국",
+				"target_id": "영국",
+				"strength": 0.2215
+			},
+			{
+				"source_id": "미국",
+				"target_id": "이란",
+				"strength": 0.1905
+			},
+			{
+				"source_id": "미국",
+				"target_id": "이탈리아",
+				"strength": 0.1471
+			},
+			{
+				"source_id": "미국",
+				"target_id": "일본",
+				"strength": 0.1112
+			},
+			{
+				"source_id": "미국",
+				"target_id": "중국",
+				"strength": 0.5018
+			},
+			{
+				"source_id": "미국",
+				"target_id": "캐나다",
+				"strength": 0.2267
+			},
+			{
+				"source_id": "미국",
+				"target_id": "프랑스",
+				"strength": 0.1274
+			},
+			{
+				"source_id": "미국",
+				"target_id": "한국",
+				"strength": 0.2282
+			},
+			{
+				"source_id": "미국",
+				"target_id": "호주",
+				"strength": 0.1206
+			},
+			{
+				"source_id": "벨기에",
+				"target_id": "영국",
+				"strength": 0.1405
+			},
+			{
+				"source_id": "벨기에",
+				"target_id": "이탈리아",
+				"strength": 0.1216
+			},
+			{
+				"source_id": "벨기에",
+				"target_id": "포르투갈",
+				"strength": 0.1314
+			},
+			{
+				"source_id": "벨기에",
+				"target_id": "프랑스",
+				"strength": 0.1728
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "아일랜드",
+				"strength": 0.1252
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "영국",
+				"strength": 0.3992
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "이탈리아",
+				"strength": 0.2431
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "포르투갈",
+				"strength": 0.4815
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "프랑스",
+				"strength": 0.1036
+			},
+			{
+				"source_id": "아일랜드",
+				"target_id": "영국",
+				"strength": 0.3793
+			},
+			{
+				"source_id": "아일랜드",
+				"target_id": "프랑스",
+				"strength": 0.1672
+			},
+			{
+				"source_id": "영국",
+				"target_id": "이란",
+				"strength": 0.1409
+			},
+			{
+				"source_id": "영국",
+				"target_id": "이탈리아",
+				"strength": 0.2316
+			},
+			{
+				"source_id": "영국",
+				"target_id": "중국",
+				"strength": 0.6540
+			},
+			{
+				"source_id": "영국",
+				"target_id": "캐나다",
+				"strength": 0.1034
+			},
+			{
+				"source_id": "영국",
+				"target_id": "프랑스",
+				"strength": 0.2172
+			},
+			{
+				"source_id": "영국",
+				"target_id": "호주",
+				"strength": 0.1524
+			},
+			{
+				"source_id": "이란",
+				"target_id": "캐나다",
+				"strength": 0.2091
+			},
+			{
+				"source_id": "이탈리아",
+				"target_id": "포르투갈",
+				"strength": 0.1200
+			},
+			{
+				"source_id": "이탈리아",
+				"target_id": "프랑스",
+				"strength": 0.1489
+			},
+			{
+				"source_id": "인도",
+				"target_id": "캐나다",
+				"strength": 0.1721
+			},
+			{
+				"source_id": "인도",
+				"target_id": "프랑스",
+				"strength": 0.1002
+			},
+			{
+				"source_id": "인도",
+				"target_id": "한국",
+				"strength": 0.1149
+			},
+			{
+				"source_id": "일본",
+				"target_id": "중국",
+				"strength": 0.3109
+			},
+			{
+				"source_id": "일본",
+				"target_id": "한국",
+				"strength": 0.1641
+			},
+			{
+				"source_id": "중국",
+				"target_id": "캐나다",
+				"strength": 0.2256
+			},
+			{
+				"source_id": "중국",
+				"target_id": "포르투갈",
+				"strength": 0.1023
+			},
+			{
+				"source_id": "중국",
+				"target_id": "프랑스",
+				"strength": 0.1553
+			},
+			{
+				"source_id": "중국",
+				"target_id": "한국",
+				"strength": 0.1566
+			},
+			{
+				"source_id": "중국",
+				"target_id": "호주",
+				"strength": 0.4702
+			},
+			{
+				"source_id": "한국",
+				"target_id": "호주",
+				"strength": 0.1256
+			}
+		]
+	}
+}

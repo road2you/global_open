@@ -1,0 +1,573 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": "대만",
+				"x": -1.0592,
+				"y": -0.2594,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 0.5176,
+					"Total Docs": 672.0000,
+					"Total Collab Docs": 125.0000
+				}
+			},
+			{
+				"id": "덴마크",
+				"x": 0.3127,
+				"y": -0.0434,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 0.8337,
+					"Total Docs": 316.0000,
+					"Total Collab Docs": 169.0000
+				}
+			},
+			{
+				"id": "독일",
+				"x": 0.6917,
+				"y": -0.0599,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 2.0494,
+					"Total Docs": 1112.0000,
+					"Total Collab Docs": 596.0000
+				}
+			},
+			{
+				"id": "러시아",
+				"x": 0.9186,
+				"y": -0.1452,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 0.9420,
+					"Total Docs": 322.0000,
+					"Total Collab Docs": 144.0000
+				}
+			},
+			{
+				"id": "멕시코",
+				"x": 1.1336,
+				"y": -0.2179,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 0.4555,
+					"Total Docs": 208.0000,
+					"Total Collab Docs": 82.0000
+				}
+			},
+			{
+				"id": "미국",
+				"x": -0.0660,
+				"y": 0.0558,
+				"cluster": 4,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 3.2545,
+					"Total Docs": 2676.0000,
+					"Total Collab Docs": 1170.0000
+				}
+			},
+			{
+				"id": "브라질",
+				"x": 1.0191,
+				"y": 0.1784,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 0.4194,
+					"Total Docs": 196.0000,
+					"Total Collab Docs": 80.0000
+				}
+			},
+			{
+				"id": "사우디",
+				"x": -1.2029,
+				"y": -0.1699,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 0.5038,
+					"Total Docs": 206.0000,
+					"Total Collab Docs": 187.0000
+				}
+			},
+			{
+				"id": "스페인",
+				"x": 1.0257,
+				"y": -0.1561,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 1.2608,
+					"Total Docs": 575.0000,
+					"Total Collab Docs": 273.0000
+				}
+			},
+			{
+				"id": "영국",
+				"x": 0.1806,
+				"y": -0.1011,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 1.3945,
+					"Total Docs": 820.0000,
+					"Total Collab Docs": 521.0000
+				}
+			},
+			{
+				"id": "이란",
+				"x": -0.2673,
+				"y": 0.1220,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 0.7801,
+					"Total Docs": 793.0000,
+					"Total Collab Docs": 285.0000
+				}
+			},
+			{
+				"id": "이탈리아",
+				"x": 0.9290,
+				"y": 0.0633,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 1.2534,
+					"Total Docs": 582.0000,
+					"Total Collab Docs": 267.0000
+				}
+			},
+			{
+				"id": "인도",
+				"x": -1.0266,
+				"y": -0.1290,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 1.1946,
+					"Total Docs": 873.0000,
+					"Total Collab Docs": 214.0000
+				}
+			},
+			{
+				"id": "일본",
+				"x": -0.8498,
+				"y": 0.0303,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 1.0401,
+					"Total Docs": 726.0000,
+					"Total Collab Docs": 254.0000
+				}
+			},
+			{
+				"id": "중국",
+				"x": -0.4586,
+				"y": -0.0885,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 3.6185,
+					"Total Docs": 5457.0000,
+					"Total Collab Docs": 1604.0000
+				}
+			},
+			{
+				"id": "캐나다",
+				"x": -0.3627,
+				"y": 0.3682,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 1.5767,
+					"Total Docs": 1028.0000,
+					"Total Collab Docs": 494.0000
+				}
+			},
+			{
+				"id": "터키",
+				"x": -0.4106,
+				"y": 0.5699,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 0.3882,
+					"Total Docs": 454.0000,
+					"Total Collab Docs": 123.0000
+				}
+			},
+			{
+				"id": "프랑스",
+				"x": 0.8055,
+				"y": 0.0782,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 1.6463,
+					"Total Docs": 939.0000,
+					"Total Collab Docs": 447.0000
+				}
+			},
+			{
+				"id": "한국",
+				"x": -0.8511,
+				"y": -0.1114,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 1.2729,
+					"Total Docs": 1679.0000,
+					"Total Collab Docs": 339.0000
+				}
+			},
+			{
+				"id": "호주",
+				"x": -0.4616,
+				"y": 0.0159,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 0.9476,
+					"Total Docs": 367.0000,
+					"Total Collab Docs": 250.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": "대만",
+				"target_id": "미국",
+				"strength": 0.1151
+			},
+			{
+				"source_id": "대만",
+				"target_id": "인도",
+				"strength": 0.1345
+			},
+			{
+				"source_id": "대만",
+				"target_id": "중국",
+				"strength": 0.2680
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "독일",
+				"strength": 0.1954
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "스페인",
+				"strength": 0.1304
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "이란",
+				"strength": 0.1002
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "이탈리아",
+				"strength": 0.1224
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "중국",
+				"strength": 0.1767
+			},
+			{
+				"source_id": "덴마크",
+				"target_id": "한국",
+				"strength": 0.1086
+			},
+			{
+				"source_id": "독일",
+				"target_id": "러시아",
+				"strength": 0.4506
+			},
+			{
+				"source_id": "독일",
+				"target_id": "미국",
+				"strength": 0.2203
+			},
+			{
+				"source_id": "독일",
+				"target_id": "스페인",
+				"strength": 0.1735
+			},
+			{
+				"source_id": "독일",
+				"target_id": "영국",
+				"strength": 0.1579
+			},
+			{
+				"source_id": "독일",
+				"target_id": "이탈리아",
+				"strength": 0.2106
+			},
+			{
+				"source_id": "독일",
+				"target_id": "중국",
+				"strength": 0.2046
+			},
+			{
+				"source_id": "독일",
+				"target_id": "캐나다",
+				"strength": 0.1769
+			},
+			{
+				"source_id": "독일",
+				"target_id": "프랑스",
+				"strength": 0.2596
+			},
+			{
+				"source_id": "러시아",
+				"target_id": "미국",
+				"strength": 0.1023
+			},
+			{
+				"source_id": "러시아",
+				"target_id": "스페인",
+				"strength": 0.1311
+			},
+			{
+				"source_id": "러시아",
+				"target_id": "중국",
+				"strength": 0.1082
+			},
+			{
+				"source_id": "러시아",
+				"target_id": "프랑스",
+				"strength": 0.1498
+			},
+			{
+				"source_id": "멕시코",
+				"target_id": "미국",
+				"strength": 0.1614
+			},
+			{
+				"source_id": "멕시코",
+				"target_id": "스페인",
+				"strength": 0.2941
+			},
+			{
+				"source_id": "미국",
+				"target_id": "브라질",
+				"strength": 0.1177
+			},
+			{
+				"source_id": "미국",
+				"target_id": "영국",
+				"strength": 0.1383
+			},
+			{
+				"source_id": "미국",
+				"target_id": "이란",
+				"strength": 0.1108
+			},
+			{
+				"source_id": "미국",
+				"target_id": "이탈리아",
+				"strength": 0.1324
+			},
+			{
+				"source_id": "미국",
+				"target_id": "인도",
+				"strength": 0.1759
+			},
+			{
+				"source_id": "미국",
+				"target_id": "일본",
+				"strength": 0.2238
+			},
+			{
+				"source_id": "미국",
+				"target_id": "중국",
+				"strength": 0.6701
+			},
+			{
+				"source_id": "미국",
+				"target_id": "캐나다",
+				"strength": 0.2762
+			},
+			{
+				"source_id": "미국",
+				"target_id": "터키",
+				"strength": 0.1529
+			},
+			{
+				"source_id": "미국",
+				"target_id": "프랑스",
+				"strength": 0.1272
+			},
+			{
+				"source_id": "미국",
+				"target_id": "한국",
+				"strength": 0.4192
+			},
+			{
+				"source_id": "미국",
+				"target_id": "호주",
+				"strength": 0.1109
+			},
+			{
+				"source_id": "브라질",
+				"target_id": "이탈리아",
+				"strength": 0.1642
+			},
+			{
+				"source_id": "브라질",
+				"target_id": "프랑스",
+				"strength": 0.1375
+			},
+			{
+				"source_id": "사우디",
+				"target_id": "인도",
+				"strength": 0.2100
+			},
+			{
+				"source_id": "사우디",
+				"target_id": "중국",
+				"strength": 0.1826
+			},
+			{
+				"source_id": "사우디",
+				"target_id": "한국",
+				"strength": 0.1112
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "영국",
+				"strength": 0.1326
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "이탈리아",
+				"strength": 0.2445
+			},
+			{
+				"source_id": "스페인",
+				"target_id": "프랑스",
+				"strength": 0.1546
+			},
+			{
+				"source_id": "영국",
+				"target_id": "이탈리아",
+				"strength": 0.1072
+			},
+			{
+				"source_id": "영국",
+				"target_id": "인도",
+				"strength": 0.1258
+			},
+			{
+				"source_id": "영국",
+				"target_id": "중국",
+				"strength": 0.4091
+			},
+			{
+				"source_id": "영국",
+				"target_id": "프랑스",
+				"strength": 0.1906
+			},
+			{
+				"source_id": "영국",
+				"target_id": "호주",
+				"strength": 0.1330
+			},
+			{
+				"source_id": "이란",
+				"target_id": "중국",
+				"strength": 0.2455
+			},
+			{
+				"source_id": "이란",
+				"target_id": "캐나다",
+				"strength": 0.1812
+			},
+			{
+				"source_id": "이란",
+				"target_id": "호주",
+				"strength": 0.1424
+			},
+			{
+				"source_id": "이탈리아",
+				"target_id": "프랑스",
+				"strength": 0.2721
+			},
+			{
+				"source_id": "인도",
+				"target_id": "일본",
+				"strength": 0.1716
+			},
+			{
+				"source_id": "인도",
+				"target_id": "캐나다",
+				"strength": 0.1169
+			},
+			{
+				"source_id": "인도",
+				"target_id": "한국",
+				"strength": 0.2599
+			},
+			{
+				"source_id": "일본",
+				"target_id": "중국",
+				"strength": 0.2037
+			},
+			{
+				"source_id": "일본",
+				"target_id": "캐나다",
+				"strength": 0.1242
+			},
+			{
+				"source_id": "일본",
+				"target_id": "한국",
+				"strength": 0.1977
+			},
+			{
+				"source_id": "일본",
+				"target_id": "호주",
+				"strength": 0.1191
+			},
+			{
+				"source_id": "중국",
+				"target_id": "캐나다",
+				"strength": 0.3213
+			},
+			{
+				"source_id": "중국",
+				"target_id": "프랑스",
+				"strength": 0.2102
+			},
+			{
+				"source_id": "중국",
+				"target_id": "한국",
+				"strength": 0.1763
+			},
+			{
+				"source_id": "중국",
+				"target_id": "호주",
+				"strength": 0.4422
+			},
+			{
+				"source_id": "캐나다",
+				"target_id": "터키",
+				"strength": 0.2353
+			},
+			{
+				"source_id": "캐나다",
+				"target_id": "프랑스",
+				"strength": 0.1447
+			}
+		]
+	}
+}
