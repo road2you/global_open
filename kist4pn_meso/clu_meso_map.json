@@ -4,12 +4,12 @@
 			{
 				"id": 1,
 				"label": "코로나바이러스 감염 메커니즘 및 환경 영향 연구와 대응 전략 개발",
-				"x": 0.2943,
-				"y": 0.4752,
+				"x": 0.2789,
+				"y": 0.4609,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.6349,
+					"Total link strength": 0.6347,
 					"Number of Cluters": 3.0000,
 					"Total Docs 20-23": 82884.0000
 				}
@@ -17,12 +17,12 @@
 			{
 				"id": 2,
 				"label": "지속가능한 수처리 및 환경오염 제어",
-				"x": 1.3068,
-				"y": 0.0943,
+				"x": 1.3659,
+				"y": 0.0877,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.2532,
+					"Total link strength": 1.2531,
 					"Number of Cluters": 12.0000,
 					"Total Docs 20-23": 91339.0000
 				}
@@ -30,25 +30,25 @@
 			{
 				"id": 3,
 				"label": "차세대 고성능 에너지 저장 시스템",
-				"x": 1.0718,
-				"y": -0.1772,
+				"x": 1.1093,
+				"y": -0.2120,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.2078,
+					"Total link strength": 1.2080,
 					"Number of Cluters": 10.0000,
 					"Total Docs 20-23": 84344.0000
 				}
 			},
 			{
 				"id": 4,
-				"label": "정밀 의학 기반 질병 치료 및 건강 증진",
-				"x": 0.7039,
-				"y": 0.4124,
+				"label": "정밀의학 기반 질병 치료 및 건강 증진",
+				"x": 0.7167,
+				"y": 0.4487,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.1740,
+					"Total link strength": 1.1739,
 					"Number of Cluters": 38.0000,
 					"Total Docs 20-23": 242533.0000
 				}
@@ -56,12 +56,12 @@
 			{
 				"id": 5,
 				"label": "친환경 고성능 건설재료 및 지속가능한 건설",
-				"x": 0.5253,
-				"y": -0.0360,
+				"x": 0.4848,
+				"y": -0.0271,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8071,
+					"Total link strength": 0.8072,
 					"Number of Cluters": 10.0000,
 					"Total Docs 20-23": 41329.0000
 				}
@@ -69,12 +69,12 @@
 			{
 				"id": 6,
 				"label": "딥러닝 기반 지능형 컴퓨터 비전 및 하드웨어 가속",
-				"x": -0.7580,
-				"y": 0.1095,
+				"x": -0.8180,
+				"y": 0.1633,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.4307,
+					"Total link strength": 1.4309,
 					"Number of Cluters": 6.0000,
 					"Total Docs 20-23": 36466.0000
 				}
@@ -82,11 +82,11 @@
 			{
 				"id": 7,
 				"label": "지속가능한 에너지 및 환경",
-				"x": 1.3136,
-				"y": -0.0794,
+				"x": 1.3961,
+				"y": -0.1079,
 				"cluster": 2,
 				"weights": {
-					"Links": 41.0000,
+					"Links": 42.0000,
 					"Total link strength": 1.2643,
 					"Number of Cluters": 12.0000,
 					"Total Docs 20-23": 112189.0000
@@ -95,12 +95,12 @@
 			{
 				"id": 8,
 				"label": "차세대 고성능 소재 및 소자",
-				"x": 0.9412,
-				"y": -0.1604,
+				"x": 0.9143,
+				"y": -0.1773,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.7920,
+					"Total link strength": 0.7924,
 					"Number of Cluters": 7.0000,
 					"Total Docs 20-23": 54504.0000
 				}
@@ -108,12 +108,12 @@
 			{
 				"id": 9,
 				"label": "인공지능 기반 자연어 처리 및 정보 분석",
-				"x": -0.9356,
-				"y": 0.2283,
+				"x": -0.9078,
+				"y": 0.2461,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.7995,
+					"Total link strength": 0.7998,
 					"Number of Cluters": 5.0000,
 					"Total Docs 20-23": 21234.0000
 				}
@@ -121,12 +121,12 @@
 			{
 				"id": 10,
 				"label": "지능형 자율 시스템 제어 및 최적화",
-				"x": -0.6270,
-				"y": -0.2088,
+				"x": -0.6352,
+				"y": -0.2388,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.1454,
+					"Total link strength": 1.1455,
 					"Number of Cluters": 8.0000,
 					"Total Docs 20-23": 35878.0000
 				}
@@ -134,12 +134,12 @@
 			{
 				"id": 11,
 				"label": "뇌-컴퓨터 인터페이스 및 생체신호 기반 인지·감정 분석",
-				"x": -0.7192,
-				"y": 0.1920,
+				"x": -0.7151,
+				"y": 0.1873,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9150,
+					"Total link strength": 0.9151,
 					"Number of Cluters": 10.0000,
 					"Total Docs 20-23": 42197.0000
 				}
@@ -147,8 +147,8 @@
 			{
 				"id": 12,
 				"label": "차세대 열관리 및 에너지 변환",
-				"x": 0.5135,
-				"y": -0.1268,
+				"x": 0.5182,
+				"y": -0.1474,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
@@ -160,12 +160,12 @@
 			{
 				"id": 13,
 				"label": "인공지능 기반 최적화 및 시뮬레이션",
-				"x": -0.4126,
-				"y": -0.1197,
+				"x": -0.4154,
+				"y": -0.1126,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9192,
+					"Total link strength": 0.9194,
 					"Number of Cluters": 5.0000,
 					"Total Docs 20-23": 21705.0000
 				}
@@ -173,8 +173,8 @@
 			{
 				"id": 14,
 				"label": "지속가능한 수처리 및 극한환경 대응",
-				"x": 1.1231,
-				"y": -0.0258,
+				"x": 1.1140,
+				"y": -0.0478,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
@@ -186,12 +186,12 @@
 			{
 				"id": 15,
 				"label": "차세대 고효율 전력전자 시스템 및 제어",
-				"x": -0.2135,
-				"y": -0.4787,
+				"x": -0.2350,
+				"y": -0.4705,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.6516,
+					"Total link strength": 0.6518,
 					"Number of Cluters": 7.0000,
 					"Total Docs 20-23": 22111.0000
 				}
@@ -199,12 +199,12 @@
 			{
 				"id": 16,
 				"label": "지속가능한 도시 환경을 위한 통합적 대기질 관리 및 건강 증진",
-				"x": -0.1007,
-				"y": 0.1622,
+				"x": -0.0950,
+				"y": 0.1769,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.0467,
+					"Total link strength": 1.0468,
 					"Number of Cluters": 5.0000,
 					"Total Docs 20-23": 39727.0000
 				}
@@ -212,12 +212,12 @@
 			{
 				"id": 17,
 				"label": "차세대 사이버보안 및 프라이버시 보호",
-				"x": -1.0804,
-				"y": -0.0222,
+				"x": -1.1228,
+				"y": -0.0067,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.1086,
+					"Total link strength": 1.1085,
 					"Number of Cluters": 10.0000,
 					"Total Docs 20-23": 35133.0000
 				}
@@ -225,12 +225,12 @@
 			{
 				"id": 18,
 				"label": "지속가능한 바이오매스 및 폐기물 자원화",
-				"x": 1.3140,
-				"y": 0.0610,
+				"x": 1.2937,
+				"y": 0.0593,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8875,
+					"Total link strength": 0.8874,
 					"Number of Cluters": 9.0000,
 					"Total Docs 20-23": 52403.0000
 				}
@@ -238,12 +238,12 @@
 			{
 				"id": 19,
 				"label": "지질공학 및 자원개발",
-				"x": 0.1893,
-				"y": -0.0258,
+				"x": 0.1786,
+				"y": -0.0108,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8392,
+					"Total link strength": 0.8391,
 					"Number of Cluters": 12.0000,
 					"Total Docs 20-23": 50191.0000
 				}
@@ -251,12 +251,12 @@
 			{
 				"id": 20,
 				"label": "고성능 영상 처리 및 분석",
-				"x": -0.9863,
-				"y": 0.1081,
+				"x": -0.9688,
+				"y": 0.1318,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8396,
+					"Total link strength": 0.8397,
 					"Number of Cluters": 8.0000,
 					"Total Docs 20-23": 19860.0000
 				}
@@ -264,12 +264,12 @@
 			{
 				"id": 21,
 				"label": "디지털 시대의 지속가능한 사회경제 혁신 전략",
-				"x": -0.4260,
-				"y": 0.2529,
+				"x": -0.4074,
+				"y": 0.2488,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.0043,
+					"Total link strength": 1.0044,
 					"Number of Cluters": 9.0000,
 					"Total Docs 20-23": 71506.0000
 				}
@@ -277,12 +277,12 @@
 			{
 				"id": 22,
 				"label": "지능형 시스템 진단 및 예측 기술",
-				"x": -0.5340,
-				"y": -0.1762,
+				"x": -0.5266,
+				"y": -0.1651,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8657,
+					"Total link strength": 0.8661,
 					"Number of Cluters": 5.0000,
 					"Total Docs 20-23": 20884.0000
 				}
@@ -290,8 +290,8 @@
 			{
 				"id": 23,
 				"label": "기능성 식품 및 천연물 기반 바이오소재 개발",
-				"x": 1.0799,
-				"y": 0.3499,
+				"x": 1.0909,
+				"y": 0.3558,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
@@ -303,12 +303,12 @@
 			{
 				"id": 24,
 				"label": "지능형 센싱 및 인식 기술",
-				"x": -0.8615,
-				"y": 0.0115,
+				"x": -0.8661,
+				"y": 0.0070,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.0045,
+					"Total link strength": 1.0043,
 					"Number of Cluters": 7.0000,
 					"Total Docs 20-23": 19734.0000
 				}
@@ -316,12 +316,12 @@
 			{
 				"id": 25,
 				"label": "나노기술 기반 생체 및 환경 응용",
-				"x": 1.1659,
-				"y": 0.1505,
+				"x": 1.2057,
+				"y": 0.1508,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.0511,
+					"Total link strength": 1.0512,
 					"Number of Cluters": 13.0000,
 					"Total Docs 20-23": 65556.0000
 				}
@@ -329,12 +329,12 @@
 			{
 				"id": 26,
 				"label": "첨단 소재 및 제조 기술",
-				"x": 0.4003,
-				"y": -0.1856,
+				"x": 0.3655,
+				"y": -0.1899,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9742,
+					"Total link strength": 0.9740,
 					"Number of Cluters": 13.0000,
 					"Total Docs 20-23": 72606.0000
 				}
@@ -342,12 +342,12 @@
 			{
 				"id": 27,
 				"label": "지능형 네트워크 및 클라우드 기반 스마트 인프라",
-				"x": -0.9917,
-				"y": -0.0531,
+				"x": -1.0487,
+				"y": -0.0634,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.2592,
+					"Total link strength": 1.2594,
 					"Number of Cluters": 6.0000,
 					"Total Docs 20-23": 27524.0000
 				}
@@ -355,8 +355,8 @@
 			{
 				"id": 28,
 				"label": "스마트 그리드 및 재생에너지 통합 최적화",
-				"x": -0.1120,
-				"y": -0.2317,
+				"x": -0.1231,
+				"y": -0.2810,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
@@ -368,12 +368,12 @@
 			{
 				"id": 29,
 				"label": "차세대 유연 전자소자 및 에너지 저장",
-				"x": 0.6924,
-				"y": -0.1394,
+				"x": 0.6812,
+				"y": -0.1702,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.2109,
+					"Total link strength": 1.2112,
 					"Number of Cluters": 8.0000,
 					"Total Docs 20-23": 44593.0000
 				}
@@ -381,12 +381,12 @@
 			{
 				"id": 30,
 				"label": "지능형 교통 시스템 및 자율주행 기반 모빌리티 혁신",
-				"x": -0.8666,
-				"y": -0.1083,
+				"x": -0.8675,
+				"y": -0.1157,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9982,
+					"Total link strength": 0.9984,
 					"Number of Cluters": 6.0000,
 					"Total Docs 20-23": 19813.0000
 				}
@@ -394,12 +394,12 @@
 			{
 				"id": 31,
 				"label": "차세대 지능형 무선통신 네트워크",
-				"x": -0.9008,
-				"y": -0.1893,
+				"x": -0.8841,
+				"y": -0.1956,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9531,
+					"Total link strength": 0.9532,
 					"Number of Cluters": 10.0000,
 					"Total Docs 20-23": 27239.0000
 				}
@@ -407,12 +407,12 @@
 			{
 				"id": 32,
 				"label": "차세대 디지털 미디어 보안 및 인증",
-				"x": -1.2624,
-				"y": 0.0911,
+				"x": -1.1611,
+				"y": 0.1165,
 				"cluster": 1,
 				"weights": {
-					"Links": 41.0000,
-					"Total link strength": 0.5194,
+					"Links": 42.0000,
+					"Total link strength": 0.5193,
 					"Number of Cluters": 4.0000,
 					"Total Docs 20-23": 8726.0000
 				}
@@ -420,8 +420,8 @@
 			{
 				"id": 33,
 				"label": "AI 및 IoT 기반 실시간 구조물 건전성 모니터링 및 결함 진단",
-				"x": -0.1892,
-				"y": -0.1603,
+				"x": -0.1903,
+				"y": -0.1427,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
@@ -433,12 +433,12 @@
 			{
 				"id": 34,
 				"label": "기후변화 대응 및 지속가능한 농업을 위한 AI 기반 원격탐사 및 정밀농업",
-				"x": -0.4814,
-				"y": 0.0939,
+				"x": -0.4881,
+				"y": 0.1436,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.9528,
+					"Total link strength": 0.9526,
 					"Number of Cluters": 8.0000,
 					"Total Docs 20-23": 39418.0000
 				}
@@ -446,12 +446,12 @@
 			{
 				"id": 35,
 				"label": "생체모방 기능성 나노소재 및 바이오메디컬 응용",
-				"x": 1.0823,
-				"y": 0.1010,
+				"x": 1.1307,
+				"y": 0.0987,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.1913,
+					"Total link strength": 1.1915,
 					"Number of Cluters": 11.0000,
 					"Total Docs 20-23": 52791.0000
 				}
@@ -459,12 +459,12 @@
 			{
 				"id": 36,
 				"label": "지능형 로봇 시스템 및 의료 응용",
-				"x": -0.1150,
-				"y": -0.0124,
+				"x": -0.1415,
+				"y": -0.0323,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8393,
+					"Total link strength": 0.8391,
 					"Number of Cluters": 9.0000,
 					"Total Docs 20-23": 25964.0000
 				}
@@ -472,12 +472,12 @@
 			{
 				"id": 37,
 				"label": "차세대 전자기파 제어 및 응용",
-				"x": 0.3598,
-				"y": -0.2784,
+				"x": 0.3064,
+				"y": -0.2402,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.5801,
+					"Total link strength": 0.5798,
 					"Number of Cluters": 6.0000,
 					"Total Docs 20-23": 23327.0000
 				}
@@ -485,12 +485,12 @@
 			{
 				"id": 38,
 				"label": "지능형 차량 동역학 및 에너지 관리 시스템",
-				"x": -0.2910,
-				"y": -0.4152,
+				"x": -0.2981,
+				"y": -0.4043,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.7204,
+					"Total link strength": 0.7203,
 					"Number of Cluters": 3.0000,
 					"Total Docs 20-23": 10500.0000
 				}
@@ -498,12 +498,12 @@
 			{
 				"id": 39,
 				"label": "AI 기반 시계열 데이터 분석 및 예측",
-				"x": -0.3252,
-				"y": -0.0487,
+				"x": -0.3318,
+				"y": -0.0439,
 				"cluster": 3,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.8839,
+					"Total link strength": 0.8840,
 					"Number of Cluters": 6.0000,
 					"Total Docs 20-23": 14794.0000
 				}
@@ -511,12 +511,12 @@
 			{
 				"id": 40,
 				"label": "실감형 데이터 시각화 및 메타버스",
-				"x": -0.8776,
-				"y": 0.2866,
+				"x": -0.7584,
+				"y": 0.1778,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.5010,
+					"Total link strength": 0.5009,
 					"Number of Cluters": 3.0000,
 					"Total Docs 20-23": 6892.0000
 				}
@@ -524,12 +524,12 @@
 			{
 				"id": 41,
 				"label": "스마트 건설 및 해양 안전",
-				"x": -0.5262,
-				"y": 0.1235,
+				"x": -0.4794,
+				"y": 0.0785,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.6797,
+					"Total link strength": 0.6796,
 					"Number of Cluters": 5.0000,
 					"Total Docs 20-23": 17207.0000
 				}
@@ -537,12 +537,12 @@
 			{
 				"id": 42,
 				"label": "AI 기반 의료 영상 분석 및 질병 진단",
-				"x": -0.6047,
-				"y": 0.2296,
+				"x": -0.6354,
+				"y": 0.2843,
 				"cluster": 1,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 1.1605,
+					"Total link strength": 1.1603,
 					"Number of Cluters": 13.0000,
 					"Total Docs 20-23": 34744.0000
 				}
@@ -550,12 +550,12 @@
 			{
 				"id": 43,
 				"label": "지속가능한 자원 순환 및 재활용",
-				"x": 1.1212,
-				"y": -0.0741,
+				"x": 0.9701,
+				"y": -0.0207,
 				"cluster": 2,
 				"weights": {
 					"Links": 42.0000,
-					"Total link strength": 0.4428,
+					"Total link strength": 0.4425,
 					"Number of Cluters": 3.0000,
 					"Total Docs 20-23": 8641.0000
 				}
@@ -1866,6 +1866,11 @@
 				"source_id": 7,
 				"target_id": 31,
 				"strength": 0.0005
+			},
+			{
+				"source_id": 7,
+				"target_id": 32,
+				"strength": 0.0000
 			},
 			{
 				"source_id": 7,
