@@ -1,0 +1,2479 @@
+id	x	y	cluster	weight<Links>	weight<Total link strength>
+19th Century American Literary Themes	-0.0742	0.9847	3	2477	114.0544
+Properties of Two-Dimensional Materials	-0.693	-0.4112	2	2477	680.7095
+Advanced Techniques in 3D Shape Modeling	-0.9138	0.2919	4	2477	201.4928
+Multidrug Resistance and Transport Proteins	0.6569	-0.4104	6	2477	700.8342
+ACE Gene Polymorphisms and Hypertension	0.7917	-0.0548	1	2477	620.8271
+Low-Power CMOS Analog and Mixed-Signal Design	-1.156	0.1632	4	2477	366.3821
+Attention-Deficit/Hyperactivity Disorder Studies	0.5966	0.2984	8	2477	412.1508
+Ethical and Explainable AI Systems	0.0095	0.3012	3	2477	809.7319
+AI and Deep Learning for COVID-19 Detection	-0.2593	0.129	4	2477	721.4591
+Artificial Intelligence and Multimedia in Education	-0.5915	0.2561	4	2477	714.6223
+Mechanisms and Variability in ALS	0.5665	-0.0241	8	2477	628.1114
+ANCA-Associated Vasculitis and Complications	1.025	0.0464	1	2477	425.9016
+Management and Effects of Abdominal Pressure	1.2162	0.0625	1	2477	353.26
+Formal Methods in Program Verification	-0.9687	0.3701	4	2477	218.074
+Professional Growth in Higher Education	-0.0512	0.7085	3	2477	215.1887
+Ethics and Misconduct in Academia	0.0802	0.4053	3	2477	592.5837
+Rhetoric and Academic Writing Practices	-0.1059	0.8455	3	2477	186.7721
+Trust-Based Access Control Systems	-0.9136	0.3555	4	2477	329.3873
+Catalysts for Acetylene Hydrochlorination	-0.5812	-0.4718	2	2477	690.1095
+Pathophysiology and Treatment of Acne and Rosacea	0.9317	-0.1263	1	2477	250.7751
+Acoustic Forces in Microfluidics	-0.6196	-0.2101	2	2477	674.4979
+Acoustic Wave Propagation and Metamaterials	-0.8026	-0.2057	2	2477	409.8745
+Acousto-Optic Devices and Applications	-0.9797	-0.1699	2	2477	429.0232
+Acrylamide Formation and Health Impacts	0.1584	-0.3376	5	2477	441.7023
+Infections by Actinomyces and Nocardia Species	0.9259	-0.0526	1	2477	560.2157
+Embodied Cognition and Motor Imagery	0.2034	0.2998	8	2477	472.812
+Human Activity Recognition in Smart Environments	-0.7836	0.2632	4	2477	501.9
+Advanced Nitrogen Removal in Wastewater	-0.1976	-0.2076	5	2477	384.5787
+Acupuncture, Placebo Effects, and Pain Management	0.7415	0.1304	1	2477	634.433
+Heme Biosynthesis Disorders	0.7342	-0.2051	6	2477	861.2615
+Acute Kidney Injury Mechanisms and Treatments	0.9803	-0.0076	1	2477	476.8312
+Vascular Disorders in Mesenteric Ischemia	1.1852	0.0416	1	2477	413.555
+Diagnosis and Treatment of Myocardial Infarction	1.0685	0.11	1	2477	387.132
+Quantum Gravity and Supersymmetry Theories	-0.995	-0.1087	2	2477	111.7545
+Adaptive Control for Nonlinear Systems	-1.0633	0.1602	4	2477	327.2894
+Advanced Statistical Methods in Clinical Trials	0.1866	0.1545	4	2477	336.6488
+Advanced Adaptive Filtering Techniques	-1.046	0.1787	4	2477	431.3953
+Adaptive and User-Centered Interface Design	-0.7731	0.3896	4	2477	323.7069
+Personalized and Adaptive Learning Systems	-0.4165	0.5478	3	2477	358.8961
+Adaptive Optics in Telescopic Systems	-0.9166	-0.1526	2	2477	218.2759
+Additive Structures and Zero-Sum Problems	-1.1257	0.2914	4	2477	158.5693
+Advancements in Additive Manufacturing Technologies	-0.7711	-0.3351	2	2477	452.3761
+Adenosine Receptors and Purinergic Pathways	0.6273	-0.2871	6	2477	800.6619
+Cell Adhesion in Inflammation and Disease	0.7078	-0.275	6	2477	765.8039
+Regulation of Adipocyte Differentiation	0.5702	-0.4053	6	2477	825.9703
+Cutaneous Adnexal Tumors and Pathologies	1.1275	-0.1118	1	2477	279.6803
+Adrenal Insufficiency and Endocrine Disorders	0.9423	0.0037	1	2477	486.8503
+Adrenal and Extra-Adrenal Tumor Research	1.0555	-0.0521	1	2477	580.6745
+Adrenoceptor Pharmacology and Therapeutics	0.6121	-0.296	8	2477	564.4783
+Adsorption for Water Pollutant Removal	-0.4777	-0.4142	2	2477	510.8508
+Innovations in Concrete and Cement Composites	-0.8495	-0.335	2	2477	284.9162
+Advanced Finite Element Techniques and Applications	-1.0499	0.1749	4	2477	218.2791
+Food Drying Techniques and Quality	-0.3331	-0.3491	5	2477	257.3942
+Diabetes, Glycation, and Antioxidant Therapies	0.6029	-0.3571	6	2477	802.2442
+Advanced Machining Techniques and Optimization	-0.9564	-0.1866	2	2477	262.9318
+Advanced MRI and Brain Analysis	0.101	0.1201	8	2477	509.1973
+Advanced Oxidation for Water Treatment	-0.4517	-0.3598	5	2477	409.151
+Advanced Polymerization and Copolymerization Methods	-0.5445	-0.6662	2	2477	243.806
+Advanced Wireless Communication Techniques	-1.1211	0.2246	4	2477	381.2668
+Affect, Subjectivity, and Posthumanism	-0.0772	0.8654	3	2477	263.3738
+African American Literature and Identity	-0.079	0.9512	3	2477	197.6573
+African Philosophy and Cultural Identity	-0.0405	0.8068	3	2477	318.5123
+Afro-Latinx Identity and Cultural Politics	-0.0833	0.9204	3	2477	270.5164
+Perceptions and Stereotypes of Aging	0.3281	0.5436	3	2477	266.0798
+Innovation and Economic Geography	-0.2255	0.6961	3	2477	200.6596
+Molecular Pathways in Aging and Longevity	0.3281	-0.1868	6	2477	827.9174
+Role and Impact of Agricultural Cooperatives	-0.1868	0.5812	3	2477	256.4611
+Health Impacts of Air Pollution Exposure	0.1669	0.0553	5	2477	541.2815
+Airline Operations and Traffic Management	-0.5981	0.3725	4	2477	309.9159
+Techniques and Devices for Airway Management	1.057	0.1461	1	2477	128.3664
+Alcohol Consumption and Related Behaviors	0.6076	0.3749	1	2477	348.9023
+Mechanisms and Treatments for Alcohol Use Disorder	0.6283	0.0768	8	2477	473.3485
+Alcohol's Impact on Liver and Health	0.7769	-0.2147	6	2477	655.902
+Algebraic Varieties and Singularities	-1.1454	0.2926	4	2477	149.9622
+Algebraic Structures in Logic Systems	-1.0422	0.3039	4	2477	206.567
+Advanced Algebraic and Homotopy Theory	-1.1372	0.2891	4	2477	151.2625
+Plant-Derived Alkaloids and Bioactivities	0.3251	-0.5267	7	2477	765.4947
+Allelopathic Interactions in Plant Systems	0.1238	-0.411	5	2477	448.9926
+Allergy Mechanisms and Immunotherapy	0.7681	-0.1615	1	2477	309.1616
+Solidification Processes in Metal Alloys	-0.9956	-0.4344	2	2477	279.3164
+Phytochemistry and Therapeutic Uses of Aloe	0.4018	-0.3971	5	2477	776.4311
+Alpha-1 Antitrypsin Deficiency and Therapies	0.7173	-0.2955	6	2477	846.5969
+Genetics and Pathophysiology of Alport Syndrome	0.7689	-0.2942	6	2477	758.6697
+Integration of Complementary and Traditional Medicine	0.7788	0.137	1	2477	611.3503
+Mitochondrial Function in Plant Reproduction	0.2899	-0.4241	5	2477	556.4121
+Alternative Splicing and RNA Regulation	0.4739	-0.4221	6	2477	739.3549
+Microstructure and Properties of Aluminum Alloys	-0.983	-0.4717	2	2477	278.5517
+Aluminum's Impact on Neurological Health	0.4589	-0.1911	8	2477	920.711
+Mechanisms and Treatments for Alzheimer's Disease	0.4209	-0.1996	8	2477	783.6487
+Modernism and Identity in American Literature	-0.0817	1.0042	3	2477	112.8266
+Microbial Amino Acid Production and Engineering	0.3291	-0.4974	6	2477	721.0475
+Inhibition and Function of Aminopeptidases	0.4792	-0.4709	6	2477	845.2944
+Thermal and Mechanical Cable Analysis	-1.0564	0.0512	4	2477	474.331
+Ecology and Behavior of Amphibians	0.0934	-0.1448	5	2477	340.2864
+Systemic and Cardiac Amyloidosis Research	0.9325	-0.073	1	2477	756.4003
+Anaerobic Digestion for Biogas Production	-0.2302	-0.2676	5	2477	409.0576
+Treatment and Prognosis of Anal Cancer	1.0753	-0.1548	1	2477	479.3287
+Informatics in Analytical Chemistry and Spectroscopy	-0.4913	-0.0962	4	2477	753.7452
+Cultural Practices in Ancient Egypt	-0.1264	0.726	3	2477	141.6962
+Cultural and Historical Studies of the Ancient Near East	-0.1212	0.7539	3	2477	151.8977
+Prostate Cancer Mechanisms and Treatments	0.8916	-0.2249	1	2477	608.6226
+Bioactive Compounds in Medicinal Plants	0.4177	-0.4167	7	2477	817.5601
+Pharmacodynamics and Techniques in Anesthesia	0.8201	0.0774	1	2477	184.5328
+Vascular Growth and Regulation	0.751	-0.269	6	2477	829.3999
+Angiosarcoma and Hemangioendothelioma Studies	1.1295	-0.12	1	2477	495.9412
+Anglo-Saxon and Norse Literary Studies	-0.0971	0.989	3	2477	150.908
+Diagnosis and Treatment of Ankylosing Spondylitis	0.9433	-0.001	1	2477	182.5957
+Annexins and Lipoxins in Inflammation Resolution	0.6121	-0.3449	6	2477	900.8119
+Voltammetric Techniques for Metal Detection	-0.4001	-0.5849	7	2477	389.5806
+Nanostructures in Anodic Aluminum Oxide	-0.7795	-0.4262	2	2477	608.0838
+Advanced Logic and Agent Reasoning	-0.8126	0.39	4	2477	272.6545
+Ecology and Behavior of Ants	0.0893	-0.1848	5	2477	331.9581
+Biodiversity and Ecosystem Dynamics in Antarctica	-0.0027	-0.1594	5	2477	523.3575
+Design and Optimization of Antenna Arrays	-1.1363	0.1501	4	2477	377.4402
+Innovations in Antenna Design and Applications	-1.1515	0.1532	4	2477	367.4216
+Knee Ligament and Meniscus Research	1.025	0.1387	1	2477	211.1521
+Resistance in Livestock Gastrointestinal Nematodes	0.534	-0.2473	9	2477	243.5287
+Flavonoid and Anthocyanin Pathways in Plants	0.2225	-0.4529	5	2477	467.7802
+Doxorubicin-Induced Cardiotoxicity in Cancer Therapy	0.8932	-0.2334	1	2477	655.7205
+Ecocriticism and Environmental Humanities	-0.0896	0.5996	3	2477	459.2422
+Pharmacokinetics and Dynamics of Antibiotics	0.7122	-0.2751	9	2477	526.7374
+Immunological Challenges in Organ Transplantation	1.0721	-0.0235	1	2477	398.5028
+Prevention and Management of Nausea and Vomiting	0.9978	-0.0579	1	2477	430.2431
+Diagnosis and Treatment of Fungal Infections	0.75	-0.2088	9	2477	532.4787
+Advancements in Immunohistochemistry and Microscopy	0.5804	-0.335	6	2477	500.2338
+Design and Function of Antimicrobial Peptides	0.3453	-0.4536	6	2477	883.9855
+Antimicrobial Resistance in Bacterial Pathogens	0.583	-0.1539	9	2477	494.4127
+Antioxidant Properties of Plant Compounds	0.3275	-0.445	5	2477	582.3275
+Role of Antioxidant Enzymes in Cancer	0.5225	-0.4434	6	2477	880.7311
+Antiphospholipid Syndrome and Thrombosis	0.9586	-0.0712	1	2477	518.6996
+Dynamics of Market Competition and Regulation	-0.27	0.7133	3	2477	164.6863
+Nucleoside Analogues in Antiviral Therapy	0.2551	-0.5899	7	2477	667.3049
+Aortic Aneurysm and Dissection Treatments	1.1426	0.0369	1	2477	436.1122
+Apoptosis Pathways in Cancer Therapy	0.6268	-0.3823	6	2477	828.1342
+Diagnosis and Treatment of Appendicitis	1.161	0.0913	1	2477	432.4254
+Leptin, Neuropeptide Y, and Ghrelin Interactions	0.5797	-0.1515	6	2477	650.6447
+Optimizing Healthcare Appointment and Scheduling Systems	0.4546	0.2618	1	2477	531.7389
+Low-Power and Efficient Circuit Design	-1.1261	0.1837	4	2477	390.0575
+Convergence and Approximation by Operators	-1.0591	0.2653	4	2477	208.8575
+Fish Diets and Growth Performance	0.2692	-0.2439	5	2477	274.5897
+Aquaporins in Health and Disease	0.4557	-0.2971	6	2477	851.4587
+Bacterial Pathogens in Aquatic Environments	0.4762	-0.2203	9	2477	520.3812
+Separation and Purification Using Aqueous Two-Phase Systems	-0.1411	-0.5278	7	2477	506.1929
+Molecular Mechanisms in Plant Development	0.2176	-0.3805	5	2477	495.7505
+Ecology and Behavior of Spiders	0.0718	-0.1693	5	2477	234.3267
+Transmission and Impact of Arboviruses in Livestock	0.4818	-0.222	9	2477	352.9335
+Scientific Analysis of Artifacts and Artworks	-0.4173	-0.1269	2	2477	455.691
+Cultural and Historical Architecture Identity	-0.1702	0.8225	3	2477	91.2665
+Geopolitical Dynamics in the Arctic Region	-0.1596	0.5269	3	2477	416.0678
+Arginine and Urea Cycle Disorders	0.6248	-0.3589	6	2477	883.3963
+Toxicity and Bioactivity of Herbal Compounds	0.4669	-0.3472	7	2477	894.2379
+Influence of Aristotle on Ancient and Medieval Thought	-0.1045	0.9584	3	2477	99.04
+Advanced Topics in Number Theory	-1.1388	0.2906	4	2477	147.8417
+Aromatic and Antiaromatic Compounds	-0.4238	-0.7152	7	2477	441.4447
+Implantable Defibrillators and Arrhythmia Management	1.1189	0.0776	1	2477	256.7836
+Arsenic Behavior and Remediation in Environments	-0.0404	-0.2331	5	2477	632.3006
+Innovations in Art Education Pedagogy	-0.064	0.7817	3	2477	222.565
+Art History and Visual Culture	-0.1062	0.9524	3	2477	106.9861
+Arterial Stiffness and Cardiovascular Health	0.4752	0.0793	1	2477	429.2485
+Cerebral and Spinal Vascular Malformations	1.0927	0.0915	1	2477	391.9761
+Advancements in Hip and Knee Arthroplasty	1.0596	0.0954	1	2477	216.7204
+Predictive Models in Healthcare	0.2229	0.1631	1	2477	854.7111
+Socioeconomic and Environmental Impacts of Mining	-0.1526	0.6332	3	2477	338.186
+Art, Culture, and Historical Intersections	-0.1194	0.9086	3	2477	174.634
+Art Therapy and Mental Health Interventions	0.3951	0.4559	3	2477	410.6748
+Asbestos Exposure and Mesothelioma Risk	0.6914	0.0204	1	2477	593.1315
+Asphalt Pavement Performance and Modification	-0.8154	-0.2381	2	2477	281.0458
+Asphaltene Behavior in Crude Oil Systems	-0.6531	-0.4109	2	2477	335.4511
+Advanced Assembly and Disassembly Techniques	-0.8796	0.1365	4	2477	273.6427
+Assisted Reproductive Technologies and Outcomes	0.7505	0.2665	1	2477	264.4376
+Advanced Techniques in Pattern Mining	-0.8409	0.3313	4	2477	339.0338
+Asteroids, Meteorites, and Solar System Evolution	-0.5118	-0.1269	2	2477	231.866
+Advancements in Asthma and Allergy Management	0.8862	0.0276	1	2477	414.2617
+Astrocyte Metabolism and Ketogenic Diet Effects	0.5168	-0.0453	8	2477	636.7328
+Enantioselective Synthesis via Catalysis	-0.325	-0.7993	7	2477	354.7367
+Chemical and Physical Properties of Aerosols	-0.3462	-0.1201	5	2477	284.6932
+Atomic Force Microscopy in Nanomechanics	-0.6456	-0.3624	2	2477	780.7583
+Atomic and Molecular Layer Deposition Techniques	-0.9025	-0.4657	2	2477	552.4827
+Nuclear Structure and Reaction Dynamics	-0.9526	-0.2399	2	2477	122.708
+Spectroscopy of Highly Ionized Atoms	-0.9229	-0.269	2	2477	304.3457
+History and Development of Atomic Theory	-0.5036	-0.1253	2	2477	786.2913
+Atopic Dermatitis and Pruritus	0.8872	-0.1365	1	2477	358.0423
+Atrial Fibrillation and Anticoagulation	1.0734	0.0814	1	2477	344.5604
+Hearing Loss and Tinnitus Mechanisms	0.5065	0.0367	8	2477	480.6124
+Immersive Technologies in Education and Design	-0.4287	0.3994	4	2477	472.7601
+Techniques in Ear Reconstruction and Prosthetics	1.1207	0.0467	1	2477	343.0912
+Australian National Identity and History	-0.0976	0.9552	3	2477	215.7797
+Stylometry and Authorship Analysis Techniques	-0.5237	0.4543	4	2477	450.1948
+Research on Autism Spectrum Disorders and Interventions	0.4368	0.3223	3	2477	360.3079
+Autobiographical Memory and Identity Development	0.1886	0.5986	3	2477	259.3207
+Reflexivity and Ethics in Ethnographic Research	0.0247	0.778	3	2477	284.6753
+Stress Analysis in Thick-Walled Cylinders	-0.5712	-0.0994	2	2477	618.2228
+Pemphigus and Bullous Pemphigoid Pathogenesis	0.9872	-0.148	1	2477	242.8195
+Autoimmune Hepatitis and Biliary Disorders	1.0417	-0.0878	1	2477	266.734
+Autonomous Underwater Vehicles and Technologies	-0.8672	0.0884	4	2477	395.9518
+Autophagy in Health and Disease	0.5756	-0.3715	6	2477	731.1429
+Bird Behavior and Habitat Interactions	0.0121	-0.1082	5	2477	205.2195
+Diversity and Ecology of Avian Parasites	0.3235	-0.1681	9	2477	318.0976
+Viral Infections in Poultry	0.5858	-0.2652	9	2477	327.7147
+Advanced Harmonic Analysis and Operator Theory	-1.1217	0.2824	4	2477	161.3769
+Carborane Synthesis and Applications	-0.1238	-0.6046	7	2477	523.2322
+Diversity and Morphology of Diatoms	-0.0966	-0.3718	5	2477	446.4305
+Bacillus Species and Anthrax Research	0.4075	-0.2802	9	2477	608.0229
+Bacteria in Cancer Treatment and Immunotherapy	0.6113	-0.3336	6	2477	691.1231
+Mechanisms of Bacterial Gene Expression and Regulation	0.3803	-0.4283	6	2477	679.3921
+Mechanisms and Applications of Bacterial Movement	-0.3251	-0.2768	2	2477	872.256
+Bacteriophage Diversity and Applications	0.298	-0.309	9	2477	657.5003
+Baculovirus Biology and Applications	0.3074	-0.3257	5	2477	446.5217
+Properties and Operators in Banach Spaces	-1.1225	0.2852	4	2477	158.8999
+Advanced Multi-Armed Bandit Strategies	-0.8409	0.3097	4	2477	412.0197
+Bariatric Surgery and Obesity Management	1.1761	0.0793	1	2477	410.1393
+Bark Beetle Ecology and Management	0.0934	-0.2473	5	2477	270.4015
+Electrolyte Innovations for Lithium Batteries	-0.6806	-0.5397	2	2477	581.7275
+Bayesian Networks and Belief Functions	-0.7419	0.2875	4	2477	366.3982
+Dynamic Analysis of Bearing Systems	-1.0104	-0.1223	2	2477	195.5911
+Bee Behavior, Health, and Pollination	0.0805	-0.1772	5	2477	422.7392
+Behavioral Patterns and Reinforcement	0.1526	0.4231	3	2477	237.3303
+Behçet's Disease and Ocular Inflammation	0.948	-0.0012	1	2477	275.7632
+Treatment and Management of BPH	1.0521	-0.0605	1	2477	212.8442
+Marine Benthic Community Dynamics	-0.0858	-0.1364	5	2477	251.0296
+Synthesis and Biological Activity of Benzimidazoles	-0.0769	-0.7203	7	2477	416.8779
+Detection and Effects of Beta-Agonists	0.2154	-0.4494	7	2477	456.2589
+Gallium Oxide Semiconductor Research	-0.9888	-0.3518	2	2477	511.311
+Synthesis and Applications of Beta-Lactams	-0.1221	-0.7528	7	2477	358.9497
+Beyond Standard Model Physics	-0.95	-0.1861	2	2477	109.1917
+Bibliometric Analysis and Scientific Publishing	0.0796	0.2644	3	2477	588.4139
+Scalable Big Data Analytics and Warehousing	-0.8286	0.3523	4	2477	323.1548
+Bile Acids in Liver and Gallstone Diseases	0.7434	-0.2679	6	2477	713.6384
+Diagnosis and Treatment of Biliary Disorders	1.1949	-0.0146	1	2477	388.1764
+Toxicity and Bioaccumulation in Aquatic Species	-0.0214	-0.1806	5	2477	375.5011
+Synthesis and Bioactivity of Metal Complexes	-0.2388	-0.7	7	2477	417.9565
+Bioactive Coumarins and Alkaloids in Plants	0.3406	-0.522	7	2477	774.5519
+Synthesis and Biological Activity of Heterocycles	0.0346	-0.6794	7	2477	469.4588
+Bioaerosol Impact on Health and Environment	0.1582	-0.032	5	2477	577.4767
+Biochar's Impact on Soil and Environment	-0.2534	-0.197	5	2477	381.4262
+Biodegradable Polymers and Their Applications	-0.3461	-0.5665	2	2477	311.9585
+Deterioration and Conservation of Stone Monuments	-0.4306	-0.1734	5	2477	589.845
+Biodiesel and Alternative Fuels in Engines	-0.6866	-0.269	2	2477	334.9753
+Biodiversity Patterns and Conservation Strategies	-0.0535	-0.0812	5	2477	365.3615
+Sustainable Bioenergy and Biomass Utilization	-0.2659	-0.045	5	2477	436.9203
+Ethical Challenges in Medicine and Society	0.476	0.4529	3	2477	454.2041
+Ethical Implications of Human Enhancement	0.2014	0.5821	3	2477	357.8572
+Biofiltration for Odor and VOC Control	-0.2509	-0.2191	5	2477	384.6688
+Biomimetic Adhesion and Surface Engineering	-0.4153	-0.325	2	2477	873.1749
+Bioinspired Wing and Flight Dynamics	-0.6358	-0.068	2	2477	277.3618
+Microbial Metal Recovery and Remediation	-0.4581	-0.3236	5	2477	386.746
+Bioluminescence Mechanisms and Applications	0.1012	-0.4813	7	2477	880.9584
+Catalytic Conversion of Biomass to Chemicals	-0.5088	-0.5822	2	2477	515.2478
+Advanced Hydrogel Materials and Applications	-0.3296	-0.5088	2	2477	568.1396
+Raman Spectroscopy in Biomedical Diagnostics	-0.0618	-0.3295	7	2477	736.1698
+Microbial Biodegradation of Hydrocarbons	0.0171	-0.3152	5	2477	473.0922
+Stability and Formulation of Biopharmaceuticals	0.3597	-0.4348	7	2477	752.1717
+Biotin's Role in Enzymes and Biosynthesis	0.2323	-0.4971	7	2477	874.0483
+Bipolar Disorder and Lithium Treatment	0.6728	0.3019	8	2477	285.0633
+Avian Vocal Learning and Communication	0.1352	-0.0502	5	2477	522.7672
+Factors Influencing Sex Ratios at Birth	0.4085	-0.0033	9	2477	827.354
+Bismuth-Doped Materials and Luminescence	-0.7862	-0.4295	2	2477	668.9309
+Bisphosphonates and Bone Metastasis Treatment	0.9061	-0.1811	1	2477	595.3021
+Bivalve Ecology and Environmental Interactions	0.07	-0.1731	5	2477	298.8795
+Diagnosis and Treatment of Bladder Cancer	1.057	-0.1452	1	2477	316.4528
+Bladder Exstrophy and Fistula Management	1.0684	0.0858	1	2477	256.7642
+Hemophilia, Von Willebrand, and Platelet Function	0.9216	-0.1543	1	2477	289.7091
+Self-Assembly and Morphology of Block Copolymers	-0.5668	-0.5429	2	2477	451.5617
+Blockchain Applications and Challenges	-0.7876	0.3353	4	2477	443.8832
+Blood Donation Motivations and Barriers	0.7699	0.1735	1	2477	291.4031
+Red Blood Cell Alloimmunization and Hemolytic Disease	0.9363	-0.0773	1	2477	289.9242
+Blood-Brain Barrier Permeability and Regulation	0.6279	-0.2642	6	2477	863.0707
+Management of Splenic Injuries and Ruptures	1.1846	0.0584	1	2477	422.5804
+Techniques in Body Contouring Surgery	1.2384	0.066	1	2477	321.5602
+Stress and Loosening in Bolted Joints	-0.8862	-0.0553	2	2477	323.6232
+Diagnosis and Treatment of Bone Lesions	1.0532	-0.0132	1	2477	371.4631
+Advancements in Satisfiability and Constraint Solving	-0.9721	0.3008	4	2477	389.7188
+Borderline Personality Disorder Research	0.5267	0.4623	3	2477	201.7829
+Properties and Applications of Boron Carbides	-0.8552	-0.455	2	2477	520.2362
+Thermal and Mechanical Properties of Boron Nitride	-0.7473	-0.4664	2	2477	666.6766
+Boronic Acid-Based Sensors and Applications	-0.2576	-0.6192	7	2477	608.0197
+Dynamics and Interactions in Ultracold Gases	-0.7994	-0.2461	2	2477	376.8922
+Plant-Based Insect Pest Control	0.179	-0.3498	5	2477	379.2423
+Botulinum Toxin in Neurological Disorders	0.8385	0.0422	8	2477	487.5049
+Control and Stabilization of Wave Equations	-1.1047	0.2374	4	2477	243.7418
+Electroencephalography in Brain-Computer Interfaces	-0.1303	0.141	8	2477	536.7624
+Radiotherapy and Treatment of Brain Metastases	1.039	-0.1535	1	2477	477.5539
+Advancements in Breast Cancer Detection and Diagnosis	0.6676	0.0171	1	2477	427.1022
+Techniques and Outcomes in Breast Reconstruction	1.2341	0.0373	1	2477	328.8786
+Breastfeeding Practices and Influences	0.826	0.198	1	2477	383.025
+Cultural and Political Shifts in Britain	-0.0855	0.9869	3	2477	182.3577
+Photocaging Techniques and BET Bromodomain Inhibitors	0.3165	-0.4589	6	2477	922.6268
+Congenital Cystic Malformations and Anomalies	1.1588	0.0178	1	2477	486.0483
+Brown Fat and Metabolic Regulation	0.5914	-0.2509	6	2477	737.0218
+Brucellosis Epidemiology and Diagnosis	0.659	-0.1132	9	2477	507.9013
+Diversity and Phylogeny of Bryophytes	0.1012	-0.3918	5	2477	203.0302
+Energy Efficiency in Building Design and Operation	-0.6648	-0.0214	2	2477	259.5752
+Bullying, Victimization, and Social Influences	0.11	0.5632	3	2477	309.2681
+Burkholderia and Related Bacterial Infections	0.6495	-0.1493	9	2477	481.5418
+Comprehensive Burn Injury Treatment	1.02	0.049	1	2477	478.2144
+Ethical Decision-Making in Business	-0.1366	0.6889	3	2477	220.9779
+Cystic Fibrosis Pathophysiology and Treatment	0.748	-0.0667	1	2477	552.0848
+Chalcogenide Thin-Film Photovoltaics	-0.9723	-0.4398	2	2477	486.92
+Advanced CMOS and CCD Image Sensors	-1.0559	0.0197	4	2477	496.6181
+Central Nervous System Tumor Research	1.0076	-0.0966	1	2477	555.0887
+Carbon Dioxide Capture Technologies	-0.6489	-0.3777	2	2477	298.6129
+Electrocatalytic CO2 Reduction to Fuels	-0.488	-0.5695	2	2477	597.4334
+Catalytic CO2 Utilization in Organic Synthesis	-0.4556	-0.6979	7	2477	484.4896
+Plant Responses to Elevated CO2 and Ozone	-0.0461	-0.2488	5	2477	358.8547
+Chronic Obstructive Pulmonary Disease Studies	0.9005	0.1005	1	2477	317.804
+Effects of COVID-19 on Emergency and Hospital Services	0.8701	0.1851	1	2477	677.3289
+Design and Analysis of Cable Bridges	-0.8235	-0.0609	2	2477	179.6084
+Advanced Caching in Network Systems	-1.0388	0.2799	4	2477	366.1574
+Mathematical Analysis of Phase-Field Models	-1.018	0.0884	4	2477	298.6787
+Mechanisms and Influences on Calcium Carbonate Formation	-0.4624	-0.3885	2	2477	767.9984
+Pharmacokinetics and Effects of Calcium Channel Blockers	0.5984	-0.3103	7	2477	493.6295
+Calcium and Inositol Signaling Pathways	0.4359	-0.3922	6	2477	789.5557
+Thermodynamic Analysis in Chemical Processes	-0.3142	-0.4737	2	2477	699.7223
+Historical Perspectives on Canadian Identity	-0.0949	0.9708	3	2477	197.5405
+Mathematical Models of Tumor Growth	-0.4153	0.0683	4	2477	502.8897
+Tumor Microenvironment and Stem Cells	0.6287	-0.3189	6	2477	688.9292
+Quality of Life in Cancer Survivors	0.8923	0.0844	1	2477	489.2826
+Genetic Variations in Cancer Risk	0.7594	-0.3456	6	2477	718.1443
+Anesthesia's Impact on Cancer Progression	0.7666	-0.2367	6	2477	738.2372
+Orthopedic Conditions in Dogs	0.72	-0.1494	9	2477	174.0371
+Cannabinoid Effects and Therapeutic Potential	0.562	-0.0355	8	2477	790.8315
+Capillary Electrophoresis in Analytical Chemistry	-0.0471	-0.5219	7	2477	265.4279
+Diagnosis and Management of GI Bleeding	0.8579	0.0532	1	2477	336.1659
+Carbon Fiber and Graphite Synthesis	-0.7974	-0.5037	2	2477	496.8707
+Carbon Emissions and Economic Growth	-0.2892	0.3503	3	2477	323.136
+Properties and Applications of Carbon Nanotubes	-0.6903	-0.402	2	2477	709.241
+Design and Evaluation of Carbonic Anhydrase Inhibitors	0.306	-0.5458	7	2477	764.9017
+Cardiac Arrhythmias and Electrophysiological Mechanisms	0.8133	-0.0112	1	2477	396.2956
+Cardiac Glycosides and Na+/K+ ATPase	0.5547	-0.3878	6	2477	857.0154
+Lipid Metabolism in Heart Disease	0.715	-0.3107	6	2477	789.6337
+Advancements in Cardiac Pacing Technologies	1.1283	0.0734	1	2477	242.9636
+Diagnosis and Treatment of Cardiac Tumors	1.1405	0.0116	1	2477	444.8009
+Cardiac Arrest and Resuscitation Techniques	0.982	0.1696	1	2477	373.9172
+Heart and Lung Transplantation Challenges	1.1316	0.0458	1	2477	411.9074
+Coordination Between Primary and Specialist Care	0.8773	0.2342	1	2477	543.0925
+Career Adaptability and Decision-Making	0.001	0.6813	3	2477	113.9822
+Carotenoids in Nutrition and Health	0.407	-0.3369	5	2477	685.1443
+Diagnosis and Treatment of Carotid Artery Disease	1.0353	0.1091	1	2477	507.2003
+Case-Based Reasoning in Decision Support	-0.7371	0.3092	4	2477	344.097
+Casimir Effects and Radiative Heat Transfer	-0.7908	-0.2822	2	2477	612.1735
+Metal Complexes in Catalysis and Hydrolysis	-0.2479	-0.7109	7	2477	468.3493
+Catalysts for Hydrogen and Methanol Production	-0.6425	-0.511	2	2477	417.7912
+Catalytic Oxidation on Metal Surfaces	-0.6747	-0.5615	2	2477	471.5501
+Cognitive Models and Category Learning	-0.1989	0.4065	3	2477	326.6812
+Causal Inference in Observational Studies	0.2766	0.3202	3	2477	505.45
+Caveolae and Caveolin Functions in Cells	0.6138	-0.3834	6	2477	820.1776
+Celiac Disease Diagnosis and Management	0.9372	-0.0614	1	2477	388.318
+Cell Cycle Dysregulation in Cancer	0.7275	-0.3566	6	2477	671.745
+Cellular Mechanics and Adhesion Dynamics	0.4012	-0.3581	6	2477	743.1763
+Cellular Automata in Computing and Design	-0.8493	0.1333	4	2477	615.0296
+Resource Allocation in Cellular Networks	-1.1139	0.2216	4	2477	328.2425
+Cellulose-Based Fiber and Polymer Composites	-0.5649	-0.4979	2	2477	394.1341
+Nationalism and Identity in Central Europe	-0.1068	0.9584	3	2477	233.9797
+Cephalopod Ecology and Reproduction Studies	0.0735	-0.1587	5	2477	333.4704
+High-Temperature Ceramic Composite Materials	-0.9139	-0.4762	2	2477	264.9187
+Sintering and Microstructure of Ceramics	-0.8893	-0.4759	2	2477	275.9592
+Dielectric and Electrical Properties of Varistor Ceramics	-1.0121	-0.3276	2	2477	465.6013
+Ceramic Production from Industrial Waste	-0.8205	-0.4197	2	2477	180.3923
+Ceramic-Metal Bonding and Properties	-0.9382	-0.4689	2	2477	376.3159
+Sphingolipid Metabolism and Cellular Functions	0.6024	-0.4264	6	2477	856.4916
+Cereal Starch Structure and Digestibility	0.1644	-0.4251	5	2477	260.8605
+Cerebellum's Role in Cognition and Motor Control	0.5007	0.0709	8	2477	418.1243
+Cerebral Blood Flow and Autoregulation	0.8176	0.0919	1	2477	478.0223
+Cerebral Palsy Rehabilitation and Management	0.8666	0.206	1	2477	387.6659
+Cervical Artery Dissection and Related Complications	1.1122	0.1198	1	2477	454.3285
+Advancements in Cervical Spine Treatments	1.1045	0.1329	1	2477	334.2614
+Synthesis and Reactivity of Chalcogen Compounds	-0.2089	-0.7592	7	2477	393.3994
+Synthesis and Properties of Chalcogenide Crystals	-0.672	-0.5658	2	2477	515.3572
+Chalcogenide Glasses and Phase Change	-0.9978	-0.3474	2	2477	528.2566
+Radiation and Beam Dynamics in Crystals	-0.9428	-0.2548	2	2477	309.4874
+Synchronization and Control of Chaotic Systems	-0.8768	-0.0139	4	2477	535.6145
+Chaos-Based Image and Data Encryption	-0.9872	0.0791	4	2477	536.0749
+Nonlinear Dynamics in Time Series Analysis	-0.5462	0.0317	2	2477	609.4714
+Genetic Basis of Charcot-Marie-Tooth Disease	0.7468	-0.0721	8	2477	638.0217
+Immune Checkpoints and Tumor Microenvironment	0.8429	-0.2353	1	2477	624.1187
+Chemical Carcinogenicity and Risk Assessment	0.3678	-0.1776	5	2477	516.6867
+Advancements in Chemical Mechanical Polishing	-0.9992	-0.2751	2	2477	496.9187
+Chemical Recycling of Polymer Composites	-0.5873	-0.439	2	2477	463.4646
+Chemokine Receptors in Disease and Therapy	0.7174	-0.3101	6	2477	790.1737
+Global Child Malnutrition and Food Security	0.4768	0.2344	1	2477	515.749
+Child Protection and Foster Care Systems	0.3915	0.5393	3	2477	187.6103
+Diverse Approaches to Childbirth and Care	0.8523	0.2469	1	2477	305.2008
+Challenges and Care in Childhood Cancer Survivors	0.923	0.0719	1	2477	515.1113
+Gender and Identity in Children's Literature	-0.0758	0.9155	3	2477	208.8525
+Social, Economic, and Political Changes in China	-0.1435	0.8355	3	2477	236.9747
+Classical and Modern Chinese Thought	-0.1115	0.9287	3	2477	132.7078
+Chiral Separation Techniques in Chromatography	-0.1142	-0.5731	7	2477	428.7235
+Ecology and Behavior of Bats	0.0325	-0.1119	5	2477	349.3369
+Chiral Molecules and Optical Activity	-0.4791	-0.5395	2	2477	685.4534
+Chitosan-Based Biodegradable Packaging Films	-0.0698	-0.5104	5	2477	479.7942
+Chlamydia and Reproductive Health	0.724	-0.0209	9	2477	562.5566
+Cholinergic Signaling and Cognitive Disorders	0.5168	-0.1023	8	2477	590.6225
+Organophosphate Pesticides and Neurotoxicity	0.4191	-0.1924	8	2477	825.1932
+Chordoma Pathogenesis and Exostoses Disorders	1.0736	-0.0554	1	2477	555.0705
+Contemporary Christian Theological Dialogues	-0.0801	0.9686	3	2477	68.4747
+Advancements in Liquid and Gas Chromatography	-0.1703	-0.5449	7	2477	245.722
+Genetic Syndromes and Chromosomal Variations	0.702	-0.1453	6	2477	331.3046
+Chromosomal Evolution and Diversification	0.3842	-0.2903	6	2477	500.2049
+Chronic Kidney Disease and Risk Factors	0.964	0.0521	1	2477	441.0092
+Advancements in Chronic Lymphocytic Leukemia	0.9516	-0.216	1	2477	423.0019
+CML and Tyrosine Kinase Inhibitors	0.8627	-0.2517	1	2477	508.2571
+Chronic Prostatitis and Pelvic Pain	0.7596	-0.1826	1	2477	501.0994
+Chronic Rhinosinusitis and Sinus Surgery	1.0069	0.0293	1	2477	287.2972
+Chronic Subdural Hematoma Management and Abuse	1.0351	0.1442	1	2477	496.0938
+Chronic Urticaria and Antihistamine Treatments	0.8667	-0.1913	1	2477	367.7636
+Chylothorax and Lymphatic Disorders	1.1266	0.0232	1	2477	578.951
+Ciliate Morphology and Phylogeny Studies	0.3246	-0.3071	5	2477	566.2485
+Ciliopathies and Polycystic Kidney Disease	0.7528	-0.1751	6	2477	697.6
+Cinematic Aesthetics and Cultural Narratives	-0.0998	0.9479	3	2477	66.3577
+Circadian Rhythms and Melatonin	0.4491	-0.1107	8	2477	861.6234
+Sustainable Resource Management and Recycling	-0.4189	0.0202	5	2477	390.7383
+Circulating Tumor Cells and DNA in Cancer	0.6995	-0.2726	6	2477	598.9409
+Complications and Management in Liver Cirrhosis	1.0967	-0.0273	1	2477	305.1285
+Race, Politics, and Social Movements in America	-0.0964	0.9852	3	2477	191.8964
+Exploration of Ancient Greek Literature and Society	-0.1115	0.9534	3	2477	69.1205
+Advancements in Classification Techniques	-0.7823	0.2859	4	2477	359.928
+Cleft Lip and Palate Research	1.0655	0.0433	1	2477	363.2285
+Azide-Alkyne Cycloaddition Applications	-0.0035	-0.63	7	2477	665.8498
+Advanced Clifford and Quaternion Analysis	-1.064	0.2052	4	2477	242.3091
+Climate Change and Disaster Resilience	-0.1949	0.2534	5	2477	440.2698
+Health Impacts of Climate Change	0.4248	0.1512	1	2477	679.5707
+Interconnected Global Social and Environmental Issues	0.08	0.3971	3	2477	840.3083
+Ethical Challenges in Clinical Research	0.7476	0.2042	1	2477	715.0161
+Clostridium Pathogenesis and Treatment Strategies	0.7588	-0.1032	9	2477	583.7376
+Cloud Microphysics and Radiative Effects	-0.5984	-0.0769	5	2477	165.5976
+Efficient Resource Allocation in Cloud Computing	-0.9259	0.3079	4	2477	330.0467
+Congenital Clubfoot Diagnosis and Management	1.0911	0.0487	1	2477	374.6241
+Innovative Clustering Algorithm Techniques	-0.8055	0.2661	4	2477	443.2003
+Cnidarian Venom and Nervous Systems	0.3616	-0.2094	6	2477	845.4211
+Coagulation and Thrombosis Mechanisms	0.6808	-0.332	6	2477	772.7767
+Coagulation and Flocculation in Water Treatment	-0.5916	-0.3458	2	2477	564.8598
+Coastal Morphodynamics and Sea-Level Rise	-0.3952	-0.0575	5	2477	298.281
+Ecology of Mangroves and Seagrasses	-0.1087	-0.1223	5	2477	351.9036
+Cocaine's Impact on Health and Treatment	0.812	-0.0034	1	2477	843.3803
+Eimeria Parasites and Coccidiosis Control	0.4988	-0.2464	9	2477	269.2281
+Crystallization and Solubility in Pharmaceuticals	-0.3748	-0.6108	7	2477	564.1596
+Codon Usage Patterns and Bias	0.0951	-0.2456	6	2477	800.9445
+Coenzyme Q10 in Health and Disease	0.6055	-0.299	6	2477	871.9509
+Rare Earth Permanent Magnets	-1.043	-0.3898	2	2477	454.8799
+Health Effects of Coffee and Caffeine	0.488	-0.1288	8	2477	731.0084
+Cognitive Biases in Decision Making	0.0406	0.5579	3	2477	244.6615
+Cognitive Radio Spectrum Sensing and Sharing	-1.1059	0.2128	4	2477	367.4766
+Cognitive and Intelligent Information Systems	-0.4387	0.086	4	2477	792.4551
+Cold War International Relations and Policies	-0.115	0.9945	3	2477	168.5541
+Taxonomy and Evolution of Insects	0.0822	-0.2015	5	2477	190.6722
+Collagen-related Genetic Disorders and Biomaterials	0.3875	-0.3068	6	2477	899.2071
+Collective Memory and Trauma Representation	-0.0861	0.9679	3	2477	243.4373
+Colonialism and Modernist Literature	-0.1092	0.9822	3	2477	186.2467
+Colonial Impact on Indian Identity and Society	-0.1001	0.9501	3	2477	207.5087
+Colorectal Cancer Screening and Management	1.042	0.0142	1	2477	416.1234
+Color Imaging and Enhancement Techniques	-0.9345	0.1779	4	2477	444.5654
+Innovations in Colorectal Cancer Treatment	1.2015	-0.0175	1	2477	441.6606
+Colostrum and Calf Health	0.602	-0.2164	9	2477	236.941
+Approximation and Relaxation in Combinatorial Optimization	-0.994	0.3039	4	2477	337.0455
+Combinatorial Identities and Polynomial Sequences	-1.1	0.2747	4	2477	187.302
+Flame Behavior and Combustion Processes	-0.8184	-0.2819	2	2477	328.8769
+Graphic Narratives and Autobiographical Themes	-0.0586	0.9425	3	2477	196.8498
+Participatory Action and Evaluation in Communities	0.2107	0.5986	3	2477	341.5558
+Acute and Chronic Compartment Syndromes	1.0908	0.1047	1	2477	562.7278
+Competency-Based Education in Higher Learning	-0.1286	0.7246	3	2477	228.0416
+Complement System in Human Diseases	0.7999	-0.2335	6	2477	641.5393
+Dynamics and Structure of Complex Networks	-0.5787	0.1379	4	2477	675.0951
+Pathophysiology and Treatment of CRPS	0.9335	0.1411	1	2477	520.9922
+Damage and Failure in Composite Materials	-0.9332	-0.3269	2	2477	196.8249
+Elasticity and Fracture in Composite Materials	-0.8676	-0.1102	2	2477	206.7481
+Homogenization and Modeling of Composite Materials	-0.8576	-0.2203	2	2477	412.7759
+High Voltage Insulator Contamination and Aging	-1.0867	0.0392	4	2477	477.0999
+Vibration and Buckling of Composite Plates	-0.9446	-0.1294	2	2477	221.8983
+Advancements in Composting Techniques and Applications	-0.1671	-0.2188	5	2477	365.0085
+Sparse Representations and Compressive Sensing	-0.9931	0.1913	4	2477	514.8646
+Complexity Theory and Computability	-0.9905	0.3118	4	2477	279.1779
+Convex Sets and Geometric Partitions	-1.0437	0.2994	4	2477	263.0362
+Innovative Approaches in Programming Education	-0.4511	0.551	3	2477	318.4048
+Collaborative Systems and Decision Support	-0.5986	0.463	4	2477	422.1147
+Evolution and Impact of Computing	-0.4648	0.5274	3	2477	419.83
+Human Reasoning and Mental Models	-0.0445	0.5867	3	2477	288.7382
+Conductive Polymers and Nanocomposites	-0.6877	-0.5675	2	2477	521.3066
+Religious and Political Conflicts in Early Modern Europe	-0.11	1.0239	3	2477	147.6202
+Pharmaceutical Industry and Conflicts of Interest	0.852	0.2328	1	2477	550.1399
+Health Impacts of Conflict and Sanctions	0.6179	0.3186	1	2477	615.3754
+Genetic and Hormonal Aspects of CAH	0.7833	-0.2045	6	2477	444.4716
+Congenital Diaphragmatic Hernia Research	1.1376	0.0629	1	2477	436.8306
+Diagnosis and Treatment of Congenital Heart Disease	1.1495	0.0705	1	2477	298.462
+Genetic and Mosaic Skin Conditions	1.0653	-0.117	1	2477	208.3535
+Diagnosis and Treatment of Uterine Anomalies	0.9829	0.0616	1	2477	254.3526
+Advanced Congestion Control in Networks	-1.0659	0.2586	4	2477	366.518
+Conjoined Twinning and CADASIL Syndrome	0.8457	0.0446	1	2477	639.5687
+Granuloma Annulare and Pseudoxanthoma Elasticum	0.9775	-0.1528	1	2477	303.7518
+Constructed Wetlands for Wastewater Treatment	-0.2443	-0.1327	5	2477	320.8455
+Consumer Behavior and Marketing Dynamics	-0.2577	0.653	3	2477	118.8841
+Allergic and Irritant Contact Dermatitis	0.8269	-0.1946	1	2477	230.1828
+Intersections in Modern and Contemporary Art	-0.1246	0.8969	3	2477	138.9048
+Content-Based Image Retrieval Techniques	-0.9321	0.2456	4	2477	430.4242
+Economic Valuation of Environmental Preferences	-0.147	0.4731	3	2477	301.0123
+Contraceptive Methods and Abortion Access	0.7915	0.2701	1	2477	338.4649
+Advanced Statistical Process Control Methods	-0.608	0.2529	4	2477	234.8005
+Advanced Power Converter Technologies	-1.1475	0.1474	4	2477	377.3373
+Convex Geometry and Optimal Transport	-0.9864	0.277	4	2477	245.0068
+Evolution and Incentives in Cooperative Games	-0.2866	0.4949	3	2477	301.9779
+Copper Oxide Nanostructures and Properties	-0.7941	-0.4891	2	2477	622.3708
+Coral Reef Biodiversity and Dynamics	-0.024	-0.134	5	2477	415.5732
+Advancements in Corneal and Lens Procedures	0.9742	0.0016	1	2477	145.0514
+Anomalous Coronary Artery Conditions	1.1752	0.0471	1	2477	248.8292
+Advancements in Computed Tomography Techniques	0.752	0.0542	1	2477	299.2136
+Coronavirus Pathogenesis and Immune Response	0.6849	0.0367	1	2477	843.9735
+Corporate Crime and Legal Accountability	-0.1053	0.7996	3	2477	94.7039
+Corporate Governance and Financial Structures	-0.2584	0.7222	3	2477	118.4454
+Corporate Social Responsibility and Sustainability	-0.262	0.5613	3	2477	219.0147
+Corrosion Prevention and Inhibitor Studies	-0.8565	-0.5	2	2477	372.1853
+Corynebacterium and Tetanus-Diphtheria Infections	0.7666	-0.0612	9	2477	571.1976
+Cosmic Rays and Gamma-Ray Astronomy	-0.7874	-0.1475	2	2477	124.6657
+Genetic Improvement of Cotton Traits	0.0764	-0.3346	5	2477	367.5099
+Coxiella burnetii and Q Fever Epidemiology	0.6464	-0.0696	9	2477	548.4676
+Congenital and Developmental Craniofacial Cysts	1.1092	0.0535	1	2477	468.7547
+Techniques and Materials in Cranioplasty	0.9687	0.0739	1	2477	412.3689
+Craniosynostosis and Fibroblast Growth Factor Receptors	0.9289	-0.1331	1	2477	713.8435
+Creatine's Role in Health and Disease	0.6373	-0.2699	6	2477	789.8796
+Creativity in Education and Development	-0.0102	0.6255	3	2477	289.3337
+Machine Learning in Credit Risk Assessment	-0.5396	0.4573	3	2477	351.4891
+Crime Dynamics and Policing Strategies	-0.026	0.7044	3	2477	139.7582
+Public Relations in Crisis Situations	-0.1235	0.7074	3	2477	148.5129
+Surfactant Interactions and Phase Transitions	-0.5521	-0.6239	2	2477	452.4109
+Critical Pedagogy and Social Justice	-0.0562	0.7723	3	2477	220.4794
+Philosophical Critique and Aesthetic Politics	-0.0929	0.9424	3	2477	196.5186
+Enhancing Crop Yield and Stability	0.0115	-0.2983	5	2477	185.7331
+Palladium-Catalyzed Organic Synthesis Reactions	-0.3221	-0.7785	7	2477	374.0362
+Mobile Crowdsourcing and Social Sensing	-0.7754	0.3068	4	2477	499.0807
+Hardware Security and Cryptanalysis Techniques	-1.0199	0.2692	4	2477	362.278
+Advanced Cryptographic Protocols and Security	-1.0014	0.324	4	2477	306.1649
+Cryptosporidium and Giardia Infections	0.5181	-0.1534	9	2477	458.7617
+Convection in Crystal Growth Processes	-0.9478	-0.3398	2	2477	467.5243
+Spectroscopic Analysis of Crystal Structures	-0.8182	-0.4753	2	2477	460.687
+Cultural Identity and Archaeological Practices	-0.1206	0.5789	3	2477	128.126
+Cultural Heritage Protection and Repatriation	-0.1286	0.8003	3	2477	273.0493
+Exploration of Cultural and Historical Narratives	-0.0563	0.4007	3	2477	972.2989
+Cultural Politics and Identity Narratives	-0.0642	0.6971	3	2477	438.4162
+Cultural and Historical Psychology Perspectives	0.0611	0.7006	3	2477	218.5423
+Cultural Identity and Transformation	-0.0513	0.8639	3	2477	112.6337
+High-Temperature Superconductivity in Cuprates	-0.8739	-0.3418	2	2477	438.7727
+Curcumin's Therapeutic and Anticancer Properties	0.4952	-0.4337	6	2477	855.5475
+Exploration of Curiosity and Its Impacts	-0.3253	0.426	3	2477	665.4794
+Unusual Metastatic Cancer Presentations	1.0896	-0.1158	1	2477	546.196
+Diagnosis and Treatment of Cutaneous T-cell Lymphoma	1.0607	-0.1839	1	2477	282.71
+Algorithms for Packing and Cutting Problems	-0.8187	0.3346	4	2477	292.838
+Bioremediation and Detoxification of Cyanide	0.2044	-0.3871	5	2477	822.0647
+Cybersecurity Strategies and Human Factors	-0.7294	0.3804	4	2477	390.9161
+Advanced Linear and Cyclic Codes	-1.0915	0.2785	4	2477	351.4748
+Cycloaddition in Organic Synthesis	-0.3138	-0.7974	7	2477	343.8232
+Cyclodextrin and Macrocycle Complexation	-0.3098	-0.7004	7	2477	480.9679
+Cyclone Separator Performance and Design	-0.7399	-0.2988	2	2477	240.5324
+Cyclophosphamide-Induced Toxicity and Protection	0.7705	-0.1539	1	2477	719.4614
+Catalytic Cyclopropanation and Ring Transformations	-0.3114	-0.7997	7	2477	348.0391
+Cystinosis Pathophysiology and Management	0.6865	-0.0168	1	2477	797.7953
+Cytochrome P450 Enzyme Metabolism	0.5821	-0.4372	6	2477	590.0717
+Cytochrome c Oxidase Mechanisms and Functions	0.1797	-0.557	6	2477	714.7008
+Cytokine Roles in Cancer and Inflammation	0.6807	-0.2611	6	2477	893.6512
+Cytomegalovirus in Transplantation and Immunity	0.8293	-0.1095	1	2477	626.4767
+DNA Structure and Ligand Interactions	0.0148	-0.456	6	2477	842.127
+DNA-Based Nanostructures and Computation	-0.2826	-0.2836	7	2477	868.2976
+DNA Charge Transfer and Photochemistry	-0.3782	-0.5128	2	2477	738.4843
+Direction-of-Arrival Estimation in Radar	-1.1326	0.1682	4	2477	390.875
+Dacryocystorhinostomy Techniques and Outcomes	1.0398	0.0156	1	2477	158.9702
+Chemical and Sensory Properties of Dairy	0.2066	-0.4103	5	2477	225.8143
+Vibration-Based Structural Health Monitoring	-0.8942	-0.0533	2	2477	273.7858
+Cosmological Models and Gravity Theories	-0.8721	-0.1708	2	2477	156.81
+Efficiency and Productivity in Various Sectors	-0.3351	0.5496	3	2477	251.3939
+Communication and Education for the Deaf	0.0598	0.5623	3	2477	305.5729
+Nanoporous Metal Fabrication and Applications	-0.6916	-0.4036	2	2477	677.5482
+Crustacean Life Cycles and Ecology	0.118	-0.1848	5	2477	250.3907
+Techniques and Challenges in Lie Detection	-0.0351	0.5453	3	2477	324.8512
+Decolonial Perspectives in Sociology and Knowledge	-0.0755	0.8697	3	2477	297.518
+Deep Learning in Visual Recognition	-0.7963	0.2424	4	2477	370.9468
+Automated Defect Detection in Manufacturing	-0.9519	0.1318	4	2477	518.7843
+Economic Impact of Military Spending	-0.2351	0.7011	3	2477	244.7626
+Delirium, Sedation, and Cognitive Dysfunction	0.9009	0.1263	1	2477	521.8163
+Delusions, Whipple's Disease, and Hikikomori	0.6857	0.3155	8	2477	432.5039
+Cognitive Impairment and Alzheimer's Disease	0.708	0.1975	8	2477	494.0764
+Challenges and Innovations in Dementia Care	0.5198	0.4117	3	2477	316.7292
+Dendritic Polymers and Applications	-0.3212	-0.6437	7	2477	532.9824
+Dendritic Cells in Cancer Immunotherapy	0.677	-0.3055	6	2477	540.95
+Advancements in Density Functional Theory	-0.717	-0.4526	2	2477	484.2401
+Implantology and Bone Regeneration	0.7506	0.0074	1	2477	114.1331
+Advancements in Dental Restorative Materials	0.5756	-0.0402	1	2477	102.9466
+Stem Cells and Tooth Regeneration	0.6585	-0.1097	1	2477	254.5622
+Approaches to Depression and Anxiety Treatment	0.6949	0.3483	8	2477	324.6988
+Dermatofibrosarcoma Protuberans and Related Tumors	1.1292	-0.1348	1	2477	363.7022
+Dermatomyositis and Inflammatory Myopathies	0.9542	0.0309	1	2477	367.6494
+Fungal Skin and Nail Infections	0.8657	-0.1865	1	2477	270.352
+Innovations in Engineering Design Processes	-0.589	0.3744	4	2477	382.9913
+Catalysts for Fuel Desulfurization Processes	-0.6184	-0.5422	2	2477	417.3748
+Developmental States and Globalization in East Asia	-0.1342	0.8234	3	2477	256.0099
+Comprehensive Diabetes Care and Challenges	0.8539	0.1195	1	2477	385.9802
+Mechanisms and Treatments of Diabetic Neuropathy	0.7651	-0.1557	8	2477	644.9421
+Diabetic Retinopathy and Macular Degeneration	0.7947	-0.003	1	2477	177.6614
+Comparative Studies on Dialysis Techniques	1.0039	0.0226	1	2477	242.6154
+Diamond and Diamond-like Carbon Films	-0.8617	-0.382	2	2477	540.7711
+Slime Mold Behavior and Development	0.2086	-0.2787	6	2477	729.6646
+Soft Robotics and Actuator Technologies	-0.6878	-0.119	2	2477	531.1702
+Dielectrophoresis in Microfluidic Systems	-0.527	-0.2982	2	2477	825.1014
+Environmental and Nutritional Impacts of Diets	0.1174	-0.03	5	2477	569.1621
+Oscillation and Stability in Differential Equations	-1.0992	0.2649	4	2477	194.6649
+Privacy Preservation in Data Sharing	-0.8643	0.2928	4	2477	433.539
+In Vivo Optical Tissue Imaging Techniques	-0.0683	-0.0997	2	2477	556.4652
+Digital and Cultural Archival Preservation	-0.2308	0.7704	3	2477	155.4876
+Innovations in Construction Project Management	-0.5526	0.3358	3	2477	238.0856
+Economic and Technological Transformation in Europe	-0.2679	0.6037	3	2477	382.6256
+Digital Competence in Education	-0.1209	0.7294	3	2477	224.8973
+Design and Optimization of Digital Filters	-1.1393	0.1741	4	2477	382.9819
+Digital Health Information and Literacy	0.6278	0.2706	1	2477	670.9391
+Advancements in 3D Holographic Display Technologies	-0.9115	-0.0584	2	2477	301.7772
+Digital Humanities and Literary Studies	-0.174	0.7753	3	2477	346.8999
+Digital Libraries and Information Retrieval	-0.4889	0.5435	3	2477	128.7718
+Effects of Digital Media on Society	0.0592	0.5689	3	2477	402.0463
+Digital Interventions for Mental Health Care	0.4044	0.3218	1	2477	564.332
+Digital Privacy and Data Protection	-0.3719	0.5402	3	2477	383.7811
+Topological Methods in Image Processing	-0.8755	0.2303	4	2477	504.4676
+Techniques for Image and Video Watermarking	-1.0426	0.2319	4	2477	461.2001
+Dilute Nitride Semiconductor Materials	-1.0786	-0.3185	2	2477	427.2193
+Biogeochemical Cycling of Oceanic Sulfur Compounds	-0.1629	-0.199	5	2477	621.1995
+Taxonomic Studies of Diptera Species	0.1122	-0.2349	5	2477	226.4107
+Inclusive Education and Disability Rights	0.1193	0.6877	3	2477	222.4322
+Emergency Response and Disaster Management	0.7124	0.2428	1	2477	547.337
+Pragmatics in Social and Cultural Discourse	-0.064	0.8158	3	2477	144.3057
+Max-Plus Algebra in System Theory	-0.9341	0.2768	4	2477	491.5698
+Geographic Patterns in Disease Surveillance	0.414	0.2029	1	2477	563.6213
+Disinfection Byproducts in Water Treatment	-0.2088	-0.1791	5	2477	385.4879
+Diagnosis and Treatment of Consciousness Disorders	0.6695	0.1836	8	2477	557.3827
+Electron and Positron Scattering Processes	-0.85	-0.3679	2	2477	316.9704
+Dissolved Organic Matter in Aquatic Systems	-0.2612	-0.2129	5	2477	475.7001
+Advanced Simulation Modeling Techniques	-0.8623	0.2988	4	2477	367.0314
+Advanced Storage System Architectures	-1.031	0.2703	4	2477	368.2969
+Fault Tolerance in Distributed Systems	-0.9888	0.3495	4	2477	251.7679
+Advanced Statistical Distribution Models	-0.6169	0.2622	4	2477	158.1077
+Toxicity and Pharmacology of Diterpenoid Alkaloids	0.3198	-0.399	7	2477	762.8926
+Analytical Methods for Drug Quantification	0.2287	-0.4777	7	2477	402.6752
+Diverticulitis Diagnosis and Management	1.197	0.0392	1	2477	375.3458
+Dopamine's Role in Addiction and Neuromodulation	0.557	0.0523	8	2477	475.0512
+Control Strategies for Wind Energy Systems	-1.1176	0.1292	4	2477	387.0896
+Down Syndrome and Intellectual Disabilities	0.6411	0.1284	8	2477	716.7431
+Dried Blood Spot Sampling Techniques	0.4359	-0.2721	7	2477	629.6953
+Dynamics and Optimization in Drilling Systems	-0.8358	-0.1485	2	2477	427.6358
+Genetic and Cellular Mechanisms in Drosophila	0.4053	-0.2784	6	2477	654.4951
+Cutaneous and Systemic Drug Reactions	0.9607	-0.0939	1	2477	450.426
+Drug and Herb-Induced Liver Injury	0.7509	-0.2207	1	2477	667.169
+Pulmonary Drug Delivery Systems and Techniques	0.374	-0.2034	7	2477	529.5564
+Genetics and Therapy of Muscular Dystrophy	0.5817	-0.1818	6	2477	830.3834
+Ecology and Diversity of Dung Beetles	0.0734	-0.178	5	2477	225.1657
+Dupuytren's Contracture and Treatment Approaches	1.1296	0.0732	1	2477	428.0281
+Combustible Dust Explosion Dynamics and Safety	-0.7805	-0.113	2	2477	394.7769
+Nonlinear Dynamics in Dusty Plasmas	-0.9522	-0.2431	2	2477	235.7587
+Safety and Analysis of Food Dyes	0.0796	-0.4074	5	2477	270.1871
+Advancements in Dye-Sensitized Solar Cell Technology	-0.6395	-0.565	2	2477	611.9246
+Hot and Cold Metal Forming Processes	-1.0072	-0.3655	2	2477	294.8473
+Fractals and Ergodic Theory in Dynamics	-1.09	0.2684	4	2477	196.4351
+Swallowing Disorders and Rehabilitation	0.8864	0.1278	1	2477	451.2148
+E-books and Digital Collections in Libraries	-0.2982	0.6119	3	2477	84.1456
+Escherichia coli Virulence and Infections	0.5973	-0.2003	9	2477	583.4787
+Epstein-Barr Virus in Transplant-Related Disorders	0.9066	-0.1744	1	2477	734.6638
+Advancements in Electrocardiogram Signal Processing	-0.3247	0.1452	4	2477	468.0424
+Design and Development of Ion Accelerators	-1.0301	-0.2478	2	2477	349.0246
+Biological Impacts of Electromagnetic Fields	-0.0216	-0.0131	8	2477	921.1924
+Electromagnetic Interference in Motor Drives	-1.134	0.1347	4	2477	391.8694
+Global Climate Variability and Impacts	-0.3659	-0.0499	5	2477	150.5753
+Electrostatic Discharge in Semiconductor Devices	-1.1532	0.0851	4	2477	423.0285
+Excited-State Proton and Charge Transfer	-0.5336	-0.6221	2	2477	512.3231
+European Union Governance and Integration	-0.1226	0.8724	3	2477	144.6793
+Extreme Ultraviolet Lithography Techniques	-1.0699	-0.1654	2	2477	459.9326
+Advancements in Ear Surgery Techniques	1.0183	0.0687	1	2477	166.6325
+Quality and Impact of Early Childhood Education	-0.004	0.7349	3	2477	224.1138
+Philosophical Developments in Early Modern Europe	-0.0982	0.9538	3	2477	99.7826
+Seismic Activity and Fault Mechanics	-0.4447	-0.0929	5	2477	165.4547
+Eating Disorders and Body Image	0.5703	0.3682	3	2477	373.6591
+Cystic and Alveolar Echinococcosis	0.914	0.0047	1	2477	538.5174
+Cardiac Function and Imaging Techniques	1.0058	0.0443	1	2477	279.4776
+Sustainable and Functional Textile Dyeing	-0.3344	-0.476	2	2477	379.8954
+Impact of Economic Conditions on Health	0.4603	0.4137	3	2477	507.809
+Innovative Approaches in Economics Education	-0.3166	0.6193	3	2477	351.3053
+Historical and Philosophical Economic Theories	-0.2085	0.7643	3	2477	174.8315
+Complexity and Stability in Ecological Networks	-0.1738	-0.0118	5	2477	447.8235
+Land Use Change and Ecosystem Services	-0.209	0.1008	5	2477	397.1557
+Diagnosis and Management of Ectopic Pregnancy	0.9839	0.1228	1	2477	196.0724
+Eddy Current Non-Destructive Testing Techniques	-1.0659	-0.0669	4	2477	397.6893
+Gamified Learning in Education	-0.1792	0.4973	3	2477	436.5996
+Socioeconomic Factors in Higher Education	-0.1005	0.7903	3	2477	224.3961
+Innovations in Teaching and Learning Psychology	0.0651	0.4255	3	2477	534.6422
+Educational Reform and Leadership Dynamics	-0.0925	0.8049	3	2477	179.0935
+Historical and Philosophical Education Theories	-0.075	0.763	3	2477	250.55
+Efficient Data Structures and Algorithms	-0.929	0.3016	4	2477	336.4709
+Homogenization in Elasticity and Thin Structures	-1.0024	0.1559	4	2477	272.9734
+Pediatric and Adult Elbow Fracture Management	1.1732	0.1102	1	2477	232.393
+Electrosensory Systems in Weakly Electric Fish	-0.0526	-0.0509	5	2477	601.8159
+Advanced Control of Electric Motors	-1.1345	0.1069	4	2477	413.8323
+Electric and Hybrid Vehicle Technologies	-0.9216	0.0973	4	2477	475.9745
+Electrical Impedance and Capacitance Tomography	-0.7311	0.076	4	2477	544.7902
+Electrocatalysts for Energy Conversion	-0.5912	-0.5641	2	2477	576.9758
+Advancements in Electrochemical Machining Techniques	0.1554	-0.0875	1	2477	823.7287
+Electrochromic Properties of Metal Oxides	-0.8069	-0.5147	2	2477	597.5828
+Electroconvulsive Therapy in Psychiatry	0.7436	0.2904	8	2477	310.6455
+Advanced Electrode Materials for Energy Storage	-0.6944	-0.54	2	2477	571.4215
+Electrodeposition and Corrosion Resistance	-0.8979	-0.4592	2	2477	356.3777
+Ion Exchange Membranes in Electrodialysis	-0.5698	-0.4523	2	2477	396.5714
+Electrokinetic Techniques for Soil Decontamination	-0.4413	-0.2208	5	2477	377.619
+Design and Optimization of Electromagnetic Launchers	-0.9937	-0.0505	4	2477	496.7989
+Advanced Electromagnetic Scattering Techniques	-1.1104	0.1237	4	2477	434.7743
+Electromagnetic Shielding and Interference Analysis	-1.1374	0.1378	4	2477	390.6914
+Coherent Control in Atomic Systems	-0.9112	-0.2354	2	2477	381.9994
+Electromigration in Thin-Film Interconnects	-1.0823	-0.2077	2	2477	519.2352
+Advancements in Electron Microscopy Techniques	-0.3612	-0.3267	2	2477	660.461
+Electron Interactions and Surface Analysis	-0.9473	-0.333	2	2477	539.9825
+Electronic Health Records and Decision Support	0.4367	0.2773	1	2477	458.2586
+Electronic Noses for VOC Detection	-0.259	-0.2433	7	2477	665.1541
+Electronic and Structural Properties of Solids	-0.8515	-0.415	2	2477	545.8826
+Electroplastic Effects on Metal Deformation	-0.92	-0.3696	2	2477	467.2787
+Electrospinning Techniques and Applications	-0.4359	-0.4479	2	2477	618.8457
+Electrostatic Precipitation and Particle Control	-0.9062	-0.0787	4	2477	604.4536
+Innovations in Surgical Energy Applications	0.8147	0.0182	1	2477	468.4139
+Elemental and Molecular Imaging Techniques	-0.2614	-0.4432	7	2477	320.1676
+Embryo Development and Genetic Testing	0.5085	-0.1786	6	2477	379.5832
+Emergency Department Operations and Challenges	0.839	0.2406	1	2477	324.1297
+Emotion Perception and Recognition Mechanisms	0.1253	0.2879	8	2477	444.845
+Emotional Intelligence and Alexithymia	0.2499	0.5107	3	2477	390.7204
+Ethics and Practices in End-of-Life Care	0.8916	0.2379	1	2477	536.7683
+Endocrine Disruptors in Aquatic Environments	-0.0318	-0.1916	5	2477	443.8195
+Advancements in Endodontic Treatment Methods	0.7577	-1e-04	1	2477	101.0277
+Endometriosis Pathogenesis and Management	0.9213	0.0038	1	2477	330.2316
+Bioactive Compounds from Endophytic Fungi	0.1666	-0.5607	7	2477	674.8282
+Endothelin's Role in Health and Disease	0.7933	-0.2124	6	2477	767.1859
+Enediynes in Antitumor Chemistry	0.0066	-0.6391	7	2477	619.8153
+Synthesis and Properties of Energetic Materials	-0.6634	-0.504	2	2477	618.986
+Economic Impacts of Energy Resources	-0.3616	0.3028	3	2477	575.4975
+Renewable Energy and Load Forecasting	-0.8943	0.1302	4	2477	449.4945
+Piezoelectric and Triboelectric Energy Harvesting	-0.8891	-0.1963	2	2477	712.7832
+Geopolitical Dynamics of Energy Supply	-0.3241	0.5423	3	2477	322.8928
+Optimization of Integrated Energy Systems	-0.853	-0.1674	2	2477	219.0468
+Innovations in Engineering Education Practices	-0.3073	0.5396	3	2477	269.218
+CO2 Enhanced Oil Recovery Techniques	-0.6565	-0.2881	2	2477	378.635
+Enhanced Recovery After Surgery Protocols	1.1529	0.0777	1	2477	442.8787
+Amoebic and Pyogenic Liver Abscesses	0.8526	-0.0995	1	2477	732.7592
+Enteral Nutrition in Critical Care	1.0397	0.0517	1	2477	387.6733
+Development and Disorders of Enteric Nervous System	0.808	-0.1064	1	2477	671.2485
+Viral Gastroenteritis and Surveillance	0.5709	-0.1005	9	2477	523.6383
+Enterovirus Pathogenesis and Control Strategies	0.5439	-0.1243	9	2477	598.1151
+Thermochemical Properties of Organic Compounds	-0.5146	-0.6114	2	2477	516.9173
+Data Quality and Record Linkage	-0.3449	0.3202	4	2477	539.3115
+Biocontrol Using Entomopathogenic Fungi and Nematodes	0.1962	-0.2908	5	2477	310.7269
+Entrepreneurship Dynamics and Influences	-0.2248	0.6855	3	2477	180.3652
+Environmental DNA in Biodiversity Monitoring	0.0649	-0.1704	5	2477	593.5175
+Religious and Ethical Environmental Philosophy	-0.0721	0.541	3	2477	374.4494
+Historical Perspectives on Environment and Society	-0.1108	0.8431	3	2477	230.2481
+Sustainable Brownfield Redevelopment and Remediation	-0.2922	0.3174	3	2477	490.0908
+Genetic and Therapeutic Insights into Lysosomal Disorders	0.7351	-0.1601	6	2477	794.6418
+Eosinophilic Esophagitis and Related Conditions	0.9929	-0.1241	1	2477	489.0842
+Taxonomy and Diversity of Aquatic Insects	0.1077	-0.2006	5	2477	153.2543
+Epigenetic Regulation and Modifications	0.3833	-0.3195	6	2477	807.0169
+Mechanisms and Treatments in Epilepsy	0.785	0.1248	8	2477	376.0535
+Advancements in Epilepsy Management and Treatment	0.883	0.1483	8	2477	344.9217
+Intersections of Epistemology and Moral Philosophy	-0.0984	0.9266	3	2477	93.065
+Quantum Dots in Semiconductor Devices	-1.0826	-0.3169	2	2477	408.6205
+Sodium and Ion Transport Mechanisms	0.6448	-0.2558	6	2477	696.2274
+Curing Kinetics and Properties of Epoxy Resins	-0.7427	-0.552	2	2477	224.3051
+Orthopedic Health and Injuries in Horses	0.6788	-0.1665	9	2477	157.9085
+Respiratory Health in Horses and Companion Animals	0.7191	-0.1907	9	2477	162.5411
+Diagnosis and Treatment of Gastrointestinal Issues in Horses and Cattle	0.7582	-0.1905	9	2477	134.5982
+Red Blood Cell Dynamics and Properties	0.3962	-0.2243	6	2477	735.6564
+Erythropoietin in Anemia and Kidney Disease	0.8724	-0.0973	1	2477	709.4112
+Esophageal Atresia and Tracheoesophageal Fistula	1.1772	0.0338	1	2477	397.1261
+Esophageal Cancer Treatment and Management	1.1488	-0.0622	1	2477	479.188
+Chemical Composition and Bioactivities of Essential Oils	0.2933	-0.4527	5	2477	647.6648
+Estrogen Receptor Roles in Cancer	0.8144	-0.299	6	2477	664.3779
+Ethics and Aesthetics in Literature	-0.0961	0.9675	3	2477	167.7966
+Traditional Plant Use and Knowledge	0.1743	-0.148	5	2477	522.8826
+Cultural Identity in Global Music	-0.1013	0.8905	3	2477	123.0016
+Historical Perspectives on Eugenics and Genetics	0.0721	0.5494	3	2477	426.4837
+Cultural Interactions in Eurasian History	-0.1099	0.7752	3	2477	254.1528
+Themes in Medieval and Early Modern Literature	-0.0576	0.9687	3	2477	109.0553
+Modeling and Simulation of Evacuation Behavior	-0.7006	0.156	4	2477	597.7981
+Meta-Analysis and Evidence-Based Medicine	0.7209	0.2083	1	2477	671.9818
+Implementing Evidence-Based Practices in Healthcare	0.7113	0.3206	1	2477	489.7623
+Genetic and Ecological Evolutionary Dynamics	0.0951	-0.0998	5	2477	569.1566
+Evolutionary Influences on Human Behavior	0.1546	0.3805	3	2477	442.3831
+Thermodynamic Properties of Liquid Mixtures	-0.5944	-0.6152	2	2477	437.9934
+Exciton-Polaritons in Quantum Microcavities	-0.7923	-0.3118	2	2477	521.3898
+Exercise Effects on Immunity and Inflammation	0.672	-0.0639	6	2477	402.3032
+Physiological Responses to Exercise	0.5429	0.097	1	2477	181.7221
+Characterization and Dynamics of Exoplanets	-0.6661	-0.1254	2	2477	115.5493
+Exosomes in Disease and Therapy	0.5258	-0.3274	6	2477	891.9834
+Detection and Degradation of Explosives	-0.1651	-0.3478	5	2477	616.9451
+Statistical Analysis of Extreme Events	-0.5851	0.2913	4	2477	163.0286
+Finite-Difference Time-Domain Electromagnetic Simulations	-1.1156	0.1069	4	2477	453.2088
+Advanced Techniques in Face Recognition	-0.9058	0.2515	4	2477	406.321
+Diagnosis and Treatment of Facial Nerve Disorders	1.0941	0.1019	1	2477	371.1342
+Techniques in Facial Rejuvenation and Fillers	1.2167	0.0314	1	2477	300.2555
+Emergency and Competitive Facility Location	-0.6091	0.3893	4	2477	275.4669
+Munchausen Syndrome and Related Disorders	0.9276	0.2181	1	2477	528.8613
+Fairness in Cooperative Games and Voting	-0.5173	0.5572	3	2477	269.6951
+Genetics and Treatment of Familial Mediterranean Fever	0.9132	-0.053	1	2477	461.5327
+Family Dynamics and Fertility Patterns	0.0683	0.6369	3	2477	271.3942
+Animal Welfare and Behavior in Farming	0.3643	-0.1378	9	2477	210.1819
+Fascism, National Identity, and Historical Memory	-0.1084	1.0132	3	2477	157.0625
+Efficient Fast Fourier Transform Architectures	-1.081	0.1793	4	2477	440.8655
+Ramadan Fasting and Thallium Toxicity	0.5505	-0.005	1	2477	715.7375
+Crystallization and Properties of Fats	-0.0927	-0.4873	5	2477	297.9194
+Fatigue Crack Growth in Metals	-0.9954	-0.3093	2	2477	306.6421
+Fatty Acids in Health and Disease	0.7049	-0.1959	6	2477	659.9292
+Fault Detection in Power Systems	-1.1347	0.1481	4	2477	383.0124
+Fc Receptor Roles in Immunity	0.663	-0.2828	6	2477	668.238
+Mechanisms and Modulation of Fear Conditioning	0.4093	0.1421	8	2477	424.7968
+Diagnosis and Treatment of Anorectal Conditions	1.193	0.0599	1	2477	396.8354
+Cultural, Legal, and Health Aspects of FGM	0.6556	0.3292	1	2477	572.9152
+Feminist Epistemology and Social Justice	-0.0233	0.8115	3	2477	282.4689
+Feminist Perspectives in Literature and Culture	-0.0796	0.9785	3	2477	158.2259
+Taxonomy and Diversity of Ferns	0.1133	-0.3962	5	2477	216.061
+Phase Transitions in Ferroelectric Crystals	-0.9051	-0.4685	2	2477	416.9536
+Magnetic and Electronic Properties of Spinels	-0.8844	-0.4074	2	2477	479.7343
+Fertility Preservation in Cancer Patients	0.8532	-0.1701	1	2477	542.8384
+Advancements in Fiber Laser Technologies	-1.064	-0.1942	2	2477	275.0459
+Advanced Fiber Optic Sensing Technologies	-1.0495	-0.0917	2	2477	374.6908
+Fibromyalgia and Chronic Fatigue Syndromes	0.7722	0.1707	1	2477	538.9091
+Fibrous and Myofibroblastic Tumors	1.1452	-0.0739	1	2477	490.7225
+Diversity and Control of Filarial Diseases	0.6152	-0.0021	9	2477	395.5086
+Financial Development and Economic Growth	-0.2442	0.7179	3	2477	153.6369
+Structure and Properties of Finite Groups	-1.1378	0.2913	4	2477	149.2267
+Fire Behavior and Smoke Control	-0.8351	-0.2432	2	2477	375.4804
+Diversity and Impact of Fish Parasites	0.304	-0.175	5	2477	191.7863
+Fish Reproductive Biology and Endocrinology	0.2896	-0.2307	5	2477	403.0446
+Viral Infections in Aquatic Species	0.4614	-0.2639	9	2477	403.5817
+Ecological Dynamics in Fisheries Management	-0.0672	0.0122	5	2477	260.2815
+Nuclear Fission and Fusion Studies	-0.7877	-0.268	2	2477	155.4564
+Fixed Points and Variational Inequalities	-1.064	0.268	4	2477	212.1655
+Advancements in Flame Retardant Polymer Composites	-0.7316	-0.5656	2	2477	275.2502
+Flap Techniques in Reconstructive Surgery	1.2544	0.0556	1	2477	288.021
+Bioactive Flavonoids and Alkaloids	0.3226	-0.5277	7	2477	736.0962
+Mineral Flotation and Separation Techniques	-0.7233	-0.3977	2	2477	354.312
+Boiling and Condensation Heat Transfer	-0.9462	-0.2038	2	2477	230.827
+Continuous Flow Chemical Synthesis	-0.3649	-0.5585	7	2477	553.0027
+Advancements in Flow Cytometry Techniques	0.2456	-0.2292	6	2477	794.2182
+Dynamics of Fluid-Conveying Structures	-0.9535	-0.0603	2	2477	282.6705
+Dynamics and Modeling of Granular Materials	-0.7289	-0.313	2	2477	283.5962
+Advanced Fluorescence Microscopy Techniques	-0.1081	-0.3089	6	2477	851.9199
+Fluorescent Probes for Ion Detection	-0.3387	-0.6646	7	2477	545.9987
+Fluorescent Nanoclusters for Sensing and Imaging	-0.4634	-0.5846	7	2477	623.1804
+Health and Environmental Impacts of Fluoride	0.3896	-0.0451	5	2477	622.2477
+Synthesis and Properties of Fluorides	-0.6114	-0.6516	2	2477	437.2961
+Synthesis and Reactions of Fluorinated Compounds	-0.2842	-0.7709	7	2477	372.8246
+Environmental Impact of Coal and Waste Ash	-0.4792	-0.2181	5	2477	380.1208
+Nanostructure Fabrication with Focused Beams	-0.9646	-0.325	2	2477	518.7339
+Folate and Homocysteine Metabolism	0.7954	-0.0486	1	2477	846.3515
+Cultural Narratives and Folklore Analysis	-0.0846	0.8831	3	2477	85.4997
+Transformations in Global Food Systems	-0.0724	0.5695	3	2477	349.0019
+Diagnosis and Treatment of Foot and Ankle Conditions	0.9936	0.1418	1	2477	206.9813
+Forage Crop Breeding and Seed Yield	-0.0348	-0.1764	5	2477	273.7469
+Foreign Aid, Development, and Governance	-0.1488	0.7501	3	2477	200.2462
+Ingestion and Aspiration of Foreign Bodies	1.1021	0.1041	1	2477	493.5882
+Forensic and Archaeological Skeletal Studies	0.3352	0.2535	1	2477	255.2014
+Insect Role in Forensic Investigations	0.4405	-0.1107	5	2477	320.5918
+Forensic Psychiatry and Mental Health Law	0.4597	0.4839	3	2477	297.4197
+Chemical Analysis in Forensic Science	-0.2011	-0.0544	7	2477	194.7996
+Strategic Foresight and Scenario Development	-0.1756	0.4459	3	2477	417.7655
+Socioeconomic Impacts of Forest Conservation	-0.1228	0.3268	3	2477	444.4896
+Forest Growth and Environmental Interactions	-0.0813	-0.1607	5	2477	218.0064
+Economic Aspects of Forest Management	-0.2846	0.2508	5	2477	109.4865
+Forgiveness in Interpersonal and Cultural Contexts	0.0749	0.7444	3	2477	264.5815
+Complexity and Learning in Automata	-0.9346	0.3541	4	2477	263.5291
+Formaldehyde Detection and Health Impacts	0.0475	-0.2604	5	2477	698.5456
+Fractional Differential Equations and Solutions	-0.9768	0.1225	4	2477	335.0671
+Advanced Fourier and Fractional Transforms	-1.0787	0.1886	4	2477	420.0707
+Innovations in Bone Fracture Management	1.1188	0.0821	1	2477	270.963
+Dynamic and Brittle Fracture Analysis	-0.9551	-0.2095	2	2477	244.1697
+Genetic and Neurodevelopmental Aspects of Fragile X	0.573	-0.0848	8	2477	599.5887
+Tularemia Pathogenesis and Granulomatous Mastitis	0.5225	-0.0295	9	2477	797.6858
+Cultural and Political Dynamics in Spain	-0.096	0.9855	3	2477	192.9516
+Electron Beam and Radiation Dynamics	-0.9585	-0.2128	2	2477	353.0844
+Freeze Concentration and Desalination Techniques	-0.1526	-0.2776	5	2477	745.9769
+Gender, Politics, and Identity in France	-0.0901	0.9758	3	2477	214.4167
+French Revolution and Enlightenment Thought	-0.1084	1.0118	3	2477	171.4639
+Frequency Estimation in Signal Processing	-1.09	0.127	4	2477	405.52
+Ecological Dynamics of Freshwater Fish Communities	-0.0895	-0.1156	5	2477	241.0096
+Advanced Optical Measurement Techniques	-0.9605	-0.1557	2	2477	249.7048
+Frosting and Defrosting in Heat Pump Systems	-0.8176	-0.1494	2	2477	348.1835
+Fructan Metabolism and Inulin Applications	0.1847	-0.4677	5	2477	576.0302
+Membrane Technologies in Fuel Cells	-0.7602	-0.4771	2	2477	393.9791
+Fullerene Chemistry and Properties	-0.5232	-0.551	2	2477	659.8966
+Bioactive Peptides from Protein Hydrolysates	0.3255	-0.4309	5	2477	450.1889
+Functional and Structural Brain Connectivity	0.2955	0.1022	8	2477	518.1631
+New Crystal Structures and Properties	-0.6266	-0.5896	2	2477	492.0473
+Pathogenesis and Treatment of Fungal Infections	0.7553	-0.1296	9	2477	558.3673
+Fungal Resistance and Pathogen Management	0.1167	-0.3886	5	2477	258.2962
+Fuzzy Cognitive Maps in Decision Making	-0.3718	0.6193	3	2477	457.2068
+Fuzzy Logic in Multi-Criteria Decision-Making	-0.7819	0.3124	4	2477	451.0765
+Glucose-6-Phosphate Dehydrogenase Deficiency	0.7472	-0.0923	1	2477	832.7352
+GABA Receptor Function and Modulation	0.4926	-0.1355	8	2477	639.1667
+Diagnosis and Treatment of GERD and Achalasia	1.1127	-0.018	1	2477	369.9565
+Growth Hormone and IGF-1 Interactions	0.8168	-0.2126	6	2477	494.9815
+Incretin and SGLT2 Inhibitors in Diabetes	0.8919	-0.0668	1	2477	520.7212
+G Protein-Coupled Receptor Mechanisms	0.3245	-0.3834	6	2477	845.1105
+Gallium Nitride Semiconductor Devices	-1.1103	-0.2418	2	2477	422.0795
+Gadolinium-based MRI Contrast Agents	0.2502	-0.3914	7	2477	521.7777
+Biometric Identification via Gait Analysis	-0.8617	0.2421	4	2477	441.562
+Gait, Balance, and Fall Prevention	0.3245	0.1707	8	2477	502.9385
+Galaxy Formation and Evolution Studies	-0.7843	-0.1342	2	2477	66.4331
+Galectins in Cancer and Immunity	0.6864	-0.3728	6	2477	844.8483
+Neurobiology and Psychology of Gambling	0.3264	0.2924	8	2477	476.9116
+Game Theory in Security and Defense	-0.5458	0.3375	4	2477	486.3601
+Connexin Proteins and Gap Junctions	0.6267	-0.2459	6	2477	841.7232
+Bioactive Compounds in Garlic and Onions	0.4051	-0.3774	5	2477	799.0401
+Gas Hydrate Formation and Stability	-0.5199	-0.3085	2	2477	451.5655
+Advancements in Particle Detector Technologies	-0.9253	-0.1544	2	2477	205.9757
+Thermochemical Conversion of Biomass and Coal	-0.6248	-0.3592	2	2477	304.0948
+Gastric Cancer Treatment and Prognosis	1.1346	-0.1066	1	2477	491.5267
+Gastrin and Cholecystokinin Peptide Functions	0.6891	-0.2592	6	2477	812.701
+Gastrointestinal Stromal Tumors and Variants	1.1032	-0.1116	1	2477	524.9219
+Gastroprotective Agents and Mechanisms	0.7527	-0.2761	6	2477	620.031
+Gastroschisis and Abdominal Wall Defects	1.1069	0.0761	1	2477	429.5428
+Dynamic Analysis of Gear Systems	-0.9861	-0.1176	2	2477	168.8205
+Gender Equity in Medical Professions	0.7811	0.1926	1	2477	709.8255
+Generative Models for Image Synthesis	-0.8392	0.2885	4	2477	315.3889
+Genetic and Drug-Induced Blood Disorders	0.7686	-0.1199	1	2477	726.58
+Genetic Diversity and Population Structure	0.2193	-0.2444	5	2477	463.118
+Genetics and Treatment of Retinal Diseases	0.5322	-0.1057	8	2477	421.9232
+Genetic Testing in Cancer Risk	0.7644	-0.0517	1	2477	632.3285
+CRISPR and Zinc Finger Genome Editing	0.2289	-0.2713	6	2477	834.7646
+Genetic Variants and Disease Associations	0.4545	-0.0548	6	2477	619.8414
+Bioinformatics in Genomics and Medicine	0.1715	-0.1553	6	2477	841.402
+Imprinting Disorders and Genetic Syndromes	0.6163	-0.1741	6	2477	576.7431
+Geochemical Data in Mineral Exploration	-0.5028	0.0136	5	2477	259.7113
+Geochemical and Petrogenetic Processes in Magmatism	-0.4289	-0.112	5	2477	150.3192
+Governance and Ethics of Climate Geoengineering	-0.1997	0.1814	5	2477	520.5284
+Innovations in Geography Teaching and Learning	-0.1429	0.6667	3	2477	193.3674
+Geomagnetic Field and Paleomagnetism Studies	-0.4021	-0.1408	5	2477	276.4032
+Geometric and Topological Group Theory	-1.1244	0.279	4	2477	153.351
+Geometry in Lagrangian and Hamiltonian Systems	-1.0353	0.1163	4	2477	314.3491
+Geophysical Methods for Subsurface Exploration	-0.6669	-0.0363	5	2477	213.5039
+Conservation and Promotion of Geoheritage	-0.2569	0.0923	5	2477	345.4833
+Nutrition and Frailty in Older Adults	0.8492	0.0969	1	2477	490.0161
+Gestational Trophoblastic Neoplasia and Hormonal Interactions	0.9243	-0.1513	1	2477	482.5324
+Human Gesture and Action Recognition	-0.9035	0.2786	4	2477	373.9882
+Ginkgo Biloba Extracts and Effects	0.3134	-0.3437	7	2477	950.5432
+Ginsenosides and Health Benefits	0.4993	-0.3881	6	2477	821.4855
+Glacier and Ice Sheet Changes	-0.368	-0.059	5	2477	299.2707
+Dynamics and Transitions in Glassy Polymers	-0.7434	-0.435	2	2477	503.3178
+Structure and Properties of Glasses	-0.8977	-0.4438	2	2477	393.0213
+Advancements in Glaucoma Treatment and Diagnosis	0.8105	-0.015	1	2477	147.0062
+Advancements in Glioma Diagnosis and Treatment	0.8624	-0.1183	1	2477	628.5328
+Cultural Identity and Globalization	-0.1429	0.8347	3	2477	329.8975
+Stability and Synchronization in Neural Networks	-0.9038	0.1615	4	2477	548.2204
+Training and Capacity Building in Global Health	0.8812	0.2348	1	2477	616.1036
+Global and Transnational Historical Narratives	-0.1053	0.9496	3	2477	216.9663
+Global Trauma Care Systems and Outcomes	1.0722	0.1661	1	2477	418.8251
+Glutamate Receptors and Ketamine Effects	0.4839	-0.0634	8	2477	574.6722
+Glutamine's Role in Health and Disease	0.8108	-0.2208	6	2477	523.275
+Genetics and Pathophysiology of Glycogen Storage Disorders	0.7831	-0.1266	8	2477	774.9834
+Structure and Function of Glycolytic Enzymes	0.4749	-0.5036	6	2477	685.1319
+Glycosaminoglycan Structure and Function	0.5956	-0.4584	6	2477	820.9895
+Chemical and Enzymatic Glycoside Synthesis	-0.0396	-0.7127	7	2477	503.5927
+Glycosylation in Health and Disease	0.49	-0.4737	6	2477	791.1978
+Gonadotropin Hormone and Reproductive Axis	0.6036	-0.176	6	2477	500.8243
+German Literature and Aesthetic Critique	-0.1053	0.9812	3	2477	113.0246
+Interactions of Metals with Iron and Manganese Oxides	-0.4797	-0.3978	2	2477	535.8258
+Geochemical Processes in Gold Deposits	-0.3091	-0.1678	5	2477	360.054
+Luminescent and Bioactive Gold Complexes	-0.3367	-0.7225	7	2477	386.6733
+Goos-Hänchen and Spin Hall Effects	-0.8837	-0.1169	2	2477	488.1497
+Gothic Literature and Decadent Aesthetics	-0.0846	0.969	3	2477	189.0362
+Uric Acid's Role in Gout and Comorbidities	0.8264	-0.0625	1	2477	588.2361
+Processes and Effects of Grammaticalization	-0.1012	0.8544	3	2477	75.2424
+Granular Cell and Neuroectodermal Tumors	1.1236	-0.0525	1	2477	447.9203
+Genetic Diversity and Domestication of Grapevines	0.0672	-0.0401	5	2477	290.9276
+Graph Identification and Group Testing	-0.9414	0.2566	4	2477	347.0906
+Graph Labeling and Decomposition Techniques	-1.1074	0.23	4	2477	298.9667
+Graph Matching in Image Analysis	-0.8953	0.2621	4	2477	421.8177
+Advanced Graph Theory Concepts and Problems	-1.1019	0.2993	4	2477	207.8274
+Graphene Synthesis and Applications	-0.6867	-0.4041	2	2477	705.6412
+Graphite Intercalation and Fluorination Studies	-0.7981	-0.5156	2	2477	578.8704
+Thyroid Eye Disease and Treatments	0.9861	-0.0334	1	2477	370.5555
+Gravitational Wave Detection and Analysis	-0.8494	-0.1685	2	2477	211.8333
+Eco-friendly Catalytic Organic Synthesis	-0.3481	-0.7827	7	2477	320.1057
+Synthesis of Diverse Heterocyclic Compounds	-0.1918	-0.7585	7	2477	373.6414
+Atmospheric CO2 and Methane Dynamics	-0.2716	-0.0267	5	2477	448.264
+Greenhouse Climate and Crop Management	-0.3603	-0.1455	5	2477	298.6126
+Grey System Theory in Forecasting	-0.4552	0.2165	4	2477	698.4224
+Psychosocial Aspects of Grief and Loss	0.4743	0.4816	3	2477	421.7856
+Geothermal Heat Pump Systems and Efficiency	-0.6976	-0.1402	2	2477	251.062
+Geochemical and Isotopic Analysis of Groundwater	-0.3423	-0.0911	5	2477	307.2727
+Groundwater Flow and Contaminant Transport	-0.479	-0.0815	5	2477	266.6494
+Neonatal Sepsis and Group B Streptococcus	0.826	0.0231	1	2477	476.3899
+Advanced Missile Guidance and Control Systems	-0.9895	0.0998	4	2477	296.4579
+Guillain-Barré and Related Neuropathies	0.9174	0.1346	8	2477	446.2524
+Gut Microbiota and Health Interactions	0.4459	-0.1777	9	2477	846.9221
+Graft-Versus-Host Disease in Transplantation	0.9995	-0.1593	1	2477	366.6837
+Advancements in Gynecologic Cancer Treatment	1.06	-0.1405	1	2477	394.4125
+Development of High-Power Microwave Sources	-1.1188	-0.0745	4	2477	418.1455
+Hepatitis B Virus Infections and Treatments	0.863	-0.0876	1	2477	441.5735
+Hepatitis C Virus Infection and Treatment	0.8384	-0.0519	1	2477	488.7912
+Advancements in Breast Cancer Treatment and Diagnosis	0.9297	-0.2519	1	2477	484.5008
+Hypoxia-Inducible Factors in Cancer	0.7096	-0.3029	6	2477	839.6177
+HIV, Antiretrovirals, and Comorbid Conditions	0.8466	-0.0375	1	2477	605.1505
+HIV Impact on Neurological Function	0.6755	0.0358	8	2477	642.775
+HIV Infection and Treatment Strategies	0.4936	-0.1496	9	2477	627.685
+HIV/AIDS Prevention and Social Factors	0.6295	0.253	1	2477	522.0559
+Roles of HMGB1 and HMGA in Disease	0.6116	-0.3899	6	2477	827.1199
+HPV Detection, Vaccination, and Screening	0.8864	-0.0564	1	2477	647.5555
+HTLV-1 and Bovine Leukemia Virus Research	0.7315	-0.1944	9	2477	701.4815
+Alopecia and Hair Growth Research	0.8151	-0.1717	1	2477	345.2404
+Hallucinations and Charles Bonnet Syndrome	0.4818	-0.1402	8	2477	702.432
+Noncovalent Interactions in Halogen Complexes	-0.4038	-0.7048	7	2477	485.028
+Diagnosis and Treatment of Hand and Wrist Conditions	1.211	0.098	1	2477	241.2436
+Handedness, Laterality, and Brain Asymmetry	0.3672	0.1684	8	2477	533.9975
+Innovative Chemistry Teaching Methods	-0.3624	-0.4694	7	2477	385.0616
+Techniques for Handwritten Text Recognition	-0.9533	0.2733	4	2477	375.4512
+Hardware and Software Co-Design Verification	-0.9739	0.215	4	2477	500.3121
+Curvature and Manifold Structures	-1.1201	0.2661	4	2477	166.7317
+Mechanization and Engineering in Crop Harvesting	-0.3261	-0.1807	5	2477	284.261
+Head and Neck Cancer Treatment Strategies	1.0547	-0.1119	1	2477	453.0883
+Dynamics and Control in Hard Disk Drives	-1.0902	-0.0834	4	2477	507.8977
+Consumer Perception of Food Labels	0.1299	0.0931	5	2477	261.5883
+Socioeconomic and Racial Health Disparities	0.5979	0.357	1	2477	452.2791
+Influence of Locus of Control on Health	0.5433	0.3701	3	2477	642.2171
+Health Economics and Decision-Making	0.6923	0.2717	1	2477	537.9464
+Language Barriers in Healthcare Communication	0.695	0.2622	1	2477	669.563
+Healthcare Access, Costs, and Quality	0.7176	0.3313	1	2477	468.0108
+Advancements in Hearing Aids and Implants	0.075	0.1699	4	2477	285.7231
+Heart Failure Diagnosis and Management	1.0457	0.1161	1	2477	370.9921
+Autonomic Nervous System and Heart Rate	0.6253	0.1182	1	2477	538.8761
+Role of Heat Shock Proteins in Stress Response	0.5412	-0.4009	6	2477	837.1302
+Magnetism and Superconductivity in Heavy Fermions	-0.9247	-0.3766	2	2477	388.9911
+Quark-Gluon Plasma and Particle Dynamics	-0.9653	-0.2166	2	2477	132.7252
+Hedgehog Pathway in Cancer and Development	0.8526	-0.1969	1	2477	618.5885
+Hegelian Thought and Social Critique	-0.0949	0.9252	3	2477	159.6501
+Chirality in Helical Polymeric Structures	-0.4737	-0.681	7	2477	393.1948
+Helicobacter pylori and Gastric Diseases	0.8771	-0.1495	1	2477	506.9352
+Hematological Markers in Cardiovascular and Inflammatory Diseases	0.9548	-0.02	1	2477	647.1451
+Hematopoietic Stem Cell Dynamics	0.6232	-0.2413	6	2477	603.353
+Heme Oxygenase and Carbon Monoxide	0.6171	-0.2439	6	2477	1040.4598
+Hemoglobin Structure and Oxygen Transport	0.3129	-0.4481	6	2477	811.9256
+Intertextuality and Themes in Henry James	-0.0813	0.977	3	2477	161.1038
+Heparin-Induced Thrombocytopenia and Complications	0.9952	0.0249	1	2477	571.7711
+Epidemiology and Transmission of Hepatitis A and E	0.7778	0.0206	1	2477	546.0022
+Diagnosis and Treatment of Liver Cancer	1.0677	-0.0935	1	2477	490.3324
+Hepatocyte Growth and Liver Repair	0.6848	-0.3139	6	2477	800.0716
+Herbicide Resistance and Weed Management	0.0622	-0.3654	5	2477	252.9989
+Hereditary Angioedema and Kallikrein-Kinin System	0.8158	-0.182	1	2477	783.29
+Hereditary Hemorrhagic Telangiectasia and Hemoptysis	1.03	0.0277	1	2477	537.6171
+Generalized Inequalities and Convex Functions	-1.0886	0.2684	4	2477	198.2148
+Techniques and Outcomes in Hernia Repair	1.2382	0.0725	1	2477	311.4489
+Herpesvirus Infections and Treatments	0.7703	-0.0642	9	2477	637.6169
+Synthesis and Reactions of Heterocycles	-0.1455	-0.7433	7	2477	398.2555
+Synthesis and Characterization of Heterocycles	-0.1632	-0.7072	7	2477	465.2958
+Synthesis and Reactivity of Heterocycles	-0.1189	-0.6691	7	2477	467.5099
+SiGe and GaAs Heterojunction Bipolar Transistors	-1.1495	0.0047	4	2477	467.9744
+Taxonomy and Phylogeny of True Bugs	0.1335	-0.2206	5	2477	132.7917
+Literary and Cultural Spatial Dynamics	-0.1094	0.8915	3	2477	223.3638
+Pathogenesis and Management of Heterotopic Ossification	0.9436	-0.0409	1	2477	591.7322
+Hexavalent Chromium and Environmental Impact	0.144	-0.2304	5	2477	753.9361
+Hidradenitis Suppurativa and Related Conditions	1.0938	-0.0314	1	2477	334.4381
+Physiological Adaptations to High Altitude	0.7026	0.0849	1	2477	612.025
+Microstructure and Properties of High-Entropy Alloys	-0.8339	-0.4407	2	2477	414.4812
+Sterilization and Disinfection of Medical Devices	0.5379	0.0275	1	2477	695.8311
+High-Order Numerical Methods in Fluid Dynamics	-0.962	0.0956	4	2477	260.8324
+Dynamics in Intense Ultrafast Laser Fields	-0.771	-0.265	2	2477	413.6595
+Aerodynamics and Dynamics of High-Speed Trains	-0.9644	-0.0429	2	2477	369.7303
+Properties and Applications of High-Tc Superconductors	-1.0615	-0.2485	2	2477	443.033
+Diagnosis and Treatment of Hip Disorders	1.1261	0.1201	1	2477	245.2873
+Techniques for Femoral Neck and Hip Fractures	1.1035	0.1098	1	2477	256.7988
+Hippo Pathway in Cancer and Regeneration	0.5877	-0.3675	6	2477	784.2451
+Neurogenesis and Depression Interactions	0.4834	-0.0026	8	2477	553.9328
+Hippocampal Role in Memory and Cognition	0.3667	0.064	8	2477	446.2746
+Histamine Receptors in Health and Disease	0.5979	-0.262	8	2477	665.2432
+Epigenetic Modulation in Cancer Therapy	0.6377	-0.3942	6	2477	822.6943
+Theatrical Arts and Cultural Intersections	-0.0946	0.898	3	2477	213.8948
+Historical and Theoretical Musicology Studies	-0.1292	0.9204	3	2477	35.4424
+Socioeconomic Dynamics in Historical Contexts	-0.1263	0.9489	3	2477	184.1606
+Innovations in History Teaching and Learning	-0.0869	0.8535	3	2477	215.275
+Evolution of Medical Practices and Knowledge	0.8374	0.2405	1	2477	712.5655
+Historical Perspectives on Education Systems	-0.0843	0.8521	3	2477	255.5107
+Philosophical Perspectives on Science and Society	-0.063	0.7268	3	2477	264.0481
+Evolution of Medicine and Psychiatry	0.2813	0.6582	3	2477	373.8301
+Hobbes and Modern Political Philosophy	-0.1057	0.9797	3	2477	200.687
+Quaternary Climate and Environmental Changes	-0.2182	7e-04	5	2477	349.2769
+Holographic Recording and Applications	-1.0419	-0.2357	2	2477	298.1708
+Health and Social Challenges of Homelessness	0.5125	0.4314	3	2477	482.1062
+Political Identity and Movements in Hong Kong	-0.1048	0.838	3	2477	295.8816
+Glycemic Management in Hospitalized Patients	0.9993	0.0736	1	2477	523.7067
+Genetic Diversity and Health Implications	0.5673	0.0171	9	2477	581.2858
+Drug and Protein Binding with Serum Albumin	0.0759	-0.5458	7	2477	793.5996
+Human-Animal Interactions and Welfare	0.4615	0.1679	9	2477	455.893
+Human-Robot Interaction and Communication	-0.5653	0.3734	4	2477	412.9327
+Advanced Humidity Sensing Technologies	-0.9805	-0.0759	4	2477	534.4692
+Multidisciplinary Humor Research and Analysis	0.0311	0.7071	3	2477	352.9322
+Huntington's and Spinocerebellar Ataxias	0.6003	-0.0801	8	2477	640.8638
+Hydraulic Flow Dynamics and Structures	-0.7457	-0.0916	2	2477	242.8751
+Hydraulic and Pneumatic Valve Dynamics	-0.9836	-0.06	2	2477	311.4708
+Advanced Hydrogen Storage Materials	-0.7829	-0.5412	2	2477	503.8963
+Hydrocephalus Diagnosis and Treatment Approaches	0.9581	0.0966	1	2477	501.3286
+Hydrological and Climate Change Modeling	-0.3855	-0.0388	5	2477	273.645
+Hydrogen Effects on Steel Integrity	-0.9526	-0.4357	2	2477	328.3272
+Hydrogen Sulfide in Biology and Medicine	0.3492	-0.4082	6	2477	986.619
+Deep-Sea Hydrothermal Vent Systems	-0.2087	-0.1305	5	2477	334.8877
+Hydroxyapatite-Based Bone Regeneration Materials	-0.2353	-0.3896	2	2477	432.0278
+Stability of Functional Equations in Various Spaces	-1.0081	0.2492	4	2477	230.1314
+Taxonomy and Phylogeny of Hymenoptera	0.1281	-0.2201	5	2477	177.082
+Surgical and Non-Surgical Hyperhidrosis Management	0.988	0.0306	1	2477	506.4498
+Hyperkalemia in Kidney and Heart Conditions	0.9519	0.1304	1	2477	574.1218
+Hypertension Treatment and Medication Adherence	0.9602	0.1533	1	2477	462.7406
+Hyperthermia in Cancer Treatment	0.1666	-0.0475	1	2477	646.5271
+Hypertrophic Cardiomyopathy and Related Conditions	1.0582	0.0249	1	2477	300.2222
+Diversity and Impact of Fungal Pathogens	0.1686	-0.3995	5	2477	197.6589
+Hypnosis and its Clinical Applications	0.4874	0.3748	3	2477	373.0663
+Alkaline Phosphatase in Bone Disorders	0.6392	-0.3064	6	2477	770.2391
+Irritable Bowel Syndrome and Related Conditions	0.9675	-0.0267	1	2477	324.9176
+Information and Communication Technology Education	-0.428	0.4578	3	2477	453.0178
+Integration of Technology in Education	-0.0549	0.6033	3	2477	309.8619
+Idiopathic Intracranial Hypertension and Thrombosis	0.9921	0.1236	1	2477	427.0852
+Idiopathic Pulmonary Fibrosis and Related Diseases	0.8536	-0.0516	1	2477	433.5154
+IgG4-Related Systemic Inflammatory Disorders	1.0884	0.0056	1	2477	536.9888
+Techniques for Multimodal Image Fusion	-0.9589	0.1856	4	2477	482.0102
+Advanced Techniques in Image Segmentation	-0.8085	0.2147	4	2477	454.7062
+Synthesis and Inhibition of Iminosugars	-0.0307	-0.7228	7	2477	376.4692
+Immune Thrombocytopenia and Treatments	0.9489	-0.1201	1	2477	348.1042
+Diagnosis and Treatment of Immunodeficiencies	0.8825	-0.1245	1	2477	447.8269
+High-Velocity Impact and Shock Response	-0.9562	-0.3031	2	2477	447.2832
+Design and Behavior of Impact-Resistant Structures	-0.847	-0.2722	2	2477	400.6037
+Inborn Errors of Metabolism and Treatments	0.75	-0.1888	6	2477	728.009
+Indigenous Perspectives in Health and Education	0.3233	0.4513	3	2477	625.634
+Historical and Comparative Linguistics Studies	-0.1079	0.9301	3	2477	131.8545
+Synthesis and Activity of Alkaloids	0.1068	-0.6271	7	2477	565.4856
+Synthesis and Functionalization of Indolizines	-0.2446	-0.7604	7	2477	361.7811
+Political and Social Dynamics in Indonesia	-0.1079	0.799	3	2477	306.7073
+Optimization and Diagnostics of Conveyor Systems	-0.8028	0.0317	2	2477	550.5679
+Advanced Fault Detection in Industrial Processes	-0.8525	0.0398	4	2477	408.3658
+Smart Manufacturing and Cyber-Physical Systems	-0.7685	0.2622	4	2477	418.1908
+Infections and Complications in Aortic Grafts	1.2144	0.0495	1	2477	376.4279
+Infective Endocarditis Diagnosis and Management	1.0383	0.0569	1	2477	479.8728
+Inflammatory Bowel Disease Pathogenesis and Treatment	1.0119	-0.081	1	2477	312.8013
+Influenza Virus Pathogenesis and Vaccination	0.5528	-0.0305	9	2477	736.9426
+Interactive and Multidimensional Data Visualization	-0.7092	0.3335	4	2477	280.6658
+Infrared Photodetectors and Materials	-1.0903	-0.249	2	2477	465.55
+Infrared Spectroscopy for Gas Detection	-0.8747	-0.2633	2	2477	378.4859
+Infrared Thermography for Material Inspection	-0.99	-0.261	2	2477	474.7002
+Optimization and Simulation in Injection Molding	-0.8531	-0.3359	2	2477	352.82
+Complications from Intramuscular Injections	0.4749	-0.191	9	2477	779.1061
+Technological Innovation and Market Dynamics	-0.3644	0.4957	3	2477	349.3173
+Strategic Innovation and Organizational Capabilities	-0.327	0.6422	3	2477	148.2079
+Insect Cold Tolerance and Adaptation Mechanisms	0.1464	-0.2478	5	2477	544.3051
+Neural and Sensory Mechanisms in Insects	-0.0303	-0.0771	5	2477	552.3516
+Symbiotic Relationships in Insects	0.2011	-0.2136	5	2477	642.8052
+Ecology and Behavior of Insect-Plant Dynamics	0.1047	-0.2503	5	2477	214.4447
+Insecticide Resistance in Agricultural Pests	0.1842	-0.2564	5	2477	529.0794
+Corporate Insolvency and Restructuring Law	-0.1198	0.8192	3	2477	79.0908
+Sleep Disorders and Insomnia Treatments	0.6953	0.2206	8	2477	620.75
+Instructional Design and Technology Integration	-0.1229	0.6601	3	2477	366.2309
+Insulin Receptor and Glucose Transport	0.5963	-0.3746	6	2477	737.6679
+Developmental and Cultural-Historical Psychology	0.0184	0.6603	3	2477	175.528
+HIV and Retroviral Mechanisms and Inhibitors	0.3412	-0.3701	6	2477	709.3995
+Intellectual Property Law and Policy	-0.0747	0.6417	3	2477	192.158
+Cognitive Abilities and Intelligence Research	0.1593	0.4672	3	2477	300.5225
+Intensive Care Unit Practices and Outcomes	0.928	0.1874	1	2477	361.1463
+Fault Tolerance in Network Graphs	-1.0761	0.2729	4	2477	400.8637
+Intercropping for Productivity and Sustainability	-0.0514	-0.2112	5	2477	215.9075
+Intercultural Influences in Global Theatre	-0.0943	0.8682	3	2477	129.2122
+Nuclear Facility Decommissioning and Management	-0.5382	0.1187	4	2477	864.2197
+Interferons in Immunotherapy and Disease	0.717	-0.3219	6	2477	774.3175
+Intermediality in Literature and Film	-0.1049	0.9465	3	2477	178.0306
+Crystal Structures of Intermetallic Compounds	-0.6354	-0.632	2	2477	460.7686
+Internal Erosion in Hydraulic Structures	-0.6543	-0.0892	2	2477	215.5039
+Strategies and Dynamics in Global Markets	-0.2674	0.7014	3	2477	148.5673
+Globalization and Student Mobility in Education	-0.095	0.7721	3	2477	220.3559
+Global Justice and Human Rights	-0.0922	0.8607	3	2477	104.3048
+Global Politics and Security Dynamics	-0.1286	0.8928	3	2477	114.6085
+Trade, Technology, and Economic Growth	-0.2481	0.7151	3	2477	146.9576
+Interprofessional Collaboration in Healthcare	0.7687	0.3106	1	2477	443.0159
+Statistical Methods for Agreement Analysis	0.0217	0.2999	3	2477	623.511
+Causes and Management of Intestinal Obstruction	1.1587	0.0418	1	2477	438.6537
+Mechanisms of Intestinal Nutrient Transport	0.5879	-0.3896	6	2477	783.7448
+Dynamics and Impact of Intimate Partner Violence	0.4749	0.4637	3	2477	422.1049
+Network Intrusion Detection and Prevention	-0.93	0.2932	4	2477	394.4066
+Intussusception in Adults and Children	1.1627	0.0579	1	2477	429.1789
+Inverse Problems in Differential Equations	-0.9623	0.1491	4	2477	306.6798
+Immune Mechanisms in Invertebrates	0.3914	-0.33	6	2477	727.6861
+Neural Mechanisms in Invertebrate Models	0.3592	-0.0548	8	2477	513.7638
+Efficient Protocols for IoT and M2M Networks	-1.0594	0.2014	4	2477	380.6713
+IoT Integration with Edge and Fog Computing	-0.948	0.2685	4	2477	429.6923
+Ion Channel Function and Regulation	0.4225	-0.1929	8	2477	796.5081
+Sensitive Detection of Nitrite in Samples	-0.3097	-0.4825	7	2477	362.4188
+Ion Exchange and Sorption Processes	-0.5153	-0.5907	2	2477	538.4563
+Ion-Selective Electrodes and Sensors	-0.4169	-0.5511	7	2477	436.306
+Ion Beam Effects on Material Surfaces	-0.9722	-0.3704	2	2477	461.8343
+Applications and Properties of Ionic Liquids	-0.5031	-0.6312	2	2477	551.8289
+Ionospheric and Atmospheric Interactions	-0.6784	-0.079	2	2477	187.1948
+Adverse Reactions to Iodinated Contrast Media	0.8709	0.03	1	2477	394.8036
+Irish Literary Themes and Identity	-0.087	0.9711	3	2477	159.3897
+Irish Nationalism and Identity Formation	-0.1031	0.9765	3	2477	202.7833
+Iron Deficiency and Overload Disorders	0.7272	-0.125	1	2477	768.2652
+Iron-Based Superconductors and Magnetism	-0.8237	-0.3693	2	2477	478.9904
+Detection and Dosimetry of Irradiated Materials	-0.2059	-0.3431	2	2477	478.5338
+Hydraulic and Control Models in Irrigation	-0.5686	-0.0368	5	2477	239.0301
+Islamic History and Political Thought	-0.0986	0.9661	3	2477	163.0494
+Island Autonomy and Identity Politics	-0.1242	0.7919	3	2477	278.9724
+Phytoestrogens in Health and Disease	0.6134	-0.3253	6	2477	750.9481
+Isotope Geochemistry in Sedimentary Systems	-0.2896	-0.1378	5	2477	291.1523
+Dynamics of Turbulent Flows and Particles	-0.8157	-0.1502	2	2477	299.4344
+Intelligence and Peace in Middle East	-0.1174	0.8842	3	2477	183.3103
+Advanced Psychometric and Measurement Models	-0.0208	0.5465	3	2477	287.5625
+Iterative Learning Control for Dynamic Systems	-1.0441	0.1541	4	2477	308.9713
+Iterative Methods for Nonlinear Equations	-1.0102	0.247	4	2477	234.25
+Optical Properties of Dye Aggregates	-0.6542	-0.4971	2	2477	513.0244
+Japanese Identity and Cultural Dynamics	-0.1003	0.9386	3	2477	192.63
+Molecular Mechanisms of Plant Disease Resistance	0.2229	-0.4044	5	2477	473.1725
+Dynamics and Breakup of Liquid Jets	-0.8356	-0.1933	2	2477	433.6063
+Jewish Identity and Cultural Politics	-0.0956	0.9896	3	2477	212.4359
+Medieval and Early Modern Jewish-Christian Interactions	-0.1	1.0024	3	2477	165.0441
+Optical Correlation in Pattern Recognition	-1.0428	-0.0412	2	2477	250.6666
+Modernist Literature and Aesthetics	-0.0888	0.9856	3	2477	127.3696
+Judicial Roles and Legal Interpretation	-0.0905	0.8458	3	2477	80.8156
+Juvenile Idiopathic Arthritis and Hemophagocytic Syndromes	0.9851	-0.0216	1	2477	329.0904
+Hormonal Regulation in Insect Development	0.3143	-0.3254	6	2477	704.3198
+Kruppel-like Factors in Cancer and Medicine	0.863	-0.0011	1	2477	841.6095
+Explorations of Kant's Philosophical Impact	-0.1093	0.9578	3	2477	93.6241
+HIV, Herpesvirus, and Cancer Interactions	0.8876	-0.1684	1	2477	669.9466
+Kawasaki Disease and Coronary Complications	1.0062	0.046	1	2477	421.6294
+Genetic and Molecular Basis of Keratin Disorders	0.6946	-0.2832	6	2477	627.7524
+Kernel Methods in Statistical Learning	-0.8003	0.2316	4	2477	460.1611
+Decoding Algorithms for Error-Correcting Codes	-1.0977	0.2299	4	2477	420.2435
+Exploration of LGBTQ+ Identities and Challenges	0.3183	0.5854	3	2477	492.5945
+Quality and Standardization in Clinical Labs	0.8167	-0.0184	1	2477	276.8891
+Probiotic Bacteria in Fermented Foods	0.4097	-0.3679	5	2477	430.5059
+Lactoferrin's Biological and Therapeutic Roles	0.545	-0.3718	6	2477	912.5903
+Phytoplankton and Eutrophication in Lakes	-0.0609	-0.184	5	2477	386.3966
+Ultrasonic Waves for Structural Health Monitoring	-0.8668	-0.1562	2	2477	445.3508
+Impact and Structural Analysis of Glass	-0.8073	-0.2217	2	2477	425.0789
+Landslide Mechanisms and Risk Assessment	-0.5226	-0.0538	5	2477	197.5168
+Langerhans and Non-Langerhans Histiocytosis	1.0646	-0.0887	1	2477	539.8942
+Neurocognitive Aspects of Language Processing	0.2835	0.3473	8	2477	322.6565
+Magnetic and Luminescent Lanthanide Complexes	-0.5025	-0.6663	7	2477	426.7887
+Giant Cell and Takayasu Arteritis	1.0305	0.0862	1	2477	329.9722
+Development of Wear and Corrosion Resistant Coatings	-1.0119	-0.427	2	2477	353.222
+Optical Velocity and Vibration Measurement	-0.5894	-0.1833	2	2477	528.1496
+Laser-Induced Material Processing and Damage	-0.9579	-0.3376	2	2477	469.4311
+Intense Laser and Plasma Dynamics	-0.9188	-0.2474	2	2477	351.2726
+Narratives and Identity in Latin America	-0.1006	0.9587	3	2477	147.3739
+Cultural Narratives in Latin American Literature	-0.0961	0.9798	3	2477	140.1435
+Political Dynamics in Latin America	-0.0874	0.8292	3	2477	303.4085
+Colonial and Postcolonial Latin American History	-0.1062	0.9954	3	2477	163.5039
+Lattice Boltzmann Method in Fluid Dynamics	-0.9348	-0.069	2	2477	360.4476
+Nonperturbative Quantum Chromodynamics on Lattices	-0.9458	-0.1963	2	2477	133.189
+Nonlinear Dynamics in Optical Lattices	-0.9411	-0.2227	2	2477	399.1787
+Swine Intestinal Pathogen Dynamics and Control	0.6602	-0.2176	9	2477	329.4981
+Advancements in Digital Broadcasting Systems	-0.9274	0.2169	4	2477	451.0055
+Synthesis and Applications of Layered Double Hydroxides	-0.587	-0.5687	2	2477	578.5835
+Effects of Lead and Cadmium Exposure	0.3995	-0.0814	5	2477	752.3731
+Advancements in Lead-Acid Battery Technology	-0.7934	-0.3968	2	2477	415.8193
+Properties and Applications of Ferroelectric Ceramics	-0.9623	-0.3843	2	2477	466.7455
+Lean and Six Sigma in Industry	-0.3182	0.4087	3	2477	267.1414
+Control and Dynamics of Legged Robots	-0.7964	0.1502	4	2477	250.3483
+Legionella Detection and Control Strategies	0.5194	-0.1072	9	2477	586.4586
+Biochemical Properties of Legumes and Seeds	0.2354	-0.3694	5	2477	693.1907
+Leishmaniasis Pathogenesis and Treatment	0.5722	-0.1728	9	2477	591.3677
+Taxonomy and Phylogeny of Lepidoptera	0.1253	-0.2455	5	2477	205.2031
+Epidemiology, Diagnosis, and Treatment of Leprosy	0.727	0.0311	1	2477	514.1278
+Epidemiology and Diagnosis of Leptospirosis	0.6171	-0.0905	9	2477	486.1795
+Advancements in Leukemia and Myelodysplastic Syndromes	0.9113	-0.2479	1	2477	415.1413
+Lexicography and Linguistic Evolution	-0.1021	0.828	3	2477	106.2228
+Liberalism, Imperialism, and Political Thought	-0.1025	0.9687	3	2477	214.4039
+Library Science and Digital Archives	-0.2331	0.5298	3	2477	190.2237
+Biodiversity and Ecology of Lichens	0.0346	-0.3189	5	2477	377.0469
+Pharmacological Effects of Licorice Compounds	0.5668	-0.3826	6	2477	846.6164
+Lidar and Photogrammetry in Land Mapping	-0.6209	0.1007	4	2477	331.208
+Structure and Classification of Lie Algebras	-1.133	0.2696	4	2477	163.6863
+Life Cycle and Environmental Impact in Construction	-0.4365	0.0268	5	2477	322.3716
+Nighttime Light Data and Urbanization	-0.4108	0.0989	5	2477	694.0748
+Electromagnetic Effects of Lightning Strikes	-1.0106	0.0892	4	2477	425.2463
+Lignin Conversion and Applications	-0.4057	-0.5264	2	2477	416.3056
+Enzymatic Biodegradation of Dyes and Lignin	0.0495	-0.4456	5	2477	582.3088
+Bioconversion of Lignocellulosic Biomass to Biofuels	0.0277	-0.4446	5	2477	469.7671
+Autoimmune and Paraneoplastic Neurological Disorders	0.9024	0.1223	8	2477	403.4076
+Dynamics of Polynomial Differential Systems	-1.0389	0.2093	4	2477	244.3118
+Enzyme Immobilization and Catalysis	-0.0069	-0.5851	7	2477	646.666
+Lipid Metabolism and Fatty Acid Biosynthesis	0.4157	-0.4543	6	2477	721.4379
+Dynamics and Interactions in Lipid Membranes	-0.0844	-0.4988	7	2477	741.8664
+Role of Lipoic Acid in Metabolism and Disease	0.5041	-0.4414	6	2477	840.1304
+Lipoprotein Metabolism and Cardiovascular Health	0.8327	-0.1814	1	2477	755.0287
+Lipoxygenase and Eicosanoid Metabolism	0.557	-0.3943	6	2477	914.2536
+Liquid Crystal Structures and Properties	-0.7953	-0.455	2	2477	651.6384
+Evaporative and Desiccant Cooling Systems	-0.8208	-0.2435	2	2477	259.5243
+Corrosion in Liquid Metal Environments	-0.9449	-0.4401	2	2477	336.698
+Molecular Dynamics of Water Interfaces	-0.5402	-0.5028	2	2477	518.3181
+Listeria Monocytogenes in Food Safety	0.3423	-0.2544	5	2477	365.0918
+Nonlinear Optical Properties of Lithium Niobate	-1.0629	-0.2641	2	2477	391.8601
+Advanced Materials for Lithium-Ion Batteries	-0.7968	-0.3971	2	2477	499.7664
+Advancements in Liver Transplantation Techniques	1.135	-0.0113	1	2477	426.4203
+Fiber Characteristics in Livestock Breeds	0.1661	-0.0703	9	2477	172.8099
+Genetic and Environmental Factors in Livestock Reproduction	0.4644	-0.2325	9	2477	213.9756
+Viral Infections in Swine and Cattle	0.5307	-0.2103	9	2477	286.1974
+Advanced Mortality and Longevity Risk Models	-0.0743	0.3979	3	2477	373.0007
+Quantum Gravity and Lorentz Symmetry	-0.8989	-0.121	2	2477	232.0174
+Chronic Musculoskeletal Pain Management	0.7179	0.2571	1	2477	501.1343
+Therapeutic Effects of Laser Photobiomodulation	0.8323	-0.1114	1	2477	785.264
+Luminescent Properties of Doped Phosphors	-0.8813	-0.4591	2	2477	571.3436
+Advancements in Lung Cancer Diagnosis and Staging	0.9581	0.0096	1	2477	484.9842
+Kikuchi-Fujimoto Disease and Blastic Plasmacytoid Dendritic Cell Neoplasm	0.9988	-0.0649	1	2477	568.3506
+Advancements in Breast Cancer Therapies	1.1021	-0.0936	1	2477	507.7013
+Diagnosis and Treatment of Lymphomas	1.0374	-0.199	1	2477	449.974
+Microelectromechanical Systems Sensor Technologies	-1.0936	-0.0195	4	2477	500.1298
+Genetic Variation in MHC Complex	0.5773	-0.3463	6	2477	599.8898
+Microbial-Induced Calcite Precipitation in Soils	-0.3229	-0.3056	5	2477	617.2869
+MIMO Channel Modeling and Optimization	-1.1347	0.198	4	2477	353.5242
+Advanced MOSFET Technologies and Challenges	-1.1279	-0.0693	4	2477	484.1282
+Advancements in Magnetic Resonance Imaging Techniques	0.3721	-0.0129	1	2477	287.1096
+Antimicrobial Resistance in Staphylococcus and Enterococcus	0.6683	-0.1216	9	2477	516.0789
+Macrophage Migration Inhibitory Factor and Stanniocalcin	0.6267	-0.2819	6	2477	932.563
+Macrophage Roles in Disease and Therapy	0.6141	-0.2794	6	2477	778.0084
+Magnesium's Role in Health and Disease	0.7725	-0.1185	1	2477	847.6201
+Properties and Processing of Magnesium Alloys	-0.9134	-0.4713	2	2477	326.7728
+Magnetic Nanoparticles in Biomedical Applications	-0.4158	-0.4848	2	2477	782.2058
+Organic Radicals in Magnetic Materials	-0.4796	-0.6957	7	2477	483.1567
+Advancements in Magnetic Resonance Spectroscopy Techniques	0.5994	-0.0319	8	2477	502.7062
+Advanced Magnetic Field Sensing Technologies	-1.0606	-0.152	2	2477	539.1812
+Magnetic Properties of Thin Films	-0.9567	-0.2915	2	2477	499.9185
+Magneto-Optical and Magnetoelastic Phenomena	-1.0904	-0.1823	2	2477	535.7334
+Magnetocaloric and Ferromagnetic Heusler Alloys	-0.9858	-0.4013	2	2477	466.9308
+Magnetosphere-Ionosphere Interactions and Phenomena	-0.7435	-0.1119	2	2477	141.5991
+Magnetostrictive Properties and Applications	-1.1071	-0.1389	2	2477	543.672
+Organometallics in Synthesis and Catalysis	-0.4059	-0.7653	7	2477	398.4071
+Malaria Pathogenesis, Treatment, and Control	0.4629	-0.0774	9	2477	748.0319
+Male Breast Cancer and Gynecomastia	1.1025	-0.1086	1	2477	521.8836
+Factors Affecting Male Reproductive Health	0.6449	-0.1818	9	2477	404.3662
+Detection and Assessment of Malingering	0.4478	0.5003	3	2477	192.2191
+Advanced Techniques in Malware Detection	-0.9426	0.3317	4	2477	322.5854
+Evolutionary Insights from Fossil Mammals	0.0239	-0.0196	5	2477	432.6079
+Manganese's Impact on Brain and Health	0.4553	-0.0899	8	2477	815.3874
+Earth's Mantle Structure and Processes	-0.4471	-0.1895	5	2477	289.4717
+Advanced Manufacturing Scheduling Techniques	-0.7859	0.3265	4	2477	235.0686
+Ecology and Impact of Marine Algae	0.0286	-0.2249	5	2477	332.2028
+Development and Phylogeny of Marine Invertebrates	0.1561	-0.2069	5	2477	378.6561
+Ecology and Behavior of Marine Mammals	0.0183	-0.0969	5	2477	400.6333
+Ecology and Dynamics of Marine Zooplankton	-0.0708	-0.1365	5	2477	219.2855
+Historical Shipwrecks and Maritime Heritage	-0.1679	0.7236	3	2477	144.3732
+International Maritime Law and Disputes	-0.1176	0.7487	3	2477	129.6505
+Autonomous Ship Navigation and Collision Avoidance	-0.7707	0.2026	4	2477	433.2557
+Dynamics and Predictability in Financial Markets	-0.3713	0.6115	3	2477	172.1158
+Geological and Atmospheric Studies on Mars	-0.4467	-0.1149	2	2477	308.5508
+Marxist Analysis of Capitalism and Crises	-0.1466	0.8198	3	2477	255.1742
+X-ray and Gamma-ray Shielding Materials	-0.6899	-0.3484	2	2477	472.4056
+Advancements in Mass Spectrometry Techniques	-0.1877	-0.5289	7	2477	472.1128
+Mast Cell Function and Disorders	0.7667	-0.2662	6	2477	644.4818
+Mastitis Impact on Dairy Production	0.4717	-0.2632	9	2477	280.4355
+Equity in Maternal and Child Health	0.6514	0.2858	1	2477	503.8268
+Maternal Nutrition and Fetal Development	0.8153	0.1121	1	2477	506.3984
+Historical Perspectives on Mathematics	-0.6578	0.4254	4	2477	257.7646
+Role of Metalloproteinases in Cancer and Disease	0.754	-0.3572	6	2477	853.8019
+Management and Outcomes of Facial Bone Fractures	1.0984	0.0609	1	2477	274.2276
+Calibration and Measurement Uncertainty Evaluation	-1.0347	-0.0351	4	2477	408.5444
+Factors Influencing Meat Quality and Safety	0.2299	-0.3987	5	2477	214.2287
+Advancements in Ventricular Assist Devices and ECMO	1.0671	0.0751	1	2477	363.5527
+Advancements in Mechanical Ventilation Techniques	0.9668	0.1136	1	2477	341.0669
+Media Influence on Behavior and Society	0.0343	0.6239	3	2477	321.7606
+Media Influence on Political Communication	-0.1552	0.7298	3	2477	157.3339
+Digital and Hybrid Medical Education	0.5037	0.3312	1	2477	424.1749
+Ethical Dilemmas in Medicine and Psychology	0.5773	0.4006	1	2477	594.1768
+Medical Malpractice and Defensive Medicine	0.8547	0.2774	1	2477	588.8003
+Innovations and Challenges in Medical Education	0.7321	0.3324	1	2477	376.3222
+Therapeutic Uses of Plant Extracts	0.3716	-0.3155	6	2477	965.6321
+Medieval Narratives and Power Dynamics	-0.1099	1.0091	3	2477	127.824
+Social and Political Dynamics in Medieval Iberia	-0.1262	0.9385	3	2477	164.0118
+Medieval Literary Themes and Identity	-0.0981	1.0086	3	2477	106.3051
+Medieval Rus' History and Culture	-0.0989	0.9454	3	2477	178.4841
+Melanin Production and Skin Disorders	0.6487	-0.3116	6	2477	499.9694
+Advancements in Melanoma Detection and Treatment	0.8989	-0.0544	1	2477	435.8681
+Polymeric and Composite Membranes for Gas Separation	-0.6334	-0.5358	2	2477	306.7474
+Mechanisms of Membrane Fusion and Trafficking	0.4441	-0.3279	6	2477	687.3905
+Cognitive and Memory Mechanisms	0.2	0.4441	3	2477	242.3617
+Meningioma Diagnosis, Treatment, and Outcomes	1.0737	0.0103	1	2477	492.4247
+Hormone Therapy and Menopausal Health	0.9158	0.0994	1	2477	551.8174
+Stigma and Attitudes in Mental Health	0.5744	0.4215	3	2477	325.2943
+Mercury Dynamics and Environmental Impact	-0.0799	-0.1516	5	2477	494.2098
+Uniqueness and Growth of Meromorphic Functions	-1.1256	0.2832	4	2477	160.6123
+Stem Cells in Tissue Repair and Regeneration	0.7027	-0.1557	1	2477	839.4677
+Meshless and Boundary Element Methods	-0.921	0.0486	4	2477	270.6651
+Quantum Chromodynamics and Meson Interactions	-0.9584	-0.2064	2	2477	121.9486
+Synthesis and Applications of Mesoporous Silica	-0.5736	-0.5798	2	2477	596.8708
+Metabolic Syndrome and Obesity Research	0.8334	-0.0636	1	2477	560.4713
+Metabolomics and Metabolic Profiling Techniques	0.3654	-0.3191	6	2477	846.8822
+Platinum and Ruthenium-Based Cancer Therapies	0.1807	-0.5836	7	2477	671.0756
+Properties of Metal and Alloy Clusters	-0.7364	-0.5381	2	2477	527.7231
+Reactivity of Metal Complexes in Catalysis	-0.2328	-0.6936	7	2477	486.7025
+Aluminum Matrix Composite Properties and Fabrication	-0.9703	-0.4532	2	2477	329.8972
+Synthesis and Applications of Metal Phosphonates	-0.5665	-0.6587	2	2477	477.8284
+Advancements in Metal Vapor Laser Technologies	-1.0782	-0.2223	2	2477	455.3651
+Transition Metal-Catalyzed Cyclization Reactions	-0.3267	-0.8074	7	2477	344.6964
+Transition Metal Complexes and Bonding	-0.4879	-0.7079	7	2477	370.699
+Design and Applications of Metal-Organic Frameworks	-0.4688	-0.6429	7	2477	505.4763
+Properties and Behavior of Metallic Glasses	-0.9438	-0.4321	2	2477	444.7386
+Metalloenzyme Models and Catalytic Mechanisms	-0.1916	-0.5755	7	2477	724.9082
+Electromagnetic Metamaterials and Metasurfaces	-0.8806	-0.1108	2	2477	660.6329
+Metaphor in Language and Culture	-0.0473	0.7441	3	2477	187.7053
+Philosophical Metaphysics and Logical Theories	-0.2514	0.8377	3	2477	106.0474
+Colorectal Cancer Treatment and Metastasis	1.0631	-0.1895	1	2477	491.1371
+Metformin's Role in Cancer and Metabolism	0.7354	-0.2756	6	2477	849.424
+Methanotrophic Bacteria and Metabolism	0.3071	-0.4086	6	2477	735.8838
+Methotrexate Effects and Drug Interactions	0.4793	-0.4625	6	2477	893.5094
+MicroRNA Roles in Cancer and Disease	0.6231	-0.3152	6	2477	844.6949
+Microalgae Cultivation and Applications	0.0403	-0.3575	5	2477	561.5559
+Microbial Biocontrol in Agriculture	0.1759	-0.3585	5	2477	441.52
+Microbial Production of Organic Acids and Biofuels	0.0767	-0.4254	5	2477	378.6597
+Advancements in Microbial Identification Techniques	0.4912	-0.1359	9	2477	504.4309
+Microbial Diversity and Genomic Insights	0.2777	-0.3015	9	2477	442.7938
+Microbial Enzyme Production and Characterization	0.3071	-0.5058	6	2477	573.2936
+Microbial Fuel Cells for Energy and Remediation	-0.2368	-0.3408	5	2477	590.7263
+Ultrasound Cavitation in Medical Applications	0.0086	-0.1539	2	2477	672.1312
+Microfluidic Device Fabrication and Applications	-0.5017	-0.323	2	2477	729.9045
+Microglial Role in Neuroinflammation and CNS Disorders	0.5541	-0.0934	8	2477	627.2583
+Effects of Microgravity on Muscle and Vascular Systems	0.4971	-0.0692	8	2477	753.247
+Micronutrient Effects on Plant Growth	0.0833	-0.3768	5	2477	403.3501
+Microplastic Impact on Marine Ecosystems	-0.195	-0.1665	5	2477	425.115
+In Vitro Plant Regeneration Techniques	0.1846	-0.4301	5	2477	327.4906
+Mismatch Repair and Colorectal Cancer	0.8873	-0.223	1	2477	629.4765
+Fault Detection in Microservice Architectures	-0.9121	0.3245	4	2477	342.4634
+Microtubule Function in Cell Division	0.4578	-0.3774	6	2477	653.55
+Microwave Absorbing Materials and Shielding	-0.9305	-0.335	2	2477	624.4802
+Microwave and Millimeter-Wave Calibration Techniques	-1.137	0.1358	4	2477	401.1163
+Microwave Dielectric Ceramic Materials	-1.0206	-0.3339	2	2477	381.4301
+Design and Analysis of Microwave Filters	-1.1503	0.1382	4	2477	387.8824
+Microwave and Radar Imaging Techniques	-0.9854	0.1344	4	2477	495.4101
+Microwave Photonics in Optical Networks	-1.1074	0.0234	4	2477	407.3314
+Migraine Pathophysiology and Treatment Strategies	0.8691	0.1481	8	2477	386.6618
+Transnational Migration and Integration Challenges	-0.0938	0.8221	3	2477	219.2933
+Hemostatic Techniques in Military and Surgical Contexts	1.0905	0.1067	1	2477	498.6461
+Sociocultural Dynamics in Military Contexts	0.1163	0.7154	3	2477	394.8418
+Mindfulness, Stress, and Mental Health Interventions	0.5716	0.3509	3	2477	538.4025
+Optimization in Mining Operations and Planning	-0.636	0.1146	4	2477	279.9156
+Neural Mechanisms of Auditory Processing	0.4447	0.1798	8	2477	423.005
+Taxonomy and Diversity of Mites and Thrips	0.137	-0.2263	5	2477	140.1046
+Mitochondrial ATP Synthase Function and Regulation	0.4073	-0.4409	6	2477	734.4339
+Mitochondrial Genetics and Disease Mechanisms	0.5635	-0.2721	6	2477	848.8864
+Mixed Methods in Social Research	0.0711	0.624	3	2477	391.5374
+Synthesis and Properties of High-Temperature Alloys	-0.8621	-0.4554	2	2477	431.3266
+Formal Methods for System Verification	-1.0053	0.3164	4	2477	303.5013
+Reduced Order Modeling Techniques	-0.869	0.0881	4	2477	569.0136
+Contemporary Psychoanalytic Thought and Practice	0.3166	0.609	3	2477	56.6199
+Modernism, Gender, and Identity in Literature	-0.0898	1.0096	3	2477	136.1801
+Modernist and Experimental Poetic Forms	-0.0995	0.9949	3	2477	128.4878
+Self-Reconfigurable Modular Robotic Systems	-0.7342	0.1661	4	2477	549.4207
+Molecular and Bluetooth Communication Technologies	-0.9092	0.136	4	2477	481.0278
+Molecular Techniques for Food Authentication	0.1453	-0.3014	5	2477	421.8767
+Plant-based Production of Biopharmaceuticals	0.2921	-0.3571	5	2477	646.9388
+Molecularly Imprinted Polymers for Sensing	-0.2775	-0.5491	7	2477	471.6422
+Electrochemical Processes in Molten Salts	-0.7761	-0.4916	2	2477	411.4829
+Monetary Policy and Economic Dynamics	-0.2586	0.7286	3	2477	132.2989
+Interactions and Modifications of Clay Minerals	-0.6007	-0.444	2	2477	486.5621
+Advanced Matrix Algorithms and Eigenvalue Problems	-1.0954	0.2532	4	2477	207.3176
+Neuroscience and Psychology of Morality	0.0731	0.4388	3	2477	512.3552
+Transmission and Control of Mosquito-borne Viruses	0.501	-0.0384	9	2477	655.9187
+Human Motor Control and Learning	0.1037	0.1917	8	2477	447.9309
+Moyamoya Disease Pathophysiology and Treatment	0.9917	0.0797	1	2477	469.2387
+Mucin Expression in Cancer Progression	0.7771	-0.3532	6	2477	738.0403
+Cooperative Control in Multi-Agent Systems	-1.0181	0.1989	4	2477	364.7534
+Flexible Multibody System Dynamics and Simulation	-0.9387	-9e-04	2	2477	315.6947
+Multidisciplinary Approaches in Cancer Care	0.8463	0.0512	1	2477	603.7811
+Magnetic and Multiferroic Ferrite Properties	-0.9162	-0.4222	2	2477	527.1907
+Multilingualism and Language Acquisition Strategies	-0.079	0.8209	3	2477	145.3958
+Gas-Liquid Flow and Mass Transfer	-0.7629	-0.3119	2	2477	233.388
+Therapies and Biomarkers in Multiple Myeloma	1.0009	-0.1711	1	2477	457.776
+Diagnosis, Treatment, and Progression in Multiple Sclerosis	0.8068	0.1166	8	2477	441.3157
+Multisensory Integration and Accessibility	-0.204	0.1975	4	2477	587.9175
+Sustainable Municipal Solid Waste Management	-0.2858	0.0177	5	2477	327.6763
+Muon-Induced Nuclear Reactions and Fusion	-0.8091	-0.3368	2	2477	461.5046
+Calcium Dynamics in Cardiac and Skeletal Muscle	0.6438	-0.2257	6	2477	695.0268
+Mechanisms of Muscle Atrophy and Cachexia	0.6464	-0.2506	6	2477	883.4748
+Diagnosis and Treatment of Bone Infections	1.0159	0.0452	1	2477	458.1207
+Transformations in Museum Practices and Roles	-0.1408	0.8403	3	2477	264.8438
+Cognitive and Emotional Aspects of Music	-0.1016	0.393	3	2477	506.4748
+Cultural Identity in Music Studies	-0.1039	0.888	3	2477	153.7814
+Acoustic Modeling of Musical Instruments	-0.813	0.0313	4	2477	215.504
+Mutagenicity and Carcinogenicity of Chemical Compounds	0.382	-0.4049	7	2477	672.4507
+Pathogenesis and Resistance in Mycoplasma	0.6456	-0.2042	9	2477	490.5694
+Mycorrhizal Fungi and Plant Interactions	0.1077	-0.3218	5	2477	338.0512
+Mycotoxin Contamination and Control in Foods	0.2435	-0.3822	5	2477	505.516
+Pathogenesis and Treatment of Myeloproliferative Neoplasms	0.9737	-0.1481	1	2477	375.048
+Myocardial Perfusion Imaging Techniques	1.0679	0.0576	1	2477	287.3788
+Myocarditis and Cardiomyopathy Research	0.9968	0.0157	1	2477	438.2097
+Myoelectric Signal Processing and Applications	0.1414	0.1189	8	2477	457.9422
+Surgical and Medical Management of Uterine Conditions	1.039	0.0255	1	2477	304.1673
+Molecular Mechanisms in Muscle Function	0.4744	-0.3696	6	2477	757.3049
+Genetic and Clinical Aspects of Myotonic Dystrophy	0.5859	-0.1226	8	2477	852.3396
+Diversity and Impact of Myxozoan Parasites	0.3765	-0.2216	9	2477	243.3917
+N-Heterocyclic Carbene Catalysis in Metathesis	-0.3723	-0.7738	7	2477	402.4756
+NADPH Oxidase and Oxidative Stress	0.6936	-0.3583	6	2477	858.311
+Nonalcoholic Fatty Liver Disease Research	0.8868	-0.1331	1	2477	402.8925
+Cell Adhesion in Cancer and Neuroscience	0.6362	-0.2603	6	2477	790.5583
+NF-κB Pathway in Inflammation and Cancer	0.5939	-0.3605	6	2477	854.1739
+Near-Infrared Spectroscopy in Food and Agriculture	-0.3004	-0.2773	5	2477	420.4972
+Mechanisms and Suppression of Cancer Metastasis	0.7059	-0.4018	6	2477	749.9258
+Cancer Prevention and Nrf2 Pathway	0.5118	-0.4026	6	2477	918.7936
+NSAIDs, COX Inhibitors, and Cancer Prevention	0.7979	-0.2104	1	2477	883.8865
+Therapeutic Strategies for Non-Small Cell Lung Cancer	0.9442	-0.2332	1	2477	477.0617
+Cultural and Political Aspects of Naming	0.2329	0.5257	3	2477	538.533
+Advanced Biosensors for Molecular Detection	-0.1751	-0.5259	7	2477	609.2252
+Nanocarrier Systems for Cancer Therapy	0.178	-0.5024	7	2477	802.1162
+Membrane Technologies for Water Treatment	-0.5545	-0.414	2	2477	333.5294
+Mixed Convection in Nanofluids and Porous Media	-0.8753	-0.1935	2	2477	322.7466
+Nanomaterial-Based Electrochemical Sensing Technologies	-0.3347	-0.5371	7	2477	421.3257
+Molecular Transport in Nanopores and Nanochannels	-0.4323	-0.4308	2	2477	824.5017
+Toxicological Effects of Metal Nanoparticles	-0.2019	-0.421	7	2477	868.2922
+Naphthoquinone Derivatives in Cancer Therapy	0.2382	-0.5883	7	2477	719.9174
+Postmodern and Narrative Historiography	-0.103	1.0034	3	2477	172.468
+Narrative Structures and Literary Analysis	-0.0907	0.9812	3	2477	136.0546
+Nationalism, Identity, and Post-Conflict Societies	-0.0903	0.9079	3	2477	216.2615
+Natriuretic Peptides in Cardiovascular Health	0.9256	-0.0577	1	2477	534.6227
+Natural Killer Cells in Immunotherapy	0.6661	-0.263	6	2477	475.8009
+Advancements in Natural Language Processing	-0.7352	0.3669	4	2477	328.0402
+Innovations in Minimally Invasive Gallbladder Surgery	1.2174	0.0494	1	2477	340.1414
+Historical Development of Scientific Thought	-0.1483	0.7011	3	2477	156.1498
+Navier-Stokes and Fluid Dynamics Equations	-1.0901	0.2206	4	2477	219.5953
+Impact of Nazism on Neuroscience and Medicine	0.6761	0.1264	8	2477	805.7483
+Infection Prevention in Healthcare Settings	0.796	0.2015	1	2477	524.8547
+Ionic Conductivity and Thermal Expansion	-0.7584	-0.5052	2	2477	590.948
+Negotiation Strategies and Conflict Resolution	-0.1615	0.7013	3	2477	276.1092
+Neisseria and Haemophilus Infections	0.6715	-0.1274	9	2477	582.2529
+Plant-Parasitic Nematode Control Strategies	0.1555	-0.3142	5	2477	313.9683
+Critiques of Neoliberalism and Power	-0.0707	0.8862	3	2477	262.9926
+Neonatal Hyperbilirubinemia and Treatment	0.7155	-0.2022	1	2477	621.7005
+Neonatal Hypoxia and Brain Injury	0.8502	0.1303	1	2477	396.3797
+Challenges in Neonatal Intensive Care	0.8949	0.202	1	2477	316.8137
+Nephrotic Syndrome and Glomerular Diseases	0.9285	-0.0998	1	2477	362.1996
+Peripheral Nerve Compression Syndromes	1.0422	0.1422	1	2477	481.4356
+Mechanisms of Vertebrate Embryonic Development	0.4096	-0.2343	6	2477	533.4331
+Advanced Neural Interface Technologies	-0.2546	-0.009	4	2477	686.0684
+Neural Networks and Fuzzy Systems	-0.8227	0.2385	4	2477	465.5421
+Neuroblastoma Diagnosis and Treatment Advances	0.8997	-0.2101	1	2477	605.0942
+Diagnosis and Treatment of Neuroendocrine Tumors	1.031	-0.136	1	2477	622.3591
+Tumor Characteristics in Neurofibromatosis	0.9903	-0.0749	1	2477	724.9544
+Inflammation in Psychiatric Disorders	0.6109	0.1274	8	2477	498.3687
+Neuromuscular Blockade and Reversal Agents	0.9537	0.052	1	2477	132.3887
+Mechanisms of Neuronal Development and Guidance	0.4637	-0.1233	8	2477	614.923
+Mechanisms and Treatments of Neuropathic Pain	0.6926	0.0257	8	2477	543.5177
+Neuropeptide Functions and Interactions	0.6301	-0.208	8	2477	782.5827
+Neurosteroids and Brain Function	0.5892	0.0141	8	2477	545.4603
+Neurotensin and Neuromedin Peptide Functions	0.5523	-0.3	6	2477	805.3225
+Genetic Influences on Mental Health	0.4934	0.1095	8	2477	569.9898
+Neurotransmitter Transporters and Hiccups	0.5028	-0.2593	6	2477	979.271
+Neurotrophins in Neurodegeneration and Therapy	0.5052	-0.0856	8	2477	588.163
+Neutrino Interactions and Dark Matter Detection	-0.9003	-0.1972	2	2477	178.6208
+Neutron and Gamma-ray Detection Techniques	-0.6063	-0.1122	2	2477	314.4927
+Radiation Effects on Structural Materials	-0.96	-0.4069	2	2477	263.6969
+Advanced Neutron Scattering and Imaging	-0.828	-0.3306	2	2477	437.0307
+Neutron Activation for Elemental Analysis	-0.503	-0.2452	2	2477	338.3688
+Role of Neutrophil Extracellular Traps in Disease	0.6071	-0.2397	6	2477	783.5492
+Pyoderma Gangrenosum and Sweet's Syndrome	1.1004	-0.0502	1	2477	257.6321
+Microstructure and Properties of Nickel Superalloys	-0.9859	-0.4619	2	2477	290.2468
+Nicotinic Acetylcholine Receptors and Disease	0.4913	-0.1748	8	2477	735.5372
+Nietzsche's Influence on Philosophy and Culture	-0.0875	0.9418	3	2477	133.8667
+Nitric Oxide in Health and Disease	0.5819	-0.312	6	2477	903.6695
+Properties of Nitride Thin Film Coatings	-1.0452	-0.4147	2	2477	389.3757
+Catalysts for Nitroarene Hydrogenation	-0.5546	-0.6212	2	2477	554.0594
+Nitrogen Use and Environmental Impact	-0.1446	-0.1807	5	2477	293.3843
+Electron Paramagnetic Resonance Spin Labeling	-0.0847	-0.5286	7	2477	814.3301
+Urban and Environmental Noise Impact	-0.1912	0.1098	5	2477	332.0947
+Techniques for Appliance Load Disaggregation	-0.9715	0.1484	4	2477	519.2269
+Alternatives to Animal Testing in Research	0.4574	-0.1221	9	2477	573.363
+Pulsed Electric Fields and High Pressure	0.0792	-0.3054	5	2477	524.1433
+Nonextensive Statistical Mechanics and Entropy	-0.889	0.0318	4	2477	491.6363
+Noninvasive Blood Gas Monitoring Techniques	0.6701	0.1493	1	2477	380.6039
+Nonlinear Elasticity in Soft Materials	-0.5446	-0.1777	2	2477	471.6498
+Nonlinear Optical Materials and Properties	-0.7715	-0.5173	2	2477	615.8464
+Nonlocal and Thermoelastic Wave Propagation	-0.9023	-0.1682	2	2477	373.7417
+Infrared Small Target Detection Techniques	-1.0065	0.0163	4	2477	390.8135
+Nuclear Structure and Transport Mechanisms	0.5203	-0.3347	6	2477	726.6401
+Advanced Nuclear Fuel Material Studies	-0.9123	-0.4292	2	2477	247.0978
+Advanced Neutronics and Reactor Physics	-0.8641	-0.2047	2	2477	95.5322
+Nuclear Receptors in Disease and Therapy	0.659	-0.3333	6	2477	893.9824
+Mössbauer Spectroscopy and Nuclear Resonance	-0.8912	-0.3561	2	2477	459.1368
+Nuclear Weapons and Global Security	0.0327	0.4656	3	2477	512.4632
+Nuclear Shape and Excitation Studies	-0.955	-0.2516	2	2477	122.664
+Mechanisms of DNA Damage and Repair	0.4205	-0.4547	6	2477	769.8167
+Development and Challenges in Numerical Cognition	0.0828	0.52	3	2477	324.4254
+Advancements in Nursing Education and Practice	0.464	0.4918	3	2477	114.1431
+Nutrient Transport and Water Quality	-0.2572	-0.0892	5	2477	337.7063
+Nutrition in Medical and Health Education	0.5537	0.301	1	2477	316.0728
+Nutritional Influences on Obesity and Health	0.6891	0.2139	1	2477	403.6425
+Protein O-GlcNAcylation Mechanisms and Functions	0.4268	-0.4318	6	2477	842.2635
+Advanced Topics in Model Theory	-1.1351	0.2945	4	2477	149.5035
+Organic Light-Emitting Diode Innovations	-0.7392	-0.5198	2	2477	613.3878
+Obsessive-Compulsive Disorder and Related Treatments	0.6576	0.3233	8	2477	317.9311
+Management and Outcomes of Obstetric Hemorrhage	0.9536	0.1434	1	2477	211.3294
+Obstructive Sleep Apnea and Related Disorders	0.9054	0.1295	1	2477	530.2763
+Respiratory Health in Occupational Settings	0.4604	0.0699	1	2477	439.5643
+Challenges in Occupational Medicine Education	0.4222	0.3302	1	2477	476.2843
+Occupational Safety and Risk Management	-0.1957	0.2262	3	2477	394.3963
+Diverse Aspects of Occupational Therapy	0.4151	0.4999	3	2477	152.0904
+Dynamics of Ocean Circulation and Mixing	-0.4414	-0.0712	5	2477	144.4685
+Remote Sensing of Water Optical Properties	-0.6082	-0.0799	5	2477	324.5903
+Acanthamoeba and Endophthalmitis in Eye Health	0.8052	-0.0879	1	2477	255.7088
+Diagnosis and Treatment of Eye Cancers	0.9311	-0.0869	1	2477	215.1483
+Diagnosis and Treatment of Ocular Surface Disorders	0.7689	-0.0705	1	2477	189.4977
+Ocular Injuries and Ballistic Trauma Studies	0.9849	0.0917	1	2477	339.3852
+Wine Fermentation and Aroma Compounds	0.1083	-0.4196	5	2477	338.0155
+Off-label Pediatric Drug Use and Development	0.8204	0.0272	1	2477	567.729
+Transition Metal Catalysts for Olefin Polymerization	-0.4625	-0.7528	7	2477	382.3147
+Mechanisms and Functions of Olfactory Systems	0.2808	-0.0775	8	2477	729.6528
+Oligodendrocyte Differentiation and Myelin Repair	0.5217	-0.0644	8	2477	572.9109
+Chemical Modifications of Oligonucleotides	0.1337	-0.595	7	2477	754.2971
+Oncolytic Viruses in Cancer Therapy	0.585	-0.257	6	2477	779.9313
+Competitive Online Search and Scheduling	-0.9109	0.3433	4	2477	308.2546
+Managing and Sharing Scientific Data	-0.1372	0.1851	3	2477	727.4205
+Open Educational Resources and Practices	-0.1785	0.6906	3	2477	241.7141
+Structure and Properties of Operator Algebras	-1.1309	0.274	4	2477	156.7618
+Spectral and Composition Operators	-1.1335	0.2838	4	2477	160.2697
+Anesthesia Techniques in Eye Surgery	1.006	0.0368	1	2477	202.6905
+Opioid Use and Pain Management Challenges	0.9094	0.1551	1	2477	651.9983
+Opioid Receptor Function and Modulation	0.5162	-0.2193	8	2477	671.043
+Design and Properties of Optical Coatings	-0.995	-0.2821	2	2477	380.6728
+Advancements in Optical Coherence Tomography	-0.3992	-0.143	2	2477	349.7712
+Advanced Optical Fiber Communication Systems	-1.1226	0.003	4	2477	367.7779
+Advanced Optical System Design Techniques	-1.0333	-0.1755	2	2477	213.7607
+Design and Analysis of Optical Gratings	-1.0015	-0.1932	2	2477	314.8783
+Advanced Optical Network Technologies	-1.1071	0.1741	4	2477	359.0968
+Advancements in Optical Oxygen Sensing Technologies	-0.5077	-0.3671	2	2477	754.5315
+Advanced Optimal Control Theory and Applications	-0.9765	0.2478	4	2477	276.1953
+Optimal Experimental Design Strategies	-0.5868	0.2188	4	2477	163.749
+Advanced Methods in Optimization Problems	-1.0134	0.2831	4	2477	206.8886
+Optimization Techniques for Uncertain Systems	-0.7759	0.0178	4	2477	277.0877
+Advanced Optoelectronic and Infrared Sensors	-1.0356	-0.0635	4	2477	601.5911
+Advanced Oral Drug Delivery Systems	0.3398	-0.5112	7	2477	386.2449
+Oral Lichen Planus and Malignant Potential	0.8722	-0.0959	1	2477	433.303
+Structured Light and Optical Vortices	-0.8563	-0.2082	2	2477	318.8775
+Ethics and Practices in Organ Donation	1.0069	0.1805	1	2477	518.8294
+Charge Transfer in Organic Conductors	-0.7184	-0.5407	2	2477	555.7853
+Organic Semiconductors in Solar Cells	-0.7237	-0.5157	2	2477	642.8173
+Leadership, Employee Well-being, and Performance	-0.0912	0.6385	3	2477	178.2252
+Critical Perspectives on Organizational Theory	-0.1626	0.7657	3	2477	206.3375
+Lithiation in Organometallic Synthesis	-0.3393	-0.8102	7	2477	343.8912
+Synthesis and Structure of Organometallic Complexes	-0.3345	-0.7334	7	2477	339.4831
+Chemical Evolution and Life Emergence	-0.1436	-0.3443	7	2477	827.9754
+Deep Neck and Oropharyngeal Infections	1.0078	0.0739	1	2477	510.4406
+Global Pharmaceutical Policy and Innovation	0.5949	0.1224	1	2477	697.1167
+Orthodontic Treatments and Innovations	0.8186	0.0534	1	2477	113.3653
+OFDM and MIMO Communication Techniques	-1.1488	0.2008	4	2477	355.9128
+Orthogonal Polynomials and Approximations	-1.0739	0.2488	4	2477	221.0735
+Dynamics and Control of Oscillatory Systems	-0.8278	0.0061	2	2477	351.2895
+Osteoarthritis Pathophysiology and Treatment	0.7436	-0.0552	1	2477	418.5113
+Bone Formation and Resorption Mechanisms	0.6542	-0.2898	6	2477	760.4479
+Osteonecrosis of the Femoral Head	1.0176	-0.0115	1	2477	447.6133
+Osteopontin, CD47, and Cancer Immunotherapy	0.7248	-0.3258	6	2477	852.4008
+Osteoporosis and Bone Density Research	0.8495	0.0102	1	2477	397.0206
+Ottoman Legacy and Modern Turkish Politics	-0.1078	0.9697	3	2477	193.4864
+Mechanisms of Protein Translocation and Regulation	0.3849	-0.4687	6	2477	715.843
+Atmospheric Dynamics of Outer Planets	-0.5261	-0.1381	2	2477	222.8695
+Hospital-at-Home and Outpatient Therapy	0.7153	0.1559	1	2477	675.1676
+Ovarian Cancer Diagnosis and Treatment	1.0612	-0.1333	1	2477	474.972
+Catalytic Oxidation of Organic Compounds	-0.3842	-0.7598	7	2477	409.3956
+Oxidative Stress and Lipid Peroxidation	0.5827	-0.3664	6	2477	916.0011
+Oxytocin and Vasopressin in Behavior and Physiology	0.676	0.0541	8	2477	727.4347
+Ozone Reactions and Applications	0.0899	-0.5431	7	2477	685.9507
+p53 Role in Cancer and Therapy	0.6103	-0.3685	6	2477	761.2087
+Polycyclic Aromatic Hydrocarbons in Environment	-0.148	-0.1593	5	2477	391.1088
+Polycystic Ovary Syndrome and Reproductive Health	0.8747	-0.0118	1	2477	301.2229
+Polymerase Chain Reaction Methodologies	0.4081	-0.3553	6	2477	857.9877
+Patent Ductus Arteriosus and Necrotizing Enterocolitis	1.0126	0.059	1	2477	393.373
+Advancements in PET and Hybrid Imaging	-0.1288	0.016	4	2477	341.8333
+Development of PET Imaging Radiotracers	0.4348	-0.3558	7	2477	532.0559
+Toxicity and Environmental Impact of PFAS	-0.1208	-0.1688	5	2477	396.9144
+PI3K/AKT/mTOR in Cancer and Disease	0.6415	-0.3737	6	2477	809.1568
+PID Controller Design and Tuning	-1.0037	0.0696	4	2477	339.6211
+Protein Kinase C in Cancer and Cardiovascular Disease	0.5684	-0.4696	6	2477	798.0706
+Polyhedral Oligomeric Silsesquioxane Composites	-0.6099	-0.5736	2	2477	424.3287
+Mechanisms of Cardiac Pacemaking and Regulation	0.7838	-0.0353	1	2477	523.5206
+Fossil Records and Ancient Ecosystems	-0.1991	-0.1221	5	2477	203.2683
+Paleoenvironmental and Paleoclimatic Studies	-0.2219	-0.1242	5	2477	236.6407
+Diagnosis and Treatment of Pancreatic Cancer	1.1222	-0.0765	1	2477	509.6745
+Advancements in Pancreatic Islet Function and Therapy	0.6822	-0.2204	6	2477	624.5759
+Acute and Chronic Pancreatitis Research	1.0723	-0.0616	1	2477	384.55
+Paper Structure and Printability	-0.7902	-0.2425	2	2477	147.4239
+Optimizing Parallel and Heterogeneous Architectures	-1.0439	0.276	4	2477	307.1537
+Kinematic Design and Control of Robots	-0.9907	0.0409	4	2477	239.5847
+Paraneoplastic Skin and Bone Disorders	1.0745	-0.0432	1	2477	352.4427
+Psychology of Conspiracy and Paranormal Beliefs	0.1246	0.5392	3	2477	482.6769
+Paraquat-Induced Oxidative Stress and Injury	0.5038	-0.3216	6	2477	1054.9881
+Interactions and Resistance in Parasitic Plants	0.092	-0.3536	5	2477	319.6505
+Zoonotic Parasites in Animals and Humans	0.6917	-0.0797	9	2477	309.8948
+Parathyroid Disorders and Calcium Metabolism	0.979	-0.073	1	2477	590.7905
+Parental Stress in Disability Care	0.5867	0.4151	3	2477	314.3316
+Parenting Influence on Child Mental Health	0.3633	0.5431	3	2477	252.1317
+Parkinson's Disease Pathophysiology and Treatment	0.6611	0.0219	8	2477	526.0431
+Insulation Diagnostics in Power Transformers	-1.1223	0.069	4	2477	443.2454
+Metaheuristic and Evolutionary Algorithms for Optimization	-0.8578	0.2666	4	2477	396.743
+Advancements in Particle Beam Therapy	0.2282	-0.1565	1	2477	433.6659
+Parvovirus Impact on Animals and Humans	0.703	-0.1622	9	2477	436.7199
+Bacterial Respiratory Infections in Livestock	0.5913	-0.2642	9	2477	339.3622
+Patent Foramen Ovale and Related Conditions	1.0281	0.1143	1	2477	434.9704
+Patristic Thought and Christian Theology	-0.0917	0.9624	3	2477	101.2394
+Surgical and Non-Surgical Pectus Treatments	1.0822	0.0794	1	2477	534.5189
+Pain Assessment and Management in Children	0.8801	0.1717	1	2477	449.9359
+Pediatric Urinary Tract Anomalies and Treatments	1.0959	0.0169	1	2477	254.4504
+Scalable and Reliable P2P Systems	-0.9887	0.3118	4	2477	345.821
+Pelvic Floor and Urinary Dysfunction	1.0253	0.0318	1	2477	250.6127
+Management and Outcomes of Pelvic Fractures	1.1416	0.1026	1	2477	319.9838
+Circumcision, Penile Disorders, and Cancer	0.9861	0.0553	1	2477	481.201
+Peptide-Based Supramolecular Structures	-0.3194	-0.6077	7	2477	599.3175
+Innovations in Peptide Synthesis Techniques	-0.0594	-0.6766	7	2477	560.4608
+Perchlorate Sources, Effects, and Remediation	-0.3072	-0.1702	5	2477	750.8299
+Advancements in Coronary Artery Treatments	1.0925	0.0688	1	2477	297.5934
+Perfectionism, Procrastination, and Psychological Well-being	0.2282	0.5304	3	2477	300.9718
+Performance Management and Intellectual Capital	-0.283	0.5977	3	2477	174.9644
+Health and Wellbeing of Musicians	0.2857	0.4492	3	2477	598.6764
+Diagnosis and Management of Pericardial Conditions	1.1136	0.087	1	2477	386.5624
+Mental Health in Pregnancy and Postpartum	0.6837	0.3172	1	2477	437.7703
+Oral Microbiome and Periodontal Disease	0.6944	-0.0948	1	2477	284.4975
+Cardiac Risk in Noncardiac Surgery	1.0862	0.1394	1	2477	442.109
+Peripheral Artery Disease in Diabetics	1.0824	0.0624	1	2477	519.9328
+Advancements in Peripheral Nerve Repair Techniques	0.8209	0.0034	1	2477	571.0504
+Climate Impacts on Permafrost and Peatlands	-0.277	-0.1076	5	2477	401.3124
+Magnetic Properties of Perovskite Oxides	-0.8818	-0.4107	2	2477	501.3054
+Perovskite Structures and Applications	-0.5934	-0.457	2	2477	702.0911
+Peroxisomal Function and Disorders	0.5833	-0.4004	6	2477	775.592
+Congenital and Anatomical Venous Variations	1.1376	0.0591	1	2477	486.5517
+Impact of Persistent Organic Pollutants on Environment	-0.0857	-0.127	5	2477	347.7047
+Personality Traits and Measurement Techniques	-0.0051	0.5529	3	2477	246.239
+Pertussis Vaccination and Immunity Studies	0.764	-0.0504	9	2477	552.7149
+Pesticide Fate and Bioremediation in Soils	-0.1068	-0.2268	5	2477	444.8995
+Engineering and Applications of Antibodies	0.2876	-0.4105	6	2477	921.191
+Adverse Drug Events and Safety	0.8046	0.0997	1	2477	539.3072
+Thermal Energy Storage with PCMs	-0.8225	-0.3019	2	2477	316.0835
+Molecular Phase Transitions and Dynamics	-0.6978	-0.5195	2	2477	560.3155
+Phenomenology and Continental Philosophy	-0.0989	0.9408	3	2477	103.8657
+Phenothiazine Derivatives in Drug Development	0.1801	-0.4678	7	2477	680.2388
+Phenylketonuria and Metabolic Management	0.6773	-0.1933	6	2477	790.5372
+Colonial and Postcolonial Philippines	-0.0966	0.9293	3	2477	253.1332
+Philosophy and Aesthetic Experience	-0.0994	0.9283	3	2477	136.5297
+Philosophical Semiotics and Meaning-Making	-0.189	0.6555	3	2477	340.6642
+Philosophical and Religious Intersections	-0.0862	0.9193	3	2477	145.8889
+Philosophical Approaches to Education and Society	-0.0757	0.8402	3	2477	258.198
+Philosophical Foundations of Scientific Explanation	-0.1233	0.723	3	2477	166.4119
+Phonetic and Phonological Variation in Multilingual Contexts	-0.132	0.6146	3	2477	160.5169
+Acoustic Analysis of Respiratory and Cardiac Sounds	0.2417	0.1269	1	2477	596.6098
+Phosphatase Inhibition and Rasopathy Syndromes	0.5704	-0.4077	6	2477	860.8517
+Phosphodiesterase Inhibitors in Therapeutics	0.5892	-0.3323	6	2477	826.0849
+Synthesis and Reactivity of Organophosphorus Compounds	-0.3229	-0.7791	7	2477	392.362
+Advancements in Photoacoustic Imaging Techniques	-0.3344	-0.1513	2	2477	608.7734
+Photocathode Materials and Electron Emission	-0.6601	-0.5232	2	2477	600.0129
+Nonadiabatic and Photodissociation Dynamics	-0.7109	-0.5425	2	2477	303.4359
+Photodynamic Therapy in Cancer Treatment	0.4318	-0.4477	7	2477	828.4237
+Intersections of Photography, Art, and History	-0.1167	0.9396	3	2477	152.6419
+Photoinduced Electron and Proton Transfer Mechanisms	-0.4511	-0.713	7	2477	466.8412
+Advancements in Photonic Crystal Fiber Technologies	-0.9787	-0.1362	2	2477	320.0914
+Design and Applications of Photonic Crystals	-0.8249	-0.3012	2	2477	598.6374
+Photonic Nanojets and Near-Field Optics	-0.6609	-0.1459	2	2477	573.0624
+Photoresponsive and Photochromic Polymer Systems	-0.519	-0.6042	2	2477	608.2151
+Photosynthesis in Diverse Plant Environments	0.115	-0.3572	5	2477	329.0409
+Photosynthetic Processes and Adaptations	0.1657	-0.471	5	2477	625.3852
+Children's Agency and Participation in Research	0.09	0.7199	3	2477	324.2743
+Performance and Optimization of Photovoltaic Systems	-0.9465	-0.0564	2	2477	339.6265
+Phthalate Impact on Health and Environment	0.0649	-0.2008	5	2477	558.5932
+Phylogenetic and Taxonomic Studies in Biology	0.1751	-0.2976	5	2477	468.5702
+Physical Activity and Health Outcomes	0.634	0.2847	1	2477	495.3833
+Training and Development of Physician-Scientists	0.7825	0.177	1	2477	715.0707
+Phytochemical Studies of Medicinal Plants	0.2501	-0.2909	5	2477	540.7738
+Diversity and Impact of Phytophthora Species	0.1576	-0.3625	5	2477	295.5681
+Phytoplankton Community and Environmental Interactions	-0.1323	-0.1684	5	2477	335.2924
+Insect Vectors of Phytoplasma Diseases	0.1636	-0.3261	5	2477	344.7076
+Phytoremediation of Heavy Metal Contaminated Soils	-0.1195	-0.2227	5	2477	390.755
+Particle-Stabilized Emulsions and Interfaces	-0.5651	-0.5593	2	2477	604.2018
+Ultrafast Coherent Phonon Dynamics	-0.886	-0.3369	2	2477	515.3252
+Precision Control in Piezoelectric Systems	-1.0174	-0.0191	4	2477	492.3084
+Structural Integrity of Pipelines	-0.849	-0.1383	2	2477	280.7633
+Diagnosis and Treatment of Pituitary Tumors	1.0592	-0.0035	1	2477	453.3064
+Phylogenetic Relationships of Invertebrates	0.1956	-0.2002	5	2477	453.3831
+Bacterial Diseases in Plants	0.2308	-0.3913	5	2477	391.199
+Plant Cell Wall Biosynthesis and Modification	0.173	-0.4626	5	2477	518.9428
+Plant Community Dynamics and Interactions	-0.0144	-0.1791	5	2477	271.8384
+Light Influence on Plant Growth and Development	0.1014	-0.4163	5	2477	623.811
+Nitrogen Uptake and Assimilation in Plants	0.1504	-0.395	5	2477	375.5418
+Climate Impact on Plant Phenology	-0.0293	-0.2281	5	2477	354.4135
+Plant Responses to Abiotic Stress	0.1617	-0.4149	5	2477	349.7322
+Sugar Transport and Metabolism in Plants	0.2467	-0.4206	5	2477	473.4983
+Plant Virus Transmission and Resistance Mechanisms	0.2357	-0.3893	5	2477	375.0742
+Bioactive Xanthones from Medicinal Plants	0.3544	-0.4862	7	2477	749.6497
+Atmospheric and Non-Thermal Plasma Discharges	-0.8558	-0.2833	2	2477	499.5447
+Plasma Ionization and Etching Processes	-1.0877	-0.284	2	2477	335.6863
+Plasminogen Activator System and Disorders	0.7952	-0.2839	6	2477	822.6267
+Role in Inflammation and Cardiovascular Disease	0.7613	-0.3135	6	2477	911.9347
+Pluripotent Stem Cell Research and Applications	0.3271	-0.2063	6	2477	780.9536
+Pneumatosis Intestinalis and Related Complications	1.119	0.0728	1	2477	539.9869
+Pneumocystis Pneumonia in Immunocompromised Patients	0.8595	-0.0531	1	2477	618.7231
+Diagnosis and Treatment of Poisoning	0.8434	0.0559	1	2477	448.4178
+Advanced Polarization Imaging Techniques	-0.907	-0.1983	2	2477	271.2729
+Liberalism, Justice, and Pluralism	-0.0867	0.8912	3	2477	172.2411
+Dynamics of Political Representation and Elections	-0.1253	0.8907	3	2477	122.759
+Political Philosophy and Theological Critique	-0.098	0.9423	3	2477	198.1586
+Pollination and Reproductive Strategies in Plants	0.1036	-0.2858	5	2477	351.1313
+Polyamine Metabolism and Functions	0.5082	-0.4655	6	2477	819.0857
+Layer-by-Layer Polyelectrolyte Assemblies	-0.4453	-0.5584	2	2477	651.4486
+High-Performance Polyimide Materials	-0.7139	-0.6006	2	2477	217.5991
+Film Formation in Polymer Coatings	-0.6098	-0.5443	2	2477	372.083
+Crystallization and Mechanical Properties of Polymers	-0.7287	-0.5708	2	2477	198.7213
+Degradation and Stabilization of Polymers	-0.6094	-0.5829	2	2477	244.5241
+Dielectric Properties of Polymer Composites	-1.0357	-0.1665	2	2477	575.4374
+Polymer Behavior in Solutions and Interfaces	-0.6254	-0.5448	2	2477	381.7053
+Effects of Radiation on Polymers	-0.7573	-0.3892	2	2477	418.1827
+Rheological Behavior of Polymeric Fluids	-0.7904	-0.3163	2	2477	311.5181
+Surface Modification for Antifouling and Biocompatibility	-0.4363	-0.4952	2	2477	633.5933
+Polyomavirus Infections and Cancer Development	0.889	-0.1495	1	2477	737.7949
+Polyoxometalate Chemistry and Catalysis	-0.4737	-0.6924	7	2477	457.4132
+Synthesis and Properties of Phosphazenes	-0.4464	-0.6839	7	2477	439.2051
+Polyploidy and Chromosome Variation in Plants	0.1678	-0.3861	5	2477	267.9479
+Bioactive Polysaccharides from Fungi and Plants	0.3228	-0.4813	6	2477	776.4905
+Advancements in Polyurethane Materials and Applications	-0.581	-0.539	2	2477	361.7827
+Mathematical Models of Population Dynamics	-0.6746	0.1391	4	2477	370.6292
+Genomic Diversity and Ancestry Inference	0.2449	-0.1112	6	2477	536.279
+Porcine Viral Infections and Immunity	0.5702	-0.2575	9	2477	335.2298
+Bioactive Metabolites from Marine Organisms	0.1323	-0.5647	7	2477	607.8914
+Particle Filtration in Porous Media	-0.5723	-0.2995	2	2477	467.8788
+Porphyrin and Phthalocyanine Complexes	-0.4383	-0.7072	7	2477	500.082
+Solutions to Nonlinear Elliptic Partial Differential Equations	-1.1272	0.2659	4	2477	184.8559
+Positron Annihilation in Materials Science	-0.8874	-0.3659	2	2477	498.2116
+Economic and Political Changes in Post-Soviet States	-0.1675	0.8216	3	2477	218.4727
+Postcolonial Identity and Politics in Africa	-0.0989	0.9479	3	2477	194.0162
+Narratives and Identity in African Literature	-0.0885	0.9843	3	2477	147.1947
+Postcolonial Identity and Culture in Maghreb	-0.0556	0.927	3	2477	213.1692
+Reversible Encephalopathy and Vasculitis	0.9956	0.1239	1	2477	489.4067
+Enhancing Postharvest Quality of Fruits	0.1101	-0.4132	5	2477	269.8369
+Themes in Postmodern American Fiction	-0.083	0.9855	3	2477	143.2305
+Postmodernism in Literature and Culture	-0.109	0.925	3	2477	246.2682
+Nutritional Strategies in Poultry Production	0.4078	-0.2561	9	2477	157.1595
+Multidimensional Poverty and Inequality Dynamics	-0.1746	0.6887	3	2477	202.8164
+X-ray Diffraction in Material Analysis	-0.6216	-0.5021	2	2477	584.3498
+Advancements in Powder Injection Molding Techniques	-0.9187	-0.378	2	2477	379.4516
+Sintering and Alloying in Powder Metallurgy	-0.9804	-0.449	2	2477	285.0222
+Impulsive Noise in Power Line Communications	-1.1272	0.1786	4	2477	389.0929
+Advanced Power Converter Control Techniques	-1.1405	0.1492	4	2477	378.6948
+Stability and Control in Power Systems	-1.1309	0.157	4	2477	383.596
+Poxvirus Infections and Vaccines	0.6024	-0.0229	9	2477	660.0055
+Global Navigation Satellite System Enhancements	-0.8133	0.0377	4	2477	316.0981
+Advanced Techniques in Precision Measurement	-0.9995	-0.0998	2	2477	331.6077
+Trace Element Detection in Various Samples	-0.255	-0.5093	7	2477	237.8976
+Preeclampsia and Hypertensive Pregnancy Disorders	0.8678	0.0224	1	2477	419.7964
+Cardiovascular Complications in Pregnancy	1.1212	0.0797	1	2477	281.1871
+Medication Safety and Outcomes in Pregnancy	0.9034	0.0915	1	2477	534.7389
+Menstrual Disorders and Treatments	0.6403	0.2344	1	2477	601.4538
+Effects of Substance Use During Pregnancy	0.7013	0.173	1	2477	568.747
+Advancements in Prenatal Genetic Screening	0.8012	0.0616	1	2477	382.7126
+Workplace Health and Presenteeism	0.5258	0.346	1	2477	481.5841
+Prevention and Treatment of Pressure Ulcers	0.7932	0.1677	1	2477	378.1586
+Preterm Birth and Cervical Interventions	0.8764	0.0848	1	2477	298.9904
+Transformations in Primary Care Delivery	0.835	0.2596	1	2477	491.6766
+Primary Central Nervous System Lymphoma	1.0496	-0.1163	1	2477	499.4728
+Social Dynamics and Ecology of Primates	0.1697	-0.0563	5	2477	326.2027
+Prion Pathogenesis and Transmission	0.4427	-0.1535	6	2477	909.0478
+Conflict of Laws and Jurisdiction	-0.0989	0.8375	3	2477	73.5832
+Factors Influencing Pro-environmental Actions	-0.1305	0.5025	3	2477	373.6724
+Central Limit Theorems and Poisson Approximations	-0.6756	0.2812	4	2477	179.4294
+Sepsis and Septic Shock Treatment Strategies	0.9655	0.0923	1	2477	413.931
+Biosynthesis and Applications of Prodigiosin	0.1655	-0.5332	7	2477	716.7436
+Prohormone Convertases and Peptide Regulation	0.5569	-0.3634	6	2477	859.3027
+Prolactin's Role in Health and Disease	0.7757	-0.2418	6	2477	557.6298
+Cell Proliferation and Cancer Prognostics	0.757	-0.2909	6	2477	555.7246
+Bioactive Properties of Honey and Propolis	0.3305	-0.3558	5	2477	677.7029
+Diagnosis and Treatment of Prostate Cancer	1.0474	-0.0813	1	2477	372.2914
+Protease Inhibitors and Specificity	0.4925	-0.4839	6	2477	768.632
+Ubiquitin and Sumoylation in Cellular Processes	0.5071	-0.427	6	2477	780.7707
+Techniques and Conditions for Protein Crystallization	-0.3875	-0.4144	2	2477	829.969
+Protein Structure and Dynamics Modeling	0.1058	-0.4619	6	2477	768.8473
+Protein Kinases and Phosphatases in Disease	0.536	-0.4663	6	2477	770.2569
+Bioprocessing and Purification of Proteins	0.1365	-0.4576	6	2477	452.6234
+Protein and Polysaccharide Emulsions in Food	-0.0385	-0.506	5	2477	319.3845
+Mass Spectrometry in Proteomics	0.3222	-0.3908	6	2477	608.5069
+Complex Manifolds and Differential Equations	-1.1195	0.2797	4	2477	157.0687
+Psoriasis Pathogenesis and Treatment Strategies	0.9419	-0.1056	1	2477	291.2009
+Psychoactive Drugs and Their Effects	0.4966	-0.0251	8	2477	592.6188
+Psychosocial Factors in Cardiovascular Health	0.8811	0.2395	1	2477	481.0771
+Functional Neurological Disorders and Seizures	0.8413	0.2696	8	2477	365.258
+Training and Competencies in Psychotherapy	0.3436	0.5827	3	2477	159.8003
+Impact of Obesity on Puberty Timing	0.7071	0.1578	1	2477	489.672
+Public Sector Governance and Reform	-0.1192	0.7806	3	2477	132.8412
+Public Health Workforce Development and Challenges	0.5527	0.3469	1	2477	344.5591
+Challenges and Changes in NHS England	0.9304	0.2313	1	2477	457.3382
+Mechanisms and Treatments of Pulmonary Hypertension	0.9996	-0.017	1	2477	458.8724
+Pulmonary Surfactant and Lung Health	0.6533	-0.1871	6	2477	707.2681
+Ultrasound in Pleural and Lung Conditions	1.044	0.0926	1	2477	438.2176
+Diversity and Ecology of Land Snails	0.1045	-0.1702	5	2477	322.4001
+High-Energy Pulsed Plasma and Ion Beams	-1.0531	-0.2781	2	2477	359.1204
+Cavitation Dynamics in Turbomachinery	-0.9049	-0.1269	2	2477	254.2652
+Purine Metabolism and Related Disorders	0.5042	-0.4501	6	2477	844.5088
+Toxicological Effects of Pyrethroid Insecticides	0.2603	-0.285	7	2477	717.7513
+Pyrochlore Structures for Nuclear Waste	-0.8151	-0.475	2	2477	541.5402
+Toxicity and Risks of Pyrrolizidine Alkaloids	0.3927	-0.3722	9	2477	596.6396
+Cheminformatics and Molecular Modeling	-0.45	-0.2095	4	2477	680.2391
+Genetic Diversity and Trait Mapping in Plants	0.1968	-0.3275	5	2477	433.9955
+Qualitative Research and Grounded Theory	0.1714	0.5394	3	2477	536.1417
+Reasoning with Spatial and Temporal Relations	-0.8547	0.3533	4	2477	384.7526
+Quantum Effects in Biological Systems	-0.0442	0.045	8	2477	996.9673
+Quantum Chaos and Random Matrix Theory	-0.989	0.0241	4	2477	335.6273
+Quantum Chemistry and Molecular Interactions	-0.5848	-0.649	2	2477	388.6524
+Semiconductor Quantum Dots and Applications	-0.6322	-0.5041	2	2477	696.7308
+Quantum Entanglement and Information Processing	-0.8062	-0.1767	2	2477	381.7364
+Geometric Phases in Quantum Systems	-0.7671	-0.1181	2	2477	460.0653
+Quantum Groups and Hopf Algebras	-1.119	0.2163	4	2477	186.4631
+Quantum Hall Effect and Electron Transport	-0.9611	-0.3248	2	2477	382.1864
+Quantum Systems and Optomechanical Interactions	-0.7333	-0.2355	2	2477	524.3549
+Quantum Systems and PT-Symmetry	-0.8968	-0.2141	2	2477	322.8902
+Quantum Spin Models and Phase Transitions	-0.9301	-0.2997	2	2477	395.2863
+Spin Dynamics in Semiconductor Quantum Dots	-0.8339	-0.3004	2	2477	517.1447
+Thermodynamics in Nonequilibrium Systems	-0.8041	-0.2247	2	2477	386.6876
+Quantum Walks and Their Applications	-0.804	-0.0246	2	2477	434.559
+Quantum Well Optoelectronic Devices	-1.0728	-0.2561	2	2477	458.1034
+Properties and Applications of Quartz and Tourmaline	-0.6682	-0.2543	2	2477	560.6165
+Quasi-Monte Carlo and Function Approximation	-0.9543	0.242	4	2477	336.8397
+Structure and Properties of Quasicrystals	-0.865	-0.3334	2	2477	556.5921
+Advanced Queueing Systems and Models	-0.8047	0.3251	4	2477	308.3565
+Synthesis and Biological Activity of Quinazolines	0.0109	-0.6899	7	2477	449.0819
+Biofilm Formation and Quorum Sensing	0.3438	-0.3073	9	2477	584.5784
+Ras Pathway in Cancer Therapy	0.5411	-0.4181	6	2477	839.1946
+High-Frequency CMOS and BiCMOS Circuits	-1.1602	0.1516	4	2477	373.605
+Design and Linearization of RF Power Amplifiers	-1.1605	0.1583	4	2477	374.7465
+Advancements in RFID Technology and Applications	-0.989	0.1939	4	2477	460.872
+Ribosome-Inactivating Proteins in Cancer Therapy	0.5628	-0.4263	6	2477	872.1645
+A-to-I RNA Editing Mechanisms	0.4666	-0.3528	6	2477	821.6663
+RNA Structure and Translation Mechanisms	0.3752	-0.4435	6	2477	758.5198
+RNA Interference and Small RNAs	0.3099	-0.3127	6	2477	847.6859
+Rabbit Diets and Growth Performance	0.4917	-0.2059	9	2477	210.0505
+Rabies Virus Epidemiology and Control	0.5865	-0.047	9	2477	545.499
+Racial Identity and Intergroup Relations	0.0416	0.7222	3	2477	220.2352
+Genotoxic Effects of Radiation Exposure	0.4497	-0.1503	6	2477	702.8794
+Radiation Exposure in Medical Procedures	0.6996	0.0453	1	2477	382.6933
+Advancements in Radiation Thermometry Techniques	-1.0062	-0.2552	2	2477	412.7283
+Modeling and Analysis of Radiative Heat Transfer	-0.9395	-0.1319	2	2477	383.6507
+Radical Reactions in Organic Synthesis	-0.318	-0.8185	7	2477	313.6999
+Radical SAM and B12 Enzymes	0.1567	-0.5711	7	2477	783.9645
+Advancements in Radio Astronomy Technologies	-0.6469	-0.0064	2	2477	316.6784
+Atmospheric and Terrain Radio Wave Propagation	-1.0242	0.1211	4	2477	477.9928
+Environmental Impact of Nuclear Accidents	-0.1908	-0.152	5	2477	448.7668
+Radionuclide Therapy in Cancer Treatment	0.5703	-0.2744	1	2477	515.9373
+Advancements in Radiology Communication and Reporting	0.6203	0.1057	1	2477	260.9378
+Standardization and Measurement of Radionuclide Activity	-0.3859	-0.2179	2	2477	325.2153
+Plant-Derived Radioprotective Agents	0.4877	-0.428	6	2477	888.4639
+Advancements in Radiotherapy Techniques and Quality Assurance	0.8213	-0.1224	1	2477	305.0464
+Radon and Natural Radioactivity Assessment	-0.1901	-0.111	5	2477	411.2659
+Light Scattering and Random Lasers	-0.7585	-0.2203	2	2477	465.7083
+Rangeland Ecosystem and Vegetation Dynamics	-0.1015	-0.0574	5	2477	359.8878
+Geochemistry of Rare Earth Elements in Sediments	-0.3074	-0.1579	5	2477	293.8817
+Genetic and Rare Skeletal Disorders	0.9591	-0.0385	1	2477	594.9462
+Dynamics of Reaction-Diffusion Systems	-0.7185	-0.3302	2	2477	519.325
+Reaction-Diffusion and Instability Patterns	-0.6874	-0.1906	2	2477	593.3512
+Advanced Distillation Process Design and Control	-0.7338	-0.325	2	2477	191.7539
+Language Skills and Reading Acquisition	0.0212	0.7204	3	2477	209.2218
+Real-Time Simulation of Power Systems	-1.081	0.1207	4	2477	424.4741
+Real-Time Scheduling and Networking	-1.0388	0.2682	4	2477	389.0653
+Personalized and Collaborative Recommender Systems	-0.8319	0.3531	4	2477	343.6121
+Valorization and Treatment of Red Mud	-0.6328	-0.3637	2	2477	461.048
+Innovative Treatments for Refractory Angina	0.821	-0.1135	1	2477	715.2334
+Techniques and Safety in Regional Anesthesia	1.0519	0.1057	1	2477	161.2886
+Advanced Estimators in Linear Regression	-0.4532	0.3621	4	2477	212.9609
+Role of Regulatory T Cells in Immunity	0.6681	-0.2386	6	2477	458.0858
+Advanced Reinforcement Learning Techniques	-0.7742	0.2567	4	2477	379.0879
+Attachment, Satisfaction, and Conflict in Relationships	0.2063	0.5934	3	2477	205.5751
+Apelin and Relaxin in Cardiovascular Health	0.6813	-0.271	6	2477	837.6227
+Reliability and Maintenance Optimization	-0.8792	0.2266	4	2477	342.9672
+Religion, Spirituality, and Societal Impacts	0.1714	0.7231	3	2477	298.1468
+Religious Education and Cultural Pluralism	-0.0802	0.8833	3	2477	178.5621
+Ethics, Theology, and Modern Society	-0.0819	0.9518	3	2477	120.4726
+Philosophical and Historical Religious Studies	-0.0748	0.9448	3	2477	104.0065
+Remote and Virtual Engineering Laboratories	-0.8195	0.296	4	2477	439.7594
+Renaissance Art and Cultural Interactions	-0.124	0.9826	3	2477	80.3863
+Humanism and Political Thought in Renaissance	-0.1094	0.9985	3	2477	179.5366
+Renaissance and Early Modern English Literature	-0.1045	1.026	3	2477	160.9257
+Renaissance and Medieval Music Studies	-0.1192	0.9642	3	2477	38.5343
+Advancements in Renal Cell Carcinoma Treatment	1.0586	-0.1317	1	2477	411.1743
+Dopamine's Role in Renal Function	0.7752	-0.1192	1	2477	718.4586
+Granulomatous and Emphysematous Renal Infections	0.9755	-0.0576	1	2477	463.2131
+Interventions for Renal Artery Stenosis and Complications	1.1064	0.0449	1	2477	446.1643
+Global Renewable Energy Policies and Challenges	-0.3927	0.2857	3	2477	340.3148
+Renin-Angiotensin System in Hypertension	0.7935	-0.2003	6	2477	625.0317
+DNA Damage and Repair Mechanisms	0.5322	-0.3688	6	2477	793.1402
+Mechanisms of Cardioprotection in Ischemia	0.9351	-0.1387	1	2477	555.1619
+Advanced Representation Theory and Algebra	-1.1443	0.2851	4	2477	146.0609
+Immunological Aspects of Reproduction and Pregnancy	0.7178	-0.1745	6	2477	507.0673
+Ecology and Behavior of Reptiles	0.1456	-0.1472	5	2477	287.2604
+Characterization and Dynamics of Hydrocarbon Reservoirs	-0.5648	-0.187	5	2477	267.369
+Resistive Switching in Memory Devices	-0.8687	-0.1235	4	2477	696.4824
+Neural Control of Breathing and Chemoreflexes	0.6921	0.0618	8	2477	467.7583
+Respirator Efficacy and Fit in Healthcare	0.3931	0.0835	1	2477	713.5169
+Respiratory Viruses in Children and Adults	0.7443	-0.0061	1	2477	593.871
+Restless Legs Syndrome and Comorbidities	0.8924	0.165	8	2477	356.2188
+Resveratrol's Role in Sirtuin Pathways	0.5045	-0.3621	6	2477	949.4819
+Microstructure and Properties of Steels	-0.9945	-0.4507	2	2477	251.1184
+Automated Retinal Disease Detection and Segmentation	-0.2322	0.1385	4	2477	566.4027
+Retinopathy of Prematurity and Related Disorders	0.8445	0.0292	1	2477	220.9493
+Financial Planning and Retirement Systems	-0.1401	0.681	3	2477	210.6806
+Rhetoric's Role in Identity and Politics	-0.0762	0.8833	3	2477	119.7321
+Rheumatoid Arthritis Treatment and Management	0.8799	-0.017	1	2477	212.8684
+Advancements in Rhinoplasty and Nasal Surgery	1.2131	0.0645	1	2477	271.6371
+Nitrogen Fixation in Rhizobium-Legume Interactions	0.2319	-0.3677	5	2477	515.7685
+Ribonucleases in Cancer and Immunity	0.5176	-0.472	6	2477	778.9494
+Advanced Concepts in Ring and Module Theory	-1.1504	0.2915	4	2477	145.1934
+Risk Preferences and Decision-Making	-0.3356	0.6035	3	2477	203.1982
+Advanced Robotic Grasping and Manipulation	-0.9125	0.1828	4	2477	255.9567
+Robust Control of Nonlinear and Time-Delay Systems	-1.0912	0.1827	4	2477	316.3761
+Advanced Statistical Estimation Techniques	-0.4576	0.2946	4	2477	144.3692
+Rock Failure and Fracture Mechanics	-0.6935	-0.1361	2	2477	195.8965
+Behavioral Studies in Rodents	0.3631	-0.0215	8	2477	601.9574
+Ecological and Behavioral Studies of Rodents	0.1577	-0.1406	5	2477	313.1166
+Social Integration and Identity of Roma	0.0474	0.7419	3	2477	424.5652
+Cultural and Historical Narratives of Rome	-0.1069	0.9838	3	2477	70.7239
+Historical and Comparative Romance Linguistics	-0.1031	0.8869	3	2477	100.7926
+Romanticism, Gender, and Eighteenth-Century Literary Themes	-0.0955	1.021	3	2477	130.7397
+Rootstock Influence on Fruit Trees	-0.0467	-0.2704	5	2477	276.1119
+Rotating Machinery Fault Detection Techniques	-0.9617	0.0826	4	2477	496.4168
+Rough Sets and Fuzzy Logic Integration	-0.845	0.3483	4	2477	325.5864
+Properties and Compatibilization of Rubber Blends	-0.7019	-0.5709	2	2477	185.9056
+Ruin Probabilities in Risk Models	-0.5946	0.4164	4	2477	166.6244
+Ruminant Diets and Digestive Efficiency	0.322	-0.2862	9	2477	181.422
+Advanced Numerical Methods for Differential Equations	-0.9986	0.1648	4	2477	225.5544
+Intertextuality and Themes in Russian Literature	-0.0944	0.9491	3	2477	162.212
+Evolution of Russian National Identity	-0.1125	0.9894	3	2477	189.1572
+Sociological Perspectives in Russian Context	-0.108	0.7539	3	2477	321.9944
+S100 Proteins in Cancer and Inflammation	0.7542	-0.3	6	2477	907.3406
+Plasmonic Nanostructures for Sensing	-0.6743	-0.4503	2	2477	711.6091
+STAT3 in Cancer and Immunity	0.6487	-0.369	6	2477	846.5297
+Vestibular Function and Oculomotor Control	0.6217	0.1321	8	2477	456.3619
+Yeast Cellular Processes and Stress Responses	0.4096	-0.4419	6	2477	684.4286
+Diagnosis and Treatment of Salivary Tumors	1.0975	-0.0692	1	2477	420.6353
+Salmonella and Campylobacter Pathogenesis and Resistance	0.5414	-0.1941	9	2477	519.4783
+Impact of Sodium on Blood Pressure	0.8326	0.1065	1	2477	551.2717
+Advanced Techniques in Sampling Estimation	-0.1357	0.2519	4	2477	278.3322
+Systemic and Multiorgan Sarcoidosis	0.9758	0.0505	1	2477	563.4533
+Diagnosis and Treatment of Sarcomas	1.0896	-0.1463	1	2477	508.2188
+Integrated Satellite-Terrestrial Communication Networks	-1.0774	0.2103	4	2477	357.489
+Epidemiology and Management of Scabies	0.7769	-0.0048	1	2477	413.4492
+Electromagnetic Scattering from Ocean Surfaces	-0.9124	0.012	4	2477	448.4137
+Epidemiology and Control of Schistosomiasis	0.6303	-0.0486	9	2477	465.5028
+Physical and Metabolic Health in Schizophrenia	0.7119	0.2729	8	2477	356.8184
+Advancements in Schizophrenia Understanding and Treatment	0.6235	0.3739	8	2477	219.782
+School-Based Child and Adolescent Health Services	0.7222	0.3279	1	2477	431.6268
+Restorative Justice and School Discipline	0.0426	0.7212	3	2477	198.8432
+Schottky Diodes and Semiconductor Interfaces	-1.0559	-0.3121	2	2477	483.7476
+Spectral Analysis of Differential Operators	-1.035	0.1836	4	2477	242.0156
+Public Perception and Science Communication	-0.0217	0.3921	3	2477	574.8639
+Innovations in Science Teaching and Learning	-0.1276	0.5815	3	2477	238.9233
+Historical Perspectives on Science and Culture	-0.1714	0.3248	3	2477	669.0347
+Intersections of Science and Theology	-0.0549	0.6314	3	2477	247.2749
+Toxicology and Effects of Scorpion and Spider Venoms	0.5676	-0.0907	5	2477	727.203
+Sediment Transport and River Channel Dynamics	-0.5358	-0.0712	5	2477	270.4146
+Supersonic and Hypersonic Combustion Dynamics	-0.9067	-0.1194	2	2477	123.4496
+Cancer Screening and Disparities	0.9203	0.0579	1	2477	532.141
+Intersections of Ancient Texts and Theology	-0.0867	0.9852	3	2477	63.8537
+Heavy Metal Distribution in Sediments	-0.2882	-0.1113	5	2477	334.8673
+Sedimentary Processes and Basin Evolution	-0.4562	-0.0794	5	2477	147.3933
+Seismic Performance of Reinforced Concrete Structures	-0.853	-0.1463	2	2477	142.9686
+Seismic Wave Propagation and Inversion Techniques	-0.6785	-0.0535	5	2477	128.0087
+Seismic Behavior of Masonry Structures	-0.7872	-0.1078	2	2477	193.0424
+Electromagnetic Emissions and Seismic Activity	-0.6549	-0.2592	2	2477	637.1549
+Catalytic Reduction of NOx and VOCs	-0.6504	-0.5524	2	2477	395.7838
+Selenium's Role in Health and Environment	0.3355	-0.3339	6	2477	935.7758
+Integrated Circuit Fault Detection and Diagnosis	-1.1156	0.1861	4	2477	375.282
+Engineering and Management of Self-Adaptive Systems	-0.9563	0.3147	4	2477	355.1708
+Molecular Electronics and Surface Interactions	-0.6278	-0.4857	2	2477	695.6132
+Dynamics of Self-Organized Critical Systems	-0.7057	0.0855	2	2477	468.1822
+Student Learning and Instructional Methods	-0.1194	0.7044	3	2477	217.5274
+Ontology and Semantic Data Integration	-0.7963	0.3522	4	2477	340.424
+Advancements in Semiconductor Laser Technologies	-1.1336	-0.0926	2	2477	424.8242
+Seminal Vesicle and Vas Deferens Pathologies	1.085	0.0309	1	2477	285.9497
+Criminal Justice System and Incarceration	0.1175	0.7152	3	2477	160.3962
+Immunological Responses in Sepsis and Trauma	0.8198	-0.1632	1	2477	781.4587
+Serotonin Receptors in Mood Disorders	0.5729	-0.0595	8	2477	538.887
+Advanced Business Process Modeling and Integration	-0.8361	0.3882	4	2477	314.9122
+Bioactive Sesquiterpenes and Diterpenes	0.2738	-0.5724	7	2477	698.1604
+Indigenous Struggles and Settler Colonialism	-0.0758	0.9152	3	2477	278.9392
+Plastic Deformation in Metals and Alloys	-0.9428	-0.4267	2	2477	364.3951
+Genetic and Chromosomal Sex Development Disorders	0.6255	-0.1093	6	2477	639.8855
+Sex Trafficking and Exploitation Dynamics	0.1455	0.6799	3	2477	337.999
+Sexual Health and Dysfunction Studies	0.883	0.1274	1	2477	340.5069
+Sexual Selection and Mating Behaviors	0.1402	-0.1354	5	2477	400.5925
+Dynamics and Perceptions of Sexual Violence	0.2237	0.6412	3	2477	277.2606
+Properties and Transformations of Shape Memory Alloys	-0.9146	-0.3781	2	2477	400.5233
+Patient Satisfaction and Communication in Healthcare	0.773	0.2872	1	2477	570.8062
+Servitization and the Sharing Economy	-0.3272	0.5663	3	2477	285.3503
+Short Bowel Syndrome and Nutrition	1.0343	-0.0566	1	2477	474.5891
+Laser and Shot Peening Effects on Metals	-1.0053	-0.3593	2	2477	395.5355
+Diagnosis and Treatment of Shoulder Disorders	1.1111	0.1314	1	2477	240.4408
+Silicon Carbide Power Electronics	-1.1348	-0.0367	4	2477	499.3116
+Genetics and Treatment of Sickle Cell Disease	0.8211	-0.0385	1	2477	530.2477
+Sigma Receptors in Cancer and Neurology	0.5473	-0.2794	6	2477	851.6878
+VLSI Circuit Design and Optimization	-1.1216	0.1577	4	2477	412.9923
+Silicide Formation on Silicon Substrates	-1.0635	-0.3561	2	2477	427.1305
+Defects in Silicon and Semiconductor Materials	-1.1049	-0.3095	2	2477	414.666
+Silicon Detectors in High-Energy Physics	-1.0049	-0.0697	2	2477	240.538
+Properties and Applications of Silicon Nanostructures	-1.014	-0.3795	2	2477	446.5379
+Silicon Nanowires in Photovoltaics and Electronics	-0.8148	-0.384	2	2477	602.268
+Silicon Photonic Integrated Circuits	-0.9705	-0.1256	2	2477	408.4064
+Advancements in Silicon Solar Cell Efficiency	-1.0664	-0.3314	2	2477	427.6379
+Atomic and Electronic Structures of Silicon Surfaces	-0.9347	-0.4142	2	2477	515.2549
+Silk Proteins in Biomedical Engineering	-0.0502	-0.4388	7	2477	825.0378
+Silymarin's Therapeutic and Protective Roles	0.5561	-0.3356	6	2477	895.9237
+Efficient Indexing and Querying in Spatial Databases	-0.8904	0.319	4	2477	369.663
+3D Vision and Localization Techniques	-0.9609	0.2441	4	2477	363.7096
+Numerical Methods for Singular Perturbation Problems	-1.0218	0.2145	4	2477	198.5384
+Management and Outcomes of Sinonasal Tumors	1.1211	-0.0445	1	2477	342.2754
+Cognitive Systems and Automation in Aviation	-0.3999	0.3275	4	2477	409.7884
+Sjogren's Syndrome Pathophysiology and Management	0.8142	-0.0581	1	2477	452.3042
+Mechanisms and Treatments of Skin Aging	0.8526	-0.1668	1	2477	399.6152
+Slavery, Race, and American Identity	-0.1085	1.0174	3	2477	150.8155
+Sleep Disorders and Orexin Signaling	0.4612	0.0866	8	2477	539.6102
+Dynamics of Liquid Sloshing in Tanks	-0.892	-0.1228	2	2477	350.1778
+Therapies for Small Cell Lung Cancer	0.9912	-0.2262	1	2477	452.9217
+Optimization in Smart Grids and Microgrids	-1.0751	0.1427	4	2477	406.1635
+Cybersecurity in Smart Grid Systems	-1.0418	0.2032	4	2477	458.7109
+IoT and AI in Home Automation	-0.9144	0.1991	4	2477	538.5456
+Smoking Cessation and Health Impacts	0.6832	0.2605	1	2477	512.7467
+Biochemistry and Effects of Snake Venom	0.6172	-0.3284	6	2477	810.6869
+Ice Interaction and Structural Dynamics	-0.17	-0.0032	2	2477	458.7587
+Social Anxiety and Cognitive Therapy	0.351	0.5228	3	2477	245.2752
+Social Capital and Trust Dynamics	-0.0995	0.7672	3	2477	271.039
+Social Democracy and Welfare State Evolution	0.2955	0.5812	3	2477	557.7998
+Social Marketing and Human Behavior	0.0324	0.5541	3	2477	426.5642
+Luhmann's Social Systems and Ontology	-0.114	0.8013	3	2477	317.8416
+Innovations and Challenges in Social Work Education	0.0926	0.718	3	2477	103.2822
+Oral Health and Socioeconomic Factors	0.7284	0.1864	1	2477	207.6943
+Language Contact and Identity	-0.1303	0.8446	3	2477	136.0186
+Evolution of Sociological Thought and Theory	-0.0675	0.8821	3	2477	171.7172
+Teaching Sociology and Political Science	-0.0726	0.8306	3	2477	231.5477
+Sociology of Time and Modernity	-0.0846	0.8683	3	2477	319.327
+Sociological Perspectives on Work and Identity	-0.0399	0.815	3	2477	264.9708
+Fault Tolerance in Radiation Environments	-1.0974	0.1311	4	2477	413.0943
+Advancements in Software-Defined Networking	-1.0342	0.284	4	2477	350.3522
+Software Development and Evolution Techniques	-0.9252	0.3583	4	2477	212.4451
+Software Reliability Modeling and Prediction	-0.9312	0.2716	4	2477	370.4154
+Automated and Efficient Software Testing Techniques	-0.9803	0.3239	4	2477	255.588
+Soil Carbon and Nutrient Cycling	-0.1038	-0.1632	5	2477	256.383
+Mechanization and Soil Interaction in Agriculture	-0.6331	-0.0092	4	2477	283.2879
+Soil Erosion Processes and Mitigation	-0.3344	-0.0773	5	2477	234.9517
+Interactions and Diversity of Soil Fauna	0.0049	-0.1727	5	2477	292.8719
+Spatial Soil Property Mapping Techniques	-0.3968	8e-04	5	2477	253.5956
+Strategies for Managing Soil-Borne Plant Pathogens	-0.101	-0.3832	5	2477	505.1845
+Phosphorus Availability and Plant Uptake in Soils	-0.0573	-0.2917	5	2477	310.9244
+Soil-Structure Interaction and Stability	-0.6917	-0.109	2	2477	121.0165
+Solar-Powered Water Desalination Technologies	-0.6357	-0.3495	2	2477	496.8254
+Solar Magnetic Fields and Dynamics	-0.7513	-0.1323	2	2477	94.8188
+Advancements in Solar Thermal Energy Systems	-0.8266	-0.2416	2	2477	224.5531
+Reliability and Performance of Solder Interconnects	-1.0951	-0.1048	4	2477	544.6587
+Materials and Performance in SOFCs	-0.799	-0.5111	2	2477	437.2881
+Microextraction for Pesticide and Pollutant Analysis	-0.1056	-0.466	7	2477	280.3269
+Advancements in NMR Spectroscopy Techniques	-0.2011	-0.566	7	2477	682.057
+Photodimerization and Photoreactivity in Crystals	-0.3986	-0.7124	7	2477	459.3972
+Nonlinear Wave and Soliton Solutions	-0.9955	-0.0075	4	2477	364.5643
+Cytochrome P450 and Epoxide Hydrolase in Cardiovascular Health	0.5767	-0.3274	6	2477	877.2915
+Dynamics and Chemistry of Solvated Electrons	-0.6017	-0.5206	2	2477	528.019
+Solvent Extraction of Metals and Elements	-0.5558	-0.5784	2	2477	462.149
+Mechanisms and Reactivity in Organic Chemistry	-0.3493	-0.7721	7	2477	413.8626
+B Cell Development and Antibody Diversification	0.4659	-0.2477	6	2477	515.7645
+Political Dynamics in Southeast Asia	-0.0694	0.8518	3	2477	220.1761
+International Space Policy and Cooperation	-0.2653	0.5241	3	2477	324.2467
+Optimization of Spacecraft Orbits and Trajectories	-0.9137	0.0325	2	2477	176.9329
+Literary Themes in Spanish Golden Age	-0.1064	1.0022	3	2477	84.5338
+Spatial Cognition and Urban Morphology	-0.1328	0.4445	3	2477	370.3007
+Relativity and Electromagnetism Interactions	-0.8496	-0.1058	2	2477	391.3959
+Radio Frequency Device Identification	-0.9983	0.2337	4	2477	448.7986
+Emotion Detection from Speech Signals	-0.7715	0.2714	4	2477	465.4151
+Advancements in Speech Recognition Technologies	-0.994	0.222	4	2477	400.9134
+Spermatogenesis and Testicular Cell Interactions	0.5475	-0.2598	6	2477	624.0198
+Neural Network Dynamics and Plasticity	-0.0293	0.0535	8	2477	523.8205
+Spin Crossover in Metal Complexes	-0.4983	-0.6719	7	2477	432.2905
+Critical Dynamics in Spin Systems	-0.9612	-0.1495	2	2477	359.7881
+Regeneration and Repair in Spinal Cord Injury	0.5673	-0.0028	8	2477	537.9774
+Rehabilitation and Quality of Life in Spinal Cord Injury	0.6191	0.2987	1	2477	291.2324
+Diagnosis and Treatment of Spinal Conditions	1.0173	0.1168	1	2477	328.6013
+Congenital and Acquired Spinal Anomalies	1.081	0.1192	1	2477	446.5721
+Management of Spinal Metastatic Disease	1.0675	0.0031	1	2477	500.3195
+Genetics and Treatment of Spinal Muscular Atrophy	0.7084	-0.0557	8	2477	679.5384
+Shape-Preserving Spline Interpolation Techniques	-0.9265	0.2438	4	2477	367.5321
+Spontaneous Combustion in Coal Mines	-0.6259	-0.2854	2	2477	376.9754
+Intracranial Hypotension and Hematoma Complications	1.063	0.1513	1	2477	370.9955
+Psychological Aspects in Sports	0.0982	0.6745	3	2477	229.0309
+Sport's Role in Culture and Politics	-0.0533	0.8847	3	2477	186.2931
+Economic Analysis in Professional Sports	-0.3121	0.5827	3	2477	275.2903
+Spray Deposition and Plant Surfaces	-0.1014	-0.3192	5	2477	405.5168
+Sheet Metal Forming and Plasticity	-0.982	-0.2793	2	2477	315.2989
+Metal Ion Complexation with Ligands	-0.2403	-0.6641	7	2477	509.2891
+Stable Isotope Applications in Ecology	-0.084	-0.0938	5	2477	500.6525
+Star Formation and Interstellar Medium	-0.7684	-0.1565	2	2477	80.4419
+Properties of Univalent and Bi-Univalent Functions	-1.0987	0.2717	4	2477	184.7285
+Statins in Cardiovascular Disease Prevention and Treatment	0.9437	0.0453	1	2477	613.8922
+Creep Behavior of Heat-Resistant Steels	-0.9856	-0.3845	2	2477	299.5128
+Design and Stability of Steel Structures	-0.8585	-0.1094	2	2477	129.1823
+Slag Behavior in Steelmaking Processes	-0.9495	-0.452	2	2477	169.2257
+Stellar Evolution and Dynamics	-0.795	-0.1358	2	2477	60.9214
+Stereo Vision and 3D Reconstruction	-0.9345	0.2787	4	2477	332.1561
+Microbial Steroid Hydroxylation and Degradation	0.2502	-0.5584	7	2477	698.4636
+Steroidal Alkaloids in Medicinal Plants	0.1311	-0.5618	7	2477	781.0274
+Stochastic Optimization and Simulation Techniques	-0.8884	0.2523	4	2477	418.1756
+Stochastic Differential Equations and Limit Theorems	-0.8762	0.2802	4	2477	194.8861
+Noise-Induced Dynamics and Transitions	-0.726	-0.1514	2	2477	448.2799
+Urban Stormwater Management and Quality	-0.3731	-0.0561	5	2477	278.1906
+Mechanisms and Outcomes of Strangulation and Asphyxia	0.8411	0.1667	1	2477	385.0401
+Business Environment and Strategic Management	-0.3593	0.564	3	2477	370.4755
+Environmental Impact Assessment and Sustainability	-0.0618	0.3249	3	2477	306.6879
+Strawberry Breeding and Cultivation Techniques	-0.3213	-0.103	5	2477	210.8351
+Streptococcal Diseases and Complications	0.9075	-0.026	1	2477	710.1258
+Pneumococcal Disease and Vaccination	0.8431	0.0161	1	2477	611.7466
+Biosynthesis and Engineering of Streptomyces Antibiotics	0.2562	-0.5236	7	2477	743.0996
+Stress, Cortisol, and Neuroendocrine Responses	0.5444	0.0912	8	2477	573.388
+Flexible and Stretchable Sensor Technologies	-0.6966	-0.2962	2	2477	765.4382
+Acute Ischemic Stroke Treatment and Outcomes	0.9354	0.1646	1	2477	458.0472
+Innovations in Stroke Rehabilitation Technologies	0.1888	0.1904	8	2477	422.9941
+Quantum Electrodynamics in Intense Fields	-0.9025	-0.2164	2	2477	284.5649
+Phosphorus Recovery from Wastewater	-0.4698	-0.2643	5	2477	449.937
+Stuttering Causes and Treatments	0.2466	0.4151	3	2477	245.1581
+Management and Outcomes of Intracranial Aneurysms	1.0462	0.1094	1	2477	415.6251
+Determinants and Impacts of Subjective Well-Being	0.1561	0.5756	3	2477	353.8876
+Addiction Treatment and Harm Reduction Strategies	0.6599	0.3419	1	2477	333.3439
+Diversity and Evolution of Cave Fauna	0.0907	-0.1739	5	2477	285.1159
+Advancements in Sugar Beet and Cane Processing	-0.0454	-0.2302	5	2477	266.3562
+Enzymatic Conversion of Rare Sugars	0.3724	-0.4413	6	2477	789.1647
+Suicide Risk and Prevention Strategies	0.6185	0.3848	3	2477	377.7395
+Synthesis and Reactions of Heterocycles	-0.041	-0.6194	7	2477	612.1515
+Detection and Decontamination of Chemical Warfare Agents	-0.1787	-0.3893	7	2477	828.4682
+Advanced Image Denoising and Restoration Techniques	-0.9697	0.2118	4	2477	446.5201
+Superconducting Devices for Photon Detection	-1.0534	-0.1952	2	2477	459.4144
+Development and Testing of Superconducting Magnets	-1.1338	-0.1205	2	2477	439.5383
+Supercritical CO2 in Chemical Engineering	-0.5244	-0.5361	2	2477	445.4452
+Heat Transfer in Supercritical Fluids	-0.902	-0.2338	2	2477	148.4884
+Superfluidity and Quantum Phenomena in Helium	-0.9024	-0.3538	2	2477	423.2979
+Wettability and Surface Interactions	-0.683	-0.4418	2	2477	689.5494
+Supernovae, Gamma-Ray Bursts, and Progenitors	-0.701	-0.1353	2	2477	104.9414
+Optimization Models in Supply Chain Management	-0.5368	0.4482	3	2477	182.2477
+Molecular and Supramolecular Structures	-0.3634	-0.7544	7	2477	333.3847
+Piezoelectric Acoustic Wave Sensor Technologies	-0.9719	-0.1344	4	2477	579.9444
+Dynamics and Growth of Crystal Surfaces	-0.9109	-0.2215	2	2477	470.6906
+Simulation in Surgical Training and Education	1.0301	0.1624	1	2477	430.8615
+Historical Perspectives in Medicine and Surgery	0.8701	0.2125	1	2477	682.1546
+Robotic Systems in Minimally Invasive Surgery	-0.3291	0.1315	4	2477	480.5359
+Prevention and Management of Surgical Infections	1.113	0.0837	1	2477	492.8673
+Survey Design and Response Rates	0.1908	0.5117	3	2477	490.2965
+Sustainable Agricultural Practices and Innovations	-0.155	0.392	3	2477	339.1764
+Economic Development and Innovation Strategies	-0.2378	0.5395	3	2477	377.931
+Innovations in Iron Ore Reduction and Sintering	-0.8604	-0.37	2	2477	207.4907
+Advanced Error-Correcting and Stochastic Codes	-1.0149	0.1971	4	2477	513.6233
+Diagnosis and Management of Syncope	1.0043	0.1289	1	2477	463.6336
+Synovial and Tendon Sheath Tumors	1.115	0.0387	1	2477	411.715
+Synthetic Aperture Radar Imaging Techniques	-0.9328	0.1027	4	2477	396.6098
+Modeling and Analysis of Metabolic Networks	-0.0261	-0.19	6	2477	854.1212
+Syphilis Diagnosis and Epidemiology	0.8286	0.0803	1	2477	552.2027
+Nonlinear and Linear System Identification Techniques	-1.0573	0.1561	4	2477	363.8363
+Systemic Capillary Leak Syndrome Research	0.7486	0.218	1	2477	670.772
+Pathogenesis and Treatment of Lupus	0.8964	-0.0446	1	2477	317.4528
+Systemic Sclerosis and Related Conditions	0.9633	-0.0214	1	2477	275.376
+Complex Systems and Organizational Dynamics	-0.3117	0.4984	3	2477	323.4224
+T Cell Function and Immune Regulation	0.5492	-0.2311	6	2477	456.5808
+Advancements in Tuberculosis Diagnosis and Treatment	0.6771	-0.0541	9	2477	648.4565
+Tuberculosis in ENT and Gastrointestinal Systems	-0.0555	0.1579	4	2477	697.4494
+TGF-β in Fibrosis and Healing	0.7796	-0.2818	6	2477	889.1147
+Transient Receptor Potential Channels in Physiology	0.4417	-0.2481	6	2477	898.6389
+Takotsubo Cardiomyopathy and Related Conditions	1.0986	0.0904	1	2477	324.1794
+Bioactive Compounds in Chinese Herbal Medicine	0.434	-0.4066	7	2477	779.1954
+Kalman Filtering in Target Tracking	-1.0583	0.1536	4	2477	441.1321
+Taste Receptors and Sensory Modulation	0.3662	-0.2033	8	2477	799.1248
+Taurine's Role in Health and Disease	0.578	-0.3232	6	2477	859.6598
+Taxane-Based Cancer Treatments and Toxicities	0.7059	-0.3865	6	2477	637.0515
+Global Taxation Systems and Challenges	-0.2216	0.748	3	2477	159.3165
+Health Benefits of Tea Polyphenols	0.4407	-0.3679	6	2477	719.3102
+Teacher Learning and Professional Development	-0.0898	0.7979	3	2477	158.1164
+Technetium and Rhenium Complexes in Medicine	0.0313	-0.5397	7	2477	413.3073
+Adoption and Impact of ICT in Education	-0.27	0.6557	3	2477	291.6787
+Tectonic and Climatic Influences on Landscapes	-0.4238	-0.0365	5	2477	239.2472
+Tectonic Evolution and Crustal Dynamics	-0.4615	-0.0894	5	2477	144.9289
+Telemedicine and Telehealth Innovations	0.7646	0.2407	1	2477	516.572
+Taxonomy and Phylogeny of Fish Species	0.1279	-0.1794	5	2477	202.5815
+Telomere Dynamics and Cellular Aging	0.4321	-0.3606	6	2477	908.838
+Temporomandibular Joint Dysfunction and Treatment	0.8253	0.065	1	2477	177.2227
+Tendon Injury and Regeneration Research	0.9282	0.0326	1	2477	394.703
+Design and Analysis of Adaptive Structures	-0.8356	0.0032	2	2477	349.4269
+Eigenvalue Problems in Tensors and Matrices	-1.0636	0.2626	4	2477	253.8708
+Tephritid Fruit Fly Management Strategies	0.1258	-0.256	5	2477	164.2575
+Advancements in Terahertz Generation and Detection	-0.9864	-0.1591	2	2477	526.2429
+Terpenoid and Sterol Biosynthesis Pathways	0.2536	-0.4686	5	2477	787.927
+Evolution and Impact of Terrorism	-0.1028	0.837	3	2477	201.3181
+Testicular Cancer and Germ Cell Tumors	1.0889	-0.1117	1	2477	478.4416
+Testosterone, Steroids, and Health Impacts	0.7535	-0.0379	1	2477	555.1158
+Synthesis and Applications of Tetrazoles	-0.2821	-0.7275	7	2477	449.3267
+Influence of Yarn and Fabric Parameters	-0.6768	-0.1963	2	2477	70.6794
+Innovations in Performance and Theatre	-0.0852	0.9139	3	2477	68.2058
+Pharmacokinetics and Toxicity of Theophylline	0.3957	-0.2022	7	2477	561.0602
+Cognitive and Social Development in Children	0.0966	0.362	3	2477	288.9377
+High-Temperature Corrosion and Oxidation Coatings	-0.9881	-0.4509	2	2477	339.59
+Thermal Diffusion in Fluid Mixtures	-0.5383	-0.4096	2	2477	680.1924
+Thermoacoustic Engines and Cryocoolers	-0.9118	-0.2133	2	2477	353.8129
+Advancements in Thermoelectric Material Properties	-0.8242	-0.3863	2	2477	635.3802
+Thermoluminescence and Optical Dosimetry Materials	-0.7087	-0.3061	2	2477	461.0528
+Human Thermoregulation and Heat Stress	0.5772	0.1015	1	2477	460.3254
+Thiamine Deficiency and Neurological Disorders	0.6247	-0.0778	8	2477	853.7263
+Advancements in Thin-Film Transistor Technology	-1.0408	-0.2023	2	2477	511.6357
+Thiol-Disulfide Redox Systems in Biology	0.5054	-0.4678	6	2477	777.4113
+Thoracic Outlet and Vena Cava Syndromes	1.1239	0.0755	1	2477	538.5451
+Management and Outcomes of Chest Trauma	1.184	0.0866	1	2477	401.6332
+Pathophysiology and Treatment of TTP	0.9961	-0.0347	1	2477	371.3952
+Thymectomy's Role in Myasthenia Gravis	0.9685	0.001	1	2477	675.8636
+Therapeutic Uses of Nigella and Saffron	0.4769	-0.3517	6	2477	837.4819
+Diagnosis and Management of Thyroid Cancer	1.0586	-0.0749	1	2477	524.2647
+Thyroid Function and Related Disorders	0.884	-0.0548	1	2477	445.8519
+Advanced Photocatalytic Materials and Applications	-0.6445	-0.5434	2	2477	587.2069
+Diversity and Transmission of Tick-borne Pathogens	0.6056	-0.1241	9	2477	508.9875
+Optimization in Timetabling and Staff Scheduling	-0.6901	0.3816	4	2477	290.1594
+Tissue Engineering for Organ Regeneration	0.6656	-0.1326	1	2477	640.2763
+Properties and Applications of Titanium Alloys	-0.859	-0.4524	2	2477	328.3307
+Microstructure and Properties of TiAl Alloys	-0.9916	-0.4912	2	2477	301.3869
+Dynamics and Control in Tokamak Plasmas	-1.0105	-0.2427	2	2477	146.1036
+Toll-like Receptors and Innate Immunity	0.5169	-0.2741	6	2477	742.3041
+Topoisomerase Inhibitors in Cancer Therapy	0.4468	-0.5148	6	2477	793.2813
+Properties and Structures of Topological Spaces	-1.097	0.282	4	2477	178.4774
+Topological Phases in Superconductors	-0.7553	-0.2995	2	2477	483.8375
+Structural Topology and Shape Optimization	-0.9275	-0.0028	2	2477	313.9501
+Stereoselective and Asymmetric Total Synthesis	-0.2244	-0.8052	7	2477	306.1801
+Tourism Impacts and Community Perceptions	-0.1786	0.6405	3	2477	141.8781
+Toxic Alcohol Poisoning and Effects	0.3809	0.0023	1	2477	701.3203
+Toxicity and Ecology of Dinoflagellates	0.1274	-0.3411	5	2477	534.7822
+Toxoplasma Gondii Infection and Immunity	0.6062	-0.1723	9	2477	471.2909
+Management and Treatment of Tracheal Stenosis	1.1205	0.0664	1	2477	414.7859
+Trade Unions and Labor Policies	-0.1382	0.8289	3	2477	134.5813
+Traffic Flow and Control Systems	-0.8456	0.2035	4	2477	341.7346
+Driver Behavior and Traffic Safety	0.0989	0.3046	3	2477	403.1156
+Optimization in Railway Operations and Energy Efficiency	-0.9279	0.2104	4	2477	398.6913
+Training and Injury in Athletes	0.493	0.2365	1	2477	124.7374
+Noninvasive Brain Stimulation Techniques	0.6192	0.1469	8	2477	420.1668
+Identity and Migration in German Literature	-0.0912	0.9393	3	2477	159.5541
+Advancements in Skin Drug Delivery Systems	0.3699	-0.4004	7	2477	521.4095
+Transformative Learning in Adult Education	-0.0742	0.7199	3	2477	229.9988
+Blood Transfusion and Management Strategies	1.094	0.0247	1	2477	420.2951
+Transglutaminase in Coagulation and Disease	0.6134	-0.3674	6	2477	684.1148
+Synthesis and Reactivity of Organometallic Complexes	-0.4131	-0.7815	7	2477	345.4795
+Cultural and Cognitive Translation Studies	-0.1167	0.8651	3	2477	115.5336
+Transnationalism in American Literary Studies	-0.0979	0.9503	3	2477	192.0203
+Global Feminist Movements and Politics	-0.0259	0.8829	3	2477	293.0351
+Immunosuppressive Strategies in Organ Transplantation	1.0038	-0.0847	1	2477	540.5146
+Role of Transposable Elements in Genomes	0.3276	-0.2732	6	2477	726.8109
+Trauma, PTSD, and Mental Health	0.5723	0.4131	3	2477	356.4844
+Traumatic Brain Injury and Concussion Research	0.822	0.1763	1	2477	548.1265
+Impact of Organotin Compounds on Marine Life	0.0046	-0.235	5	2477	476.4224
+Trichinella Infections and Immunity	0.5443	-0.1473	9	2477	301.5476
+Trichomonas Vaginalis Infection and Resistance	0.6127	-0.2195	9	2477	636.3381
+Modeling and Optimization of Catalytic Reactors	-0.7	-0.3945	2	2477	232.8474
+Trigeminal Neuralgia Treatments and Outcomes	1.0792	0.127	1	2477	409.4483
+Therapeutic and Toxicological Effects of Triptolide and Celastrol	0.3653	-0.3115	6	2477	1001.0274
+Bioactive Compounds from Medicinal Plants	0.285	-0.5779	7	2477	656.4134
+Tritium Handling and Environmental Impact	-0.4253	-0.2225	2	2477	255.4673
+Cultivation and Management of Tropical Crops	-0.0404	-0.1994	5	2477	355.7832
+Molecular and Epidemiological Studies on Trypanosoma	0.5326	-0.2489	9	2477	661.2073
+Kynurenine Pathway and Health Implications	0.5996	-0.2421	6	2477	935.7505
+Tuberous Sclerosis Complex and Tumors	0.946	-0.0606	1	2477	718.2346
+Tubulin Polymerization Inhibitors in Cancer	0.426	-0.5277	7	2477	655.9922
+Tunneling Mechanics and Stability Analysis	-0.7301	-0.0805	2	2477	157.1345
+Aerodynamics and Dynamics in Turbomachinery	-0.9855	-0.0947	2	2477	172.0607
+Dynamics and Modeling of Turbulent Flows	-0.9123	-0.126	2	2477	211.8743
+Turfgrass Cultivation and Sustainability	-0.3982	-0.3549	5	2477	301.0762
+Advancements in Two-Photon Imaging Techniques	-0.4164	-0.3152	2	2477	669.5465
+Type 1 Diabetes Pathogenesis and Management	0.7996	-0.1002	1	2477	454.8761
+Unmanned Aerial Vehicle Network Integration	-1.0203	0.2192	4	2477	405.4028
+Impacts of UV Radiation on Plants and Ecosystems	0.057	-0.3138	5	2477	616.9449
+Ultimate Strength of Corroded Ship Structures	-0.8423	-0.1344	2	2477	204.6552
+Ultra-Wideband Communication Systems	-1.1488	0.1737	4	2477	356.5399
+Advancements in Vacuum Systems and Components	-0.9952	-0.3417	2	2477	456.8269
+Ultrasonic Techniques for Flow and Gas Measurement	-0.857	0.0222	4	2477	522.6466
+Advanced Techniques in Ultrasound Imaging	-0.3935	0.0497	4	2477	439.7504
+Probabilistic Structural Reliability and Optimization	-0.839	0.0798	4	2477	402.4753
+Uncertainty in Statistical and Financial Models	-0.4315	0.1288	4	2477	811.0394
+Underwater Acoustic Propagation and Communication	-0.9323	0.0887	4	2477	314.3834
+Endoplasmic Reticulum Stress Mechanisms	0.5747	-0.371	6	2477	837.8145
+University-Industry Partnerships and Innovation	-0.2231	0.5876	3	2477	268.7117
+Hydraulic and Mechanical Behavior of Unsaturated Soils	-0.577	-0.1535	5	2477	187.5885
+Tumors and Anomalies of Urachus and Urethra	1.1304	-0.0283	1	2477	317.0155
+Uranium Speciation and Environmental Behavior	-0.3604	-0.428	7	2477	552.6524
+Urban Nature and Human Well-being	0.052	0.3295	3	2477	484.523
+Urban Heat and Airflow Dynamics	-0.4785	-0.0546	5	2477	258.3633
+Urban Housing Markets and Socioeconomic Impacts	-0.2116	0.6702	3	2477	194.8772
+Urban Transportation Systems and Behavior	-0.3418	0.4224	3	2477	246.5292
+Spatial Politics and Urban Imaginaries	-0.1271	0.7708	3	2477	132.3665
+Sustainable Urban Underground Space Utilization	-0.5356	0.3398	3	2477	518.1883
+Surgical Techniques for Urethral and Hypospadias Repair	1.1289	-0.0159	1	2477	190.812
+Automated Urinalysis and Microscopy Techniques	0.7242	-0.0386	1	2477	496.226
+Diagnosis and Treatment of Kidney Stones	0.9641	-0.0781	1	2477	220.7973
+Explorations of Utopian and Dystopian Themes	-0.096	0.9519	3	2477	183.9806
+Vaccine Hesitancy and Public Trust	0.5898	0.2182	1	2477	637.5465
+Dynamics and Characteristics of Vacuum Arcs	-1.1041	-0.1307	2	2477	474.2985
+Advancements in Heart Valve Surgery	1.152	0.0622	1	2477	276.3216
+Vanadium Complexes in Biochemistry and Catalysis	-4e-04	-0.6072	7	2477	558.6607
+Vanadium Oxides Phase Transitions	-0.87	-0.379	2	2477	657.1355
+Molecular Dynamics and Thermodynamics of Fluids	-0.7356	-0.4777	2	2477	461.1787
+Chronic Venous Insufficiency and Varicose Veins	1.1058	0.0507	1	2477	413.7373
+Complications and Innovations in Vascular Access	1.0253	0.0758	1	2477	564.3166
+Complications in Vascular Access and Interventions	1.1846	0.0714	1	2477	379.6874
+Diagnosis and Treatment of Vascular Anomalies	1.0863	-0.0032	1	2477	521.8207
+Remote Sensing for Vegetation Analysis	-0.5603	0.0257	5	2477	349.3647
+Advanced Vehicle Dynamics and Stability Control	-1.0212	0.0726	4	2477	343.102
+Optimization in Freight and Logistics Networks	-0.6696	0.3743	4	2477	258.9563
+Communication and Protocols in Vehicular Networks	-1.045	0.2396	4	2477	364.2779
+Diagnosis and Treatment of Thromboembolism	1.0696	0.084	1	2477	592.1037
+Prevention and Management of Ventilator-Associated Pneumonia	0.9154	0.0914	1	2477	396.7727
+Complications of Myocardial Infarction	1.1817	0.0606	1	2477	285.1241
+Fossil Vertebrates and Evolutionary Insights	-0.0357	-0.1076	5	2477	331.993
+Anesthesia and Analgesia in Animals	0.7013	-0.1645	9	2477	189.6035
+Cardiovascular Health in Animals	0.7466	-0.1561	9	2477	171.4898
+Trends and Challenges in Veterinary Education	0.1772	0.0556	9	2477	306.0561
+Tumors in Domestic and Wild Animals	0.7709	-0.2085	9	2477	192.4603
+Reproductive and Gastrointestinal Health in Pets	0.7673	-0.1888	9	2477	157.1409
+Advanced Vibration Damping Technologies	-0.9427	-0.1513	2	2477	370.1821
+Ultrafast Vibrational Dynamics and Spectroscopy	-0.5493	-0.4748	2	2477	501.9016
+Victorian and Neo-Victorian Literary Studies	-0.0904	1.0071	3	2477	135.8456
+Victorian Poetics and Aestheticism	-0.0967	1.0068	3	2477	124.4957
+Advanced Video and Image Compression Techniques	-1.0924	0.2037	4	2477	426.1596
+Advanced Techniques in Object Tracking	-0.9728	0.2669	4	2477	358.5822
+Techniques for Video Content Summarization	-0.9599	0.2843	4	2477	449.2261
+Epidemiology and Immunology of Viral Diseases	0.6323	-0.0474	9	2477	574.6548
+Emerging Viral Hemorrhagic Fever Threats	0.5202	0.0226	9	2477	681.2477
+Antioxidant Properties of Olive Oil and By-products	0.2336	-0.386	5	2477	401.5027
+Advancements in Autopsy and Postmortem Imaging	0.8302	0.1763	1	2477	538.4459
+Diagnosis and Treatment of Vision Disorders	0.7215	0.0644	1	2477	171.4543
+Mechanisms of Visual Attention and Cognition	0.0111	0.2127	8	2477	435.6646
+Mechanisms and Disorders in Visual Perception	0.1667	0.0869	8	2477	469.6283
+Vision-Based Robotic Control Systems	-1.013	0.1695	4	2477	356.7025
+Vitamin C in Health and Disease	0.6156	-0.1977	6	2477	978.549
+Vitamin D's Role in Health and Disease	0.8184	-0.0853	1	2477	706.8814
+Advancements in Vitreoretinal Surgical Techniques	0.8934	-0.0068	1	2477	97.1319
+Diagnosis and Treatment of Voice Disorders	0.3189	0.1995	1	2477	256.2302
+Health Risks of Volatile Organic Compounds	0.4548	3e-04	8	2477	527.1139
+Dynamics and Hazards of Volcanic Activity	-0.4274	-0.0775	5	2477	190.4381
+Geospatial Data and GIS Technologies	-0.5362	0.3169	4	2477	416.7822
+Volunteering and Nonprofit Sector Dynamics	-0.0597	0.7428	3	2477	303.485
+Vortex-Induced Vibrations in Cylindrical Structures	-0.9104	-0.1085	2	2477	220.4319
+Health Systems and Social Vulnerability	0.4971	0.4206	3	2477	276.4249
+Wireless Body Area Networks for Healthcare	-1.0003	0.1745	4	2477	422.6902
+Wage Dynamics and Employment Trends	-0.2279	0.7318	3	2477	150.0542
+Hemodynamics and Vascular Biology	0.3153	-0.0575	1	2477	573.2691
+Metabolic Pathways in Cancer Progression	0.6033	-0.3737	6	2477	826.2231
+Optimization in Automated Warehouse Systems	-0.7182	0.2786	4	2477	335.9809
+Vitamin K, Warfarin, and Anticoagulation	0.7049	-0.1741	1	2477	927.5028
+Water Distribution Network Optimization	-0.6827	0.0287	2	2477	337.3056
+Global Water Resource Management Strategies	-0.2498	0.1975	5	2477	374.8673
+Optimization in Water Resource Management	-0.5357	0.0473	5	2477	309.9677
+Water Quality and Sanitation Impact	0.1352	0.0757	5	2477	526.3084
+Plant Responses to Waterlogging Stress	0.1308	-0.3707	5	2477	376.3759
+Hydrodynamic Behavior of Maritime Structures	-0.7704	-0.0474	2	2477	263.4505
+Wavelet Frames and Signal Processing	-1.102	0.23	4	2477	328.5235
+Friction, Wear, and Lubrication Studies	-0.9073	-0.2786	2	2477	302.4444
+Advanced Weather Prediction Techniques	-0.577	0.0113	5	2477	102.3623
+Advancements in Welding Processes and Materials	-1.0169	-0.3881	2	2477	325.4575
+Dynamic Interaction in Railway Systems	-0.9292	-0.1352	2	2477	265.6747
+Impact of Vibration on Health and Structures	0.0077	0.0815	8	2477	446.1648
+Wikipedia's Role in Knowledge Sharing	-0.2977	0.4404	3	2477	602.4289
+Wildfire Behavior and Environmental Impacts	-0.4105	0.009	5	2477	416.1842
+Interactions and Dynamics in Wildlife Populations	0.0213	-0.0857	5	2477	264.3988
+Genetic and Clinical Aspects of Williams Syndrome	0.6636	0.0946	1	2477	653.0848
+Wilms Tumor and Kidney Anomalies	0.8266	-0.2273	1	2477	695.5081
+Copper Metabolism in Wilson's Disease	0.5732	-0.3098	6	2477	949.66
+Wind Erosion and Sand Dune Dynamics	-0.4301	-0.0799	5	2477	351.7185
+Aerodynamics and Dynamics of Wind Turbines	-0.8437	-0.0788	2	2477	270.1028
+Wireless Indoor and Outdoor Localization Techniques	-1.062	0.2004	4	2477	428.7496
+Medium Access Control in Wireless Networks	-1.1087	0.2344	4	2477	329.5763
+Efficient Wireless Energy Transfer Technologies	-1.068	0.1172	4	2477	434.6376
+Energy Efficiency and Routing in WSNs	-1.0547	0.2473	4	2477	364.8212
+Optical Wireless and Free-Space Communications	-1.1049	0.0647	4	2477	394.185
+Complications and Management of Third Molars	0.4243	0.0922	1	2477	240.4342
+Wnt Signaling and Cadherin in Cancer	0.5643	-0.3162	6	2477	816.4368
+Mechanical and Chemical Properties of Wood	-0.5917	-0.2852	2	2477	210.632
+Innovative Office and Workspace Design	-0.1701	0.5063	3	2477	359.7143
+Gender Roles and Workplace Dynamics	-0.0716	0.7151	3	2477	286.6781
+Postcolonial and Transnational Literary Studies	-0.0972	1.0063	3	2477	153.3064
+Military Strategy and International Relations	-0.1195	1.0039	3	2477	152.659
+X-ray Emissions in Stellar Systems	-0.7386	-0.1363	2	2477	94.8497
+Advanced X-ray Imaging Techniques	-0.6394	-0.2283	2	2477	608.0946
+Multilayer Optics for X-ray and EUV	-0.9779	-0.3108	2	2477	461.727
+X-ray Spectroscopy in Atomic and Molecular Systems	-0.8521	-0.4277	2	2477	509.755
+Advancements in Xenotransplantation Techniques	0.7378	-0.1138	1	2477	620.9088
+Yeast Taxonomy and Ecological Roles	0.2887	-0.3647	5	2477	369.8963
+Yersinia Infections and Virulence Mechanisms	0.3683	-0.0644	9	2477	724.5423
+Zebrafish in Biomedical Studies	0.3043	-0.145	8	2477	892.8065
+Zeolite Synthesis and Catalytic Applications	-0.6165	-0.5938	2	2477	456.7935
+Zero-Valent Iron in Water Remediation	-0.4563	-0.3418	5	2477	421.3951
+Zinc's Role in Health and Nutrition	0.5895	-0.2337	6	2477	728.0632
+Zinc Oxide for Sensing and Optoelectronics	-0.9034	-0.4418	2	2477	541.3164
+Optical and Electronic Properties of ZnSe	-1.0796	-0.3524	2	2477	434.8835
+Oncogenes in Cancer Progression	0.5547	-0.3833	6	2477	816.9735
+Role of Noncoding RNAs in Cancer	0.6818	-0.3638	6	2477	782.8477
+p-adic Systems and Quantum Physics	-0.7786	-0.0171	2	2477	452.1363
